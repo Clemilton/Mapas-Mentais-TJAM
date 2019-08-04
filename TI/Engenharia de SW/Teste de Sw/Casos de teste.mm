@@ -1,0 +1,32 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1564367893774" ID="ID_1828421514" LINK="Processos%20de%20Teste.mm" MODIFIED="1564368827520" TEXT="Casos de teste">
+<icon BUILTIN="full-3"/>
+<node COLOR="#0033ff" CREATED="1564368591020" ID="ID_1580908698" MODIFIED="1564569518765" POSITION="right" TEXT="garante que os requisitos -&gt; sejam PLENAMENTE atendidos">
+<cloud/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#0033ff" CREATED="1564368636767" ID="ID_922518538" MODIFIED="1564569524206" POSITION="right" TEXT="cont&#xe9;m um conjunto de entradas/sa&#xed;das"/>
+<node COLOR="#0033ff" CREATED="1564368657466" ID="ID_893205882" MODIFIED="1564569524206" POSITION="right" TEXT="identificar defeitos na estrutura interna do software"/>
+<node COLOR="#0033ff" CREATED="1564368672265" ID="ID_146553037" MODIFIED="1564569524205" POSITION="right" TEXT="Testes que exercitem todas as estruturas utilizadas"/>
+<node CREATED="1564368695832" ID="ID_285286955" MODIFIED="1564569530511" POSITION="right" TEXT="CAMPOS">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1564368700591" ID="ID_1535900105" MODIFIED="1564569545242" TEXT="descri&#xe7;&#xe3;o"/>
+<node COLOR="#338800" CREATED="1564368752844" ID="ID_1541453074" MODIFIED="1564569545242" TEXT="pr&#xe9;-condi&#xe7;&#xf5;es, "/>
+<node COLOR="#338800" CREATED="1564368755269" ID="ID_1536236119" MODIFIED="1564569545241" TEXT="entradas"/>
+<node COLOR="#338800" CREATED="1564368781246" ID="ID_1759875202" MODIFIED="1564569545241" TEXT="a&#xe7;&#xf5;es"/>
+<node COLOR="#338800" CREATED="1564368789205" ID="ID_434568043" MODIFIED="1564569545241" TEXT=" pontos de observa&#xe7;&#xe3;o"/>
+<node COLOR="#338800" CREATED="1564368798410" ID="ID_1435414505" MODIFIED="1564569545241" TEXT="pontos de controle"/>
+<node COLOR="#338800" CREATED="1564368805066" ID="ID_330917311" MODIFIED="1564569545241" TEXT="resultados esperados "/>
+<node COLOR="#338800" CREATED="1564368810042" ID="ID_605707186" MODIFIED="1564569545241" TEXT="e p&#xf3;s- condi&#xe7;&#xf5;es."/>
+</node>
+<node CREATED="1564368819264" ID="ID_454873224" MODIFIED="1564569560493" POSITION="right" TEXT="motivados por diferentes fatores">
+<node COLOR="#0033ff" CREATED="1564368843575" ID="ID_1221987143" MODIFIED="1564569566945" TEXT="inclui subconjunto de requisitos"/>
+<node COLOR="#0033ff" CREATED="1564368859105" ID="ID_1467242735" MODIFIED="1564569566945" TEXT="e dos riscos envolvidos"/>
+<node COLOR="#0033ff" CREATED="1564368864736" ID="ID_1403632422" MODIFIED="1564569566944" TEXT="no projetos"/>
+</node>
+<node CREATED="1564368927759" ID="ID_496196218" MODIFIED="1564368937286" POSITION="right" TEXT="Respons&#xe1;vel">
+<node CREATED="1564368938694" ID="ID_1236028797" MODIFIED="1564368944257" TEXT="Analista de testes"/>
+</node>
+</node>
+</map>
