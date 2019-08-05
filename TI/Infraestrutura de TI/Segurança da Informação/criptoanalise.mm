@@ -7,29 +7,104 @@
 <node COLOR="#0033ff" CREATED="1564697657207" ID="ID_1526012059" MODIFIED="1564850934029" STYLE="bubble" TEXT="&gt; A realiza&#xe7;&#xe3;o da criptan&#xe1;lise depende da quantidade&#xa; de informa&#xe7;&#xf5;es que se tem &#xe0; disposi&#xe7;&#xe3;o e qu&#xe3;o poss&#xed;-&#xa;vel &#xe9; manipul&#xe1;-las."/>
 <node COLOR="#338800" CREATED="1564697734804" HGAP="19" ID="ID_585201312" MODIFIED="1564697924834" TEXT="05 Tipos de Ataques" VSHIFT="14">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564697753958" ID="ID_370803592" MODIFIED="1564697919955" TEXT="1. Apenas texto cifrado - CypherText Only">
-<node COLOR="#0033ff" CREATED="1564697936102" ID="ID_839046063" MODIFIED="1564698736114" TEXT="&gt; Reconhecimento apenas do algoritmo de criptografia"/>
-<node COLOR="#0033ff" CREATED="1564697946471" ID="ID_288704190" MODIFIED="1564698736114" TEXT="&gt; e do pr&#xf3;prio texto cifrado"/>
+<node COLOR="#006699" CREATED="1564697753958" ID="ID_370803592" MODIFIED="1564956873572" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>1. Apenas texto cifrado - CypherText Only</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000099">&gt; Reconhecimento apenas do algoritmo de criptografia e do pr&#243;prio texto cifrado</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564697779103" ID="ID_938349451" MODIFIED="1564697991483" TEXT="2. Texto claro conhecido - Known-plaintext:" VSHIFT="12">
-<node COLOR="#0033ff" CREATED="1564697979055" ID="ID_1599344302" MODIFIED="1564698736114" TEXT="&gt; O atacante tem a informa&#xe7;&#xe3;o dos pares de texto claro de entrada "/>
-<node COLOR="#0033ff" CREATED="1564697986244" ID="ID_76763876" MODIFIED="1564698736114" TEXT="&gt; e seu respectivo texto cifrado de sa&#xed;da;"/>
+<node COLOR="#006699" CREATED="1564697779103" ID="ID_938349451" MODIFIED="1564956880164" STYLE="bubble" VSHIFT="12">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>2. Texto claro conhecido - Known-plaintext:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000099">&gt; O atacante tem a informa&#231;&#227;o dos pares de texto claro de entrada e seu respectivo texto cifrado de sa&#237;da;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564697836024" HGAP="25" ID="ID_231262188" MODIFIED="1564698014596" TEXT="3. Texto claro escolhido -  Choosen-Plaintext:" VSHIFT="16">
-<node COLOR="#0033ff" CREATED="1564698017674" ID="ID_1166290144" MODIFIED="1564698736114" TEXT="&gt; O atacante n&#xe3;o sabe apenas o par de entrada e sa&#xed;da"/>
-<node COLOR="#0033ff" CREATED="1564698029151" ID="ID_359857120" MODIFIED="1564698736113" TEXT="&gt; capaz de manipular a entrada e avaliar a sua respectiva sa&#xed;da;"/>
+<node COLOR="#006699" CREATED="1564697836024" HGAP="25" ID="ID_231262188" MODIFIED="1564956884276" STYLE="bubble" VSHIFT="16">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>3. Texto claro escolhido -&#160;&#160;Choosen-Plaintext:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000099">&gt; O atacante n&#227;o sabe apenas o par de entrada e sa&#237;da, &#233; capaz de manipular a entrada e avaliar sua respectiva sa&#237;da;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564697880056" HGAP="22" ID="ID_1700745215" MODIFIED="1564698079638" TEXT="4. Texto Cifrado Escolhido - Choosen-CypherText:" VSHIFT="16">
-<node COLOR="#0033ff" CREATED="1564698081331" ID="ID_819868317" MODIFIED="1564698736113" TEXT="&gt; O atacante &#xe9; capaz de fazer o caminho reverso"/>
-<node COLOR="#0033ff" CREATED="1564698103465" ID="ID_195222391" MODIFIED="1564698736113" TEXT="&gt; Onde a partir de um texto cifrado escolhido"/>
-<node COLOR="#0033ff" CREATED="1564698121929" ID="ID_41610971" MODIFIED="1564698736113" TEXT="&gt; ele &#xe9; capaz de verificar qual o texto em claro correspondendo;"/>
+<node COLOR="#006699" CREATED="1564697880056" HGAP="22" ID="ID_1700745215" MODIFIED="1564956888597" STYLE="bubble" VSHIFT="16">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>4. Texto Cifrado Escolhido - Choosen-CypherText:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000099">&gt; O atacante &#233; capaz de fazer o caminho reverso, onde a partir de um texto cifrado escolhido ele &#233; capaz de verificar qual o texto em claro correspondente </font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564697901969" HGAP="22" ID="ID_1779156332" MODIFIED="1564698066015" TEXT="5. Texto Escolhido - Choosen-Text" VSHIFT="26">
-<node COLOR="#0033ff" CREATED="1564698059062" ID="ID_614289963" MODIFIED="1564698736113" TEXT="H&#xe1; plena capacidade de manipula&#xe7;&#xe3;o dos textos de entrada e sa&#xed;da, e vice versa;"/>
+<node COLOR="#006699" CREATED="1564697901969" HGAP="22" ID="ID_1779156332" MODIFIED="1564956896388" STYLE="bubble" VSHIFT="26">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>5. Texto Escolhido - Choosen-Text</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000099">&gt; H&#225; plena capacidade de manipula&#231;&#227;o dos textos de entrada e sa&#237;da, e vice-versa;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1564698259114" FOLDED="true" ID="ID_469173328" MODIFIED="1564709075281" POSITION="left" TEXT="Decifragem dos Dados">
+<node CREATED="1564698259114" ID="ID_469173328" MODIFIED="1564956566005" POSITION="left" TEXT="Decifragem dos Dados">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564698293400" ID="ID_1405208393" MODIFIED="1564708390767" TEXT="h&#xe1; diversas t&#xe9;cnicas que podem ser utilizadas com a&#xa; finalidade de se decifrar mensagens criptografadas."/>
 <node COLOR="#006699" CREATED="1564698315193" FOLDED="true" ID="ID_1435696895" MODIFIED="1564709071499" TEXT="A seguir &#xe9; apresentada algumas delas">
