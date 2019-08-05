@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1564964086941" ID="ID_29992379" MODIFIED="1564970671830" STYLE="bubble" TEXT="Lei do Processo Digital - Parei no Art4 inciso 1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564964729239" ID="ID_1719357874" MODIFIED="1564971012266" POSITION="right" STYLE="bubble">
+<node CREATED="1564964729239" FOLDED="true" ID="ID_1719357874" MODIFIED="1565024182951" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -68,7 +68,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1564964511053" HGAP="23" ID="ID_621461263" MODIFIED="1564969812981" TEXT="Conceitos Iniciais" VSHIFT="19">
+<node CREATED="1564964511053" FOLDED="true" HGAP="23" ID="ID_621461263" MODIFIED="1565024182156" TEXT="Conceitos Iniciais" VSHIFT="19">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564964518534" ID="ID_794199241" MODIFIED="1564971060089">
 <richcontent TYPE="NODE"><html>
@@ -86,8 +86,7 @@
       &gt; Qualquer<font color="#ff0000">&#160;<b>forma de armazenamento ou tr&#225;fego</b></font>&#160;de documentos e arquivos digitais;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564964535590" HGAP="19" ID="ID_1847438933" MODIFIED="1564966067632" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
@@ -228,8 +227,7 @@
       <font color="#ff0000">N&#227;o &#233; poss&#237;vel por&#160;Procura&#231;&#227;o</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1564968373945" ID="ID_1889023350" MODIFIED="1564969960785">
 <richcontent TYPE="NODE"><html>
@@ -289,8 +287,7 @@
       <font color="#0c7f0c" size="3">&gt; No dia e hora do <b>ENVIO</b>&#160;ao sistema;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564969603803" ID="ID_86140039" MODIFIED="1564971200911">
 <richcontent TYPE="NODE"><html>
@@ -308,11 +305,10 @@
       <font face="Arial" color="#0c7f0c">&gt; At&#233; 24h do &#250;ltimo dia. </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1564964745772" ID="ID_1500942632" MODIFIED="1564970208604" POSITION="right">
+<node CREATED="1564964745772" FOLDED="true" ID="ID_1500942632" MODIFIED="1565024123983" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     

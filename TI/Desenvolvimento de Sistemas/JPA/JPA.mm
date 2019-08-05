@@ -1,7 +1,19 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1564773712315" ID="ID_1156781870" MODIFIED="1564778615784" TEXT="JPA">
-<node CREATED="1564774068714" FOLDED="true" ID="ID_1918865776" MODIFIED="1564930456557" POSITION="right" TEXT="Conceitos Iniciais">
+<node CREATED="1564773712315" ID="ID_1156781870" MODIFIED="1565013123570">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      JPA - Java Persistence API
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1564774068714" FOLDED="true" ID="ID_1918865776" MODIFIED="1565013128020" POSITION="right" TEXT="Conceitos Iniciais">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564774543445" ID="ID_1042980143" MODIFIED="1564928129621" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -45,10 +57,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564780435882" HGAP="22" ID="ID_1382742876" MODIFIED="1564927220041" STYLE="bubble" VSHIFT="25">
+<node COLOR="#006699" CREATED="1564780435882" HGAP="22" ID="ID_1382742876" MODIFIED="1565013098428" STYLE="bubble" VSHIFT="25">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -69,9 +80,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
 </node>
 <node COLOR="#006699" CREATED="1564775001444" HGAP="22" ID="ID_496884949" MODIFIED="1564928171540" STYLE="bubble" VSHIFT="27">
 <richcontent TYPE="NODE"><html>
@@ -103,8 +114,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564775266634" ID="ID_1879037959" MODIFIED="1564928210124" STYLE="bubble" VSHIFT="28">
 <richcontent TYPE="NODE"><html>
@@ -145,11 +155,10 @@
       <font color="#008000">Para o JPA -&gt;</font>&#160;<b><font color="#e3112a">POJO &#233; a unidade b&#225;sica</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1564775645828" FOLDED="true" HGAP="21" ID="ID_1865997240" MODIFIED="1564930455323" POSITION="right" TEXT="Partes do JPA" VSHIFT="23">
+<node CREATED="1564775645828" FOLDED="true" HGAP="21" ID="ID_1865997240" MODIFIED="1565013202607" POSITION="right" TEXT="Partes do JPA" VSHIFT="23">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564775696789" ID="ID_1186401062" MODIFIED="1564928236139" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -167,8 +176,7 @@
       <font color="#008000">&gt; Define mapeamento Objeto/Relacional p/ gerenciamento de dados relacionais</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564775711980" HGAP="22" ID="ID_741996782" MODIFIED="1564928240476" STYLE="bubble" VSHIFT="17">
 <richcontent TYPE="NODE"><html>
@@ -203,10 +211,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564775730588" HGAP="19" ID="ID_1259418900" MODIFIED="1564928244700" STYLE="bubble" VSHIFT="18">
+<node COLOR="#006699" CREATED="1564775730588" HGAP="19" ID="ID_1259418900" MODIFIED="1565013197625" STYLE="bubble" VSHIFT="18">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -222,7 +229,7 @@
       <font color="#008000">&gt; Definie queries din&#226;micas, em geral, para entidades e estados persitentes. </font>
     </p>
     <p>
-      <font color="#008000">&gt; Permite desenvolver consultas de modo que compilador Java possa verificar quanto &#224; corre&#231;&#227;o na compila&#231;&#227;o.</font>
+      <font color="#008000">&gt; Permite desenvolver consultas de modo que compilador Java possa </font><font color="#ff0300"><u>verificar quanto &#224; corre&#231;&#227;o na compila&#231;&#227;o.</u></font>
     </p>
   </body>
 </html>
@@ -244,11 +251,10 @@
       <font color="#008000">&gt; Define um mapeamento por meio de Descritores de Implanta&#231;&#227;o(XML) ou Anota&#231;&#245;es(Annotation).</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1564775869430" FOLDED="true" ID="ID_1995168037" MODIFIED="1564930690756" POSITION="right" TEXT="Annotations">
+<node CREATED="1564775869430" FOLDED="true" ID="ID_1995168037" MODIFIED="1565013287116" POSITION="right" TEXT="Annotations">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564775876477" ID="ID_786555304" MODIFIED="1564930467293" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -275,10 +281,9 @@
       <font color="#008000">&gt; Substituiu o XML</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#338800" CREATED="1564928497753" FOLDED="true" ID="ID_604154378" MODIFIED="1564930473724" TEXT="Exemplo">
+<node COLOR="#338800" CREATED="1564928497753" FOLDED="true" ID="ID_604154378" MODIFIED="1565013285732" TEXT="Exemplo">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564928505592" ID="ID_1567763203" MODIFIED="1564930472589" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -288,11 +293,10 @@
   <body>
     <img src="annotations_jpa.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775917974" FOLDED="true" ID="ID_165907785" MODIFIED="1564930688819" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564775917974" FOLDED="true" ID="ID_165907785" MODIFIED="1565013280974" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -302,10 +306,9 @@
       Lista de <i>@annotations</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="13"/>
-<node COLOR="#006699" CREATED="1564775943684" FOLDED="true" ID="ID_1903749034" MODIFIED="1564930686181" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564775943684" ID="ID_1903749034" MODIFIED="1565013226170" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -315,8 +318,7 @@
       @Entity
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#338800" CREATED="1564928982854" ID="ID_1870126880" MODIFIED="1564929045665">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -332,12 +334,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775953440" FOLDED="true" ID="ID_1831202882" MODIFIED="1564930686181" STYLE="bubble" TEXT="@Table">
-<node COLOR="#338800" CREATED="1564779423152" FOLDED="true" ID="ID_1107128269" MODIFIED="1564930277978">
+<node COLOR="#006699" CREATED="1564775953440" ID="ID_1831202882" MODIFIED="1565013223921" STYLE="bubble" TEXT="@Table">
+<node COLOR="#338800" CREATED="1564779423152" ID="ID_1107128269" MODIFIED="1565013227513">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -355,8 +356,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1564929250612" ID="ID_1782362081" MODIFIED="1564929254942">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -365,13 +365,12 @@
   <body>
     <img src="ex_table.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775955612" FOLDED="true" ID="ID_1756430236" MODIFIED="1564930686181" STYLE="bubble" TEXT="@Column">
-<node COLOR="#338800" CREATED="1564779383855" FOLDED="true" ID="ID_261630938" MODIFIED="1564930283314">
+<node COLOR="#006699" CREATED="1564775955612" ID="ID_1756430236" MODIFIED="1565013232337" STYLE="bubble" TEXT="@Column">
+<node COLOR="#338800" CREATED="1564779383855" ID="ID_261630938" MODIFIED="1565013233560">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -386,8 +385,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1564929440836" ID="ID_773521093" MODIFIED="1564929467022">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -396,12 +394,11 @@
   <body>
     <img src="ex_column.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775962367" FOLDED="true" ID="ID_10694772" MODIFIED="1564930686181" STYLE="bubble" TEXT="@Id">
+<node COLOR="#006699" CREATED="1564775962367" ID="ID_10694772" MODIFIED="1565013241265" STYLE="bubble" TEXT="@Id">
 <node COLOR="#338800" CREATED="1564779362501" ID="ID_1709384007" MODIFIED="1564929497973">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -414,12 +411,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775969832" FOLDED="true" ID="ID_750408205" MODIFIED="1564930686181" STYLE="bubble" TEXT="@namedQuery e @ namedQueries">
-<node COLOR="#338800" CREATED="1564929513267" FOLDED="true" ID="ID_1434810696" MODIFIED="1564930378100">
+<node COLOR="#006699" CREATED="1564775969832" ID="ID_750408205" MODIFIED="1565013245805" STYLE="bubble" TEXT="@namedQuery e @ namedQueries">
+<node COLOR="#338800" CREATED="1564929513267" ID="ID_1434810696" MODIFIED="1565013247026">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -431,8 +427,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1564930140220" ID="ID_846388743" MODIFIED="1564930144460">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -441,13 +436,12 @@
   <body>
     <img src="ex_namedquery.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775994800" FOLDED="true" ID="ID_1761433840" MODIFIED="1564930686181" STYLE="bubble" TEXT="@UniqueConstraint">
-<node COLOR="#338800" CREATED="1564930209997" FOLDED="true" ID="ID_989216828" MODIFIED="1564930376458">
+<node COLOR="#006699" CREATED="1564775994800" ID="ID_1761433840" MODIFIED="1565013252341" STYLE="bubble" TEXT="@UniqueConstraint">
+<node COLOR="#338800" CREATED="1564930209997" ID="ID_989216828" MODIFIED="1565013255575">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -459,8 +453,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1564930221709" ID="ID_812157950" MODIFIED="1564930262229">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -469,13 +462,12 @@
   <body>
     <img src="ex_unique.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564776019850" FOLDED="true" ID="ID_1233778446" MODIFIED="1564930686181" STYLE="bubble" TEXT="@Transient">
-<node COLOR="#338800" CREATED="1564779393425" FOLDED="true" ID="ID_1910315595" MODIFIED="1564930383250">
+<node COLOR="#006699" CREATED="1564776019850" ID="ID_1233778446" MODIFIED="1565013267563" STYLE="bubble" TEXT="@Transient">
+<node COLOR="#338800" CREATED="1564779393425" ID="ID_1910315595" MODIFIED="1565013269239">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -487,8 +479,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1564930369090" ID="ID_1292342250" MODIFIED="1564930372359">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -497,8 +488,7 @@
   <body>
     <img src="ex_transient.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -515,8 +505,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1564776103708" ID="ID_560634948" MODIFIED="1564930686181" STYLE="bubble" TEXT="@ManyToOne">
@@ -530,16 +519,22 @@
 </node>
 </node>
 </node>
-<node CREATED="1564776150808" ID="ID_1069405387" MODIFIED="1564930691929" POSITION="right" TEXT="EntityManager">
+<node CREATED="1564776150808" ID="ID_1069405387" MODIFIED="1565013288093" POSITION="right" TEXT="EntityManager">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564776157686" ID="ID_1835861966" MODIFIED="1564930814836" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564776157686" ID="ID_1835861966" MODIFIED="1565013529778" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; &#201; uma interface que funciona como um servi&#231;o centralizado para todas as a&#231;&#245;es de persist&#234;ncia
+      &gt; &#201; o servi&#231;o respons&#225;vel por gerenciar entidades;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Atrav&#233;s dele &#233; poss&#237;vel gerenciar o Ciclo de Vida da entidade;
     </p>
     <p>
       
@@ -569,7 +564,8 @@
 </richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006699" CREATED="1564777143991" FOLDED="true" ID="ID_1130331261" MODIFIED="1564930977683" STYLE="bubble" TEXT="&gt; M&#xe9;todos">
+<node CREATED="1565013432945" ID="ID_1090517617" MODIFIED="1565013432945" TEXT=""/>
+<node COLOR="#006699" CREATED="1564777143991" ID="ID_1130331261" MODIFIED="1565013308344" STYLE="bubble" TEXT="&gt; M&#xe9;todos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564777147641" ID="ID_1297625163" MODIFIED="1564930830856" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -580,9 +576,42 @@
     <img src="metodos_entityManager.png" />
   </body>
 </html></richcontent>
+<node COLOR="#006699" CREATED="1565013664555" ID="ID_1886588320" MODIFIED="1565013947706">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>persist() </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Faz uma nova inst&#226;ncia, gerenci&#225;vel e persist&#237;vel;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1565013785972" ID="ID_1920310855" MODIFIED="1565013855924">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="persist.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#990000" CREATED="1565013859088" ID="ID_1180921810" MODIFIED="1565013935287" TEXT="&gt; Utilizamos o m&#xe9;todo persist da EntityManager para  salvar a Entity Pessoa no banco de dados.&#xa;&#xa;&gt; Note que criamos uma javax.persitence.EntityTransaction para criar uma transa&#xe7;&#xe3;o, pois os m&#xe9;todos persist(), merge() e remove() precisam de um transa&#xe7;&#xe3;o para realizar suas opera&#xe7;&#xf5;es no banco de dados.">
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564777239173" FOLDED="true" ID="ID_241729467" MODIFIED="1564930996426" STYLE="bubble" TEXT="&gt; Diagrama de Classe">
+</node>
+</node>
+<node COLOR="#006699" CREATED="1564777239173" FOLDED="true" ID="ID_241729467" MODIFIED="1565013395313" STYLE="bubble" TEXT="&gt; Diagrama de Classe">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564777245175" ID="ID_1392039555" MODIFIED="1564930992395" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -596,8 +625,33 @@
 <font NAME="SansSerif" SIZE="13"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564931040410" ID="ID_1900510101" MODIFIED="1564931063451" TEXT="&gt; Ciclo de Vida da Entity(http://www.universidadejava.com.br/materiais/jpa-entitymanager/)">
+<node COLOR="#006699" CREATED="1564931040410" ID="ID_1900510101" MODIFIED="1565013348195" TEXT="&gt; Ciclo de Vida da Entity(http://www.universidadejava.com.br/materiais/jpa-entitymanager/)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565013540929" ID="ID_462997793" MODIFIED="1565013602011">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Quando uma Entity est&#225; associada a um EntityManager, dizemos que esta entidade est&#225; no contexto gerenciavel;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Todas as opera&#231;&#245;es realizadas no objeto da Entity &#233; refletido no banco de dados.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Todas as identidades das entidades s&#227;o &#250;nicas e para cada registro no banco de dados haver&#225; apenas uma referencia no contexto do EntityManager.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node COLOR="#006699" CREATED="1564931051513" ID="ID_663081218" MODIFIED="1564931361875" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -622,9 +676,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1564931320589" ID="ID_738294721" MODIFIED="1564931361881" STYLE="bubble">
+</html></richcontent>
+<node COLOR="#006699" CREATED="1564931320589" ID="ID_738294721" MODIFIED="1565014422298">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -632,14 +685,152 @@
   <body>
     <img src="ciclo_entity.png" />
   </body>
+</html></richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565014167355" ID="ID_957827981" MODIFIED="1565014422298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Novo (New)</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A Entity foi criada, mas ainda n&#227;o foi persistida no banco de dados;
+    </p>
+    <p>
+      &gt; Mudan&#231;as no estado da Entity n&#227;o s&#227;o sincronizadas com o banco de dados;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565014205147" ID="ID_1117728916" MODIFIED="1565014422300">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Gerenciado (managed)</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A Entity foi persistida no banco de dados e encontra-se em um <u>estado gerenci&#225;vel.</u>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Mudan&#231;as no estado da Entity s&#227;o sincronizados com o banco de dados <u><font color="#ff0000">assim que uma transa&#231;&#227;o for finalizada</font></u>&#160;com sucesso.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565014292118" ID="ID_728622916" MODIFIED="1565014422305">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Removido (removed)</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A Entity foi agendada para ser removida da base de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Essa entidade ser&#225; removida fisicamente do banco de dados quando a transa&#231;&#227;o for finalizada com sucesso;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565014329528" ID="ID_1654224837" MODIFIED="1565014422309">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Desacoplado (detached)</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A Entity foi persistida no banco de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Mas encontra-se em um estado que n&#227;o est&#225; associado ao contexto persistivel
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Altera&#231;&#245;es em seu estado n&#227;o s&#227;o refletidos na base de dados.
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
+<node CREATED="1565013536467" ID="ID_1560859149" MODIFIED="1565013536467" TEXT=""/>
 </node>
-<node CREATED="1564777323159" ID="ID_1012615777" MODIFIED="1564777334099" TEXT="&gt; PersistenceContext &gt; ">
-<node CREATED="1564777334099" ID="ID_1653558095" MODIFIED="1564777417118" TEXT="Local em que ficam armazenados os objetos(entidades) &#xa;que est&#xe3;o sendo manipulados pelo EntityManager"/>
-<node CREATED="1564777418357" ID="ID_1232892133" MODIFIED="1564777466237" TEXT="Funciona como um Container que guarda as entidades gerenciadas pelo EntityManager"/>
+<node COLOR="#006699" CREATED="1564777323159" ID="ID_1012615777" MODIFIED="1565014043867" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; PersistenceContext
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#990000" CREATED="1564777334099" ID="ID_1653558095" MODIFIED="1565014048497">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Local em que ficam armazenados os objetos(entidades)
+    </p>
+    <p>
+      que est&#227;o sendo manipulados pelo EntityManager
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Funciona como um Container que guarda as entidades
+    </p>
+    <p>
+      gerenciadas pelo EntityManager
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1564778104567" ID="ID_1420944689" MODIFIED="1564778819807" POSITION="left" TEXT=" javax.persistence">

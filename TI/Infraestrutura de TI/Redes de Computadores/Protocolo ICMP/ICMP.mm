@@ -7,7 +7,7 @@
 <cloud/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1564588844914" FOLDED="true" ID="ID_936451635" MODIFIED="1564590905030" POSITION="right" TEXT="Conceitos B&#xe1;sicos">
+<node CREATED="1564588844914" ID="ID_936451635" MODIFIED="1565001664947" POSITION="right" TEXT="Conceitos B&#xe1;sicos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564588860299" ID="ID_256355795" MODIFIED="1564589154075" TEXT="&gt; Complementa o Protocolo IP"/>
 <node COLOR="#0033ff" CREATED="1564588870891" ID="ID_193419781" MODIFIED="1564589154074" TEXT="&gt; Diversos equipamentos implementam">
@@ -30,8 +30,7 @@
   <body>
     <img src="icmp_ipv4.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -92,8 +91,7 @@
   <body>
     <img src="tipos_icmp.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564590353569" ID="ID_1931790821" MODIFIED="1564590386202" TEXT="">
@@ -110,8 +108,7 @@
   <body>
     <img src="icmp_header.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
