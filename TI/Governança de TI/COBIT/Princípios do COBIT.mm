@@ -411,8 +411,7 @@
       Este &#233; o habilitador que <u>&#8220;traduz&#8221; o comportamento desejado em a&#231;&#227;o!</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -446,8 +445,7 @@
       &gt; Facilitam resultados exitosos dos habilitadores.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1564972506512" FOLDED="true" ID="ID_1229986903" MODIFIED="1564973517787" STYLE="bubble" TEXT="Existem 04 Dimens&#xf5;es dos habilitadores">
@@ -477,8 +475,7 @@
       <font color="#ff0000">&gt; <u>Suas necessidades s&#227;o traduzidas em metas corporativas.</u></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1564972822103" ID="ID_1640116778" MODIFIED="1564973174756" STYLE="bubble">
@@ -514,8 +511,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1564972994038" ID="ID_1757372806" MODIFIED="1564973174760" STYLE="bubble">
@@ -554,8 +550,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1564973082258" ID="ID_401725652" MODIFIED="1564973174765" STYLE="bubble">
@@ -583,8 +578,7 @@
       &gt; E quais os produtos de trabalho, entradas e sa&#237;das s&#227;o necess&#225;rios.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -599,8 +593,7 @@
       Gerenciamento de Desempenho dos<br />habilitadores
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006633" CREATED="1564973760474" ID="ID_985374777" MODIFIED="1564974420509">
 <richcontent TYPE="NODE"><html>
@@ -626,8 +619,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564973953833" HGAP="29" ID="ID_1829452756" MODIFIED="1564974410520" VSHIFT="-16">
 <richcontent TYPE="NODE"><html>
@@ -645,8 +637,7 @@
       &gt;As m&#233;tricas podem ser chamadas de<br /><b><font color="#ff0000">lag indicators</font></b>, ou<u>&#160;m&#233;tricas para o alcance das metas</u>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1564973977824" HGAP="24" ID="ID_618016828" MODIFIED="1564974410520" VSHIFT="12">
 <richcontent TYPE="NODE"><html>
@@ -670,8 +661,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -701,8 +691,7 @@
       O COBIT 5 diferencia Governan&#231;a de Gest&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564974491004" ID="ID_1340063473" MODIFIED="1564974813579">
 <richcontent TYPE="NODE"><html>
@@ -731,8 +720,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564974627562" ID="ID_499311412" MODIFIED="1564974813580">
 <richcontent TYPE="NODE"><html>
@@ -761,12 +749,102 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node COLOR="#990000" CREATED="1564974538957" ID="ID_240362752" MODIFIED="1565038906298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A Gest&#227;o deve estar em conson&#226;ncia com a Governan&#231;a;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#010101">H&#225; uma depend&#234;ncia entre Gest&#227;o e Governan&#231;a, que se d&#225; por meio dos HABILITADORES</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#338800" CREATED="1565038927586" ID="ID_1039966979" MODIFIED="1565039179500">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; o COBIT trata os processos inerentes a cada<br />&#160;uma delas em dom&#237;nios diferentes( Governan&#231;a e Gest&#227;o).<br />&#160;Veja a imagem ao lado
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565038979908" ID="ID_1424666065" MODIFIED="1565039047046">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gesta_governanca.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="11"/>
+</node>
+<node COLOR="#cc3300" CREATED="1565039280458" ID="ID_610278740" MODIFIED="1565039403571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; A <b><u>Governan&#231;a</u></b>&#160;est&#225; agrupada em 1 dom&#237;nio(&quot;Avaliar, Dirigir e Monitorar&quot;), com cinco processos;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Em cada processo s&#227;o definidas tarefas de &quot;Avaliar, Dirigir e Monitorar&quot;;
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
-<node COLOR="#990000" CREATED="1564974538957" ID="ID_240362752" MODIFIED="1564974813582" TEXT="A Gest&#xe3;o deve estar em conson&#xe2;ncia com a Governan&#xe7;a">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#cc3300" CREATED="1565039405460" ID="ID_1916337716" MODIFIED="1565039482351">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; a <b><u>Gest&#227;o</u></b>&#160;possui 04 dom&#237;nios, em conson&#226;ncia com as &#225;reas respons&#225;veis por planejar, construir, executar e monitorar;
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+<node COLOR="#338800" CREATED="1565039458006" ID="ID_754849288" MODIFIED="1565039562037" TEXT="Imagem">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565039491211" ID="ID_1179536968" MODIFIED="1565039534405">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="dominios.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1565038965961" ID="ID_1997882853" MODIFIED="1565038965961" TEXT=""/>
+<node CREATED="1565038826818" ID="ID_1007597035" MODIFIED="1565038826818" TEXT=""/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1564508700656" ID="ID_149570884" MODIFIED="1564663008606" POSITION="left" TEXT="Imagem">

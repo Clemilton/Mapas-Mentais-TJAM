@@ -8,7 +8,7 @@
 <node CREATED="1564341296739" ID="ID_534399187" MODIFIED="1564341297572" TEXT="1.559.146,876 km2."/>
 </node>
 <node COLOR="#0033ff" CREATED="1564341591706" ID="ID_721854043" MODIFIED="1564769598773" TEXT="62 munic&#xed;pios"/>
-<node COLOR="#0033ff" CREATED="1564341402612" FOLDED="true" ID="ID_1985297077" MODIFIED="1564769598773" TEXT="Fuso -4 e -5">
+<node COLOR="#0033ff" CREATED="1564341402612" ID="ID_1985297077" MODIFIED="1565102712724" TEXT="Fuso -4 e -5">
 <node CREATED="1564341441728" ID="ID_755536091" MODIFIED="1564341458865" TEXT="1h atrasado de bras&#xed;lia"/>
 <node CREATED="1564341459794" FOLDED="true" ID="ID_1819952332" MODIFIED="1564768868930" TEXT="2h ---/----- de Bras&#xed;lia(13 estados)">
 <node CREATED="1564341493078" ID="ID_972922780" MODIFIED="1564341506049" TEXT="Atalaia do Norte"/>
@@ -26,7 +26,7 @@
 <node CREATED="1564341669561" ID="ID_1800651224" MODIFIED="1564341715979" TEXT="Tabatinga"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564342026348" FOLDED="true" ID="ID_1914993034" MODIFIED="1564769598773" TEXT="Amaz&#xf4;nia legal">
+<node COLOR="#0033ff" CREATED="1564342026348" FOLDED="true" ID="ID_1914993034" MODIFIED="1565102727573" TEXT="Amaz&#xf4;nia legal">
 <node CREATED="1564342036154" ID="ID_601475675" MODIFIED="1564342041404">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -38,7 +38,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564341725656" FOLDED="true" ID="ID_1649714527" MODIFIED="1564769598773" TEXT="Amaz&#xf4;nia Internacional">
+<node COLOR="#0033ff" CREATED="1564341725656" FOLDED="true" ID="ID_1649714527" MODIFIED="1565102736748" TEXT="Amaz&#xf4;nia Internacional">
 <node CREATED="1564341744114" ID="ID_1064606875" MODIFIED="1564341909499">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -51,7 +51,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564768989223" FOLDED="true" ID="ID_1560504905" MODIFIED="1564770519215" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o dos munic&#xed;pios em Microregi&#xf5;es">
+<node CREATED="1564768989223" ID="ID_1560504905" MODIFIED="1565105901914" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o dos munic&#xed;pios em Microregi&#xf5;es">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564769140434" ID="ID_1280975935" MODIFIED="1564769608884" TEXT="A divis&#xe3;o do Brasil em mesorregi&#xf5;es e microrregi&#xf5;es&#xa; foi adotada pelo IBGE entre 1989 e 2017."/>
 <node COLOR="#0033ff" CREATED="1564769838386" ID="ID_822078799" MODIFIED="1564770168524" TEXT="Essas duas divis&#xf5;es facilitam o levantamento de dados -&gt; Ex: CENSO"/>
@@ -73,7 +73,7 @@
 <node COLOR="#0033ff" CREATED="1564769490442" ID="ID_1449072288" MODIFIED="1564769615350" TEXT="Centro"/>
 <node COLOR="#0033ff" CREATED="1564769492703" ID="ID_214675559" MODIFIED="1564769615349" TEXT="Sudoeste"/>
 </node>
-<node COLOR="#338800" CREATED="1564769504638" FOLDED="true" ID="ID_970624201" MODIFIED="1564769630530" TEXT="Imagem">
+<node COLOR="#338800" CREATED="1564769504638" ID="ID_970624201" MODIFIED="1565103305214" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564769508288" ID="ID_984506870" MODIFIED="1564769584271">
 <richcontent TYPE="NODE"><html>
@@ -83,49 +83,125 @@
   <body>
     <img src="mesorregiao.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1564769635272" ID="ID_51960189" MODIFIED="1564769646354" TEXT="Microregi&#xf5;es" VSHIFT="23">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564769647527" ID="ID_24542875" MODIFIED="1564769662390" TEXT="Defini&#xe7;&#xe3;o do IBGE">
-<node CREATED="1564769663566" ID="ID_884972270" MODIFIED="1564770175204" TEXT="Foram divididas devido a">
-<node CREATED="1564769705341" ID="ID_1398782378" MODIFIED="1564769716636" TEXT="* estrutura da produ&#xe7;&#xe3;o agropecu&#xe1;ria"/>
-<node CREATED="1564769716979" ID="ID_1129236751" MODIFIED="1564769721494" TEXT="* ind&#xfa;stria"/>
-<node CREATED="1564769722398" ID="ID_102119796" MODIFIED="1564769731453" TEXT="* extra&#xe7;&#xe3;o mineral e pesqueira"/>
-<node CREATED="1564769731833" ID="ID_1592816755" MODIFIED="1564769796541" TEXT="Para compreens&#xe3;o da estrutura produtiva utilizou-se">
-<node CREATED="1564769784325" ID="ID_1842988169" MODIFIED="1564769806631" TEXT="Informa&#xe7;&#xf5;es sobe quadro natural"/>
-<node CREATED="1564769807210" ID="ID_1718497776" MODIFIED="1564769821630" TEXT="Rela&#xe7;&#xf5;es Sociais/Econ&#xf4;micas/Particulares"/>
-<node CREATED="1564769823072" ID="ID_1711129826" MODIFIED="1564769832639" TEXT="Com&#xe9;rcio de varejo/atacado"/>
-</node>
-</node>
-</node>
-<node CREATED="1564769951762" ID="ID_766035639" MODIFIED="1564770025138" TEXT="Nomes">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564769955542" ID="ID_1230498600" MODIFIED="1564770032342" TEXT="&gt; Rio Negro"/>
-<node COLOR="#0033ff" CREATED="1564769975524" ID="ID_1376208620" MODIFIED="1564770032342" TEXT="&gt; Japur&#xe1;"/>
-<node COLOR="#0033ff" CREATED="1564769983180" ID="ID_567867011" MODIFIED="1564770032342" TEXT="&gt; Alto Solim&#xf5;es"/>
-<node COLOR="#0033ff" CREATED="1564769988318" ID="ID_815921696" MODIFIED="1564770032342" TEXT="&gt; Juru&#xe1;"/>
-<node COLOR="#0033ff" CREATED="1564769991359" ID="ID_1165594518" MODIFIED="1564770032341" TEXT="&gt; Boca do Acre"/>
-<node COLOR="#0033ff" CREATED="1564769995045" ID="ID_321406086" MODIFIED="1564770032341" TEXT="&gt; Purus"/>
-<node COLOR="#0033ff" CREATED="1564769998601" ID="ID_1896598774" MODIFIED="1564770032341" TEXT="&gt; Madeira"/>
-<node COLOR="#0033ff" CREATED="1564770001813" ID="ID_626295439" MODIFIED="1564770032341" TEXT="&gt; Tef&#xe9;"/>
-<node COLOR="#0033ff" CREATED="1564770005159" ID="ID_1930966587" MODIFIED="1564770032341" TEXT="&gt; Coari"/>
-<node COLOR="#0033ff" CREATED="1564770008127" ID="ID_1558198368" MODIFIED="1564770032341" TEXT="&gt; Manaus"/>
-<node COLOR="#0033ff" CREATED="1564770013147" ID="ID_1306230335" MODIFIED="1564770032341" TEXT="&gt; Rio Preto da Eva"/>
-<node COLOR="#0033ff" CREATED="1564770018915" ID="ID_454948692" MODIFIED="1564770032341" TEXT="&gt; Parintins"/>
-</node>
-<node COLOR="#338800" CREATED="1564770112740" FOLDED="true" ID="ID_1782931487" MODIFIED="1564770156824" TEXT="Imagem">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564770148811" ID="ID_866879447" MODIFIED="1564770151535">
+<node COLOR="#006699" CREATED="1564769663566" ID="ID_884972270" MODIFIED="1565104164947" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="microrregiao.png" />
+    <p>
+      <b><font color="#0004ff">As microregi&#245;es forma divididas conforme as seguintes caracter&#237;sticas:</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Estrutura da produ&#231;&#227;o agropecu&#225;ria
+      </li>
+      <li>
+        Ind&#250;stria;
+      </li>
+      <li>
+        Extra&#231;&#227;o mineral e Pesqueira
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565104043285" ID="ID_1515441778" MODIFIED="1565104180474" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0000ff">Para compreens&#227;o da estrutura produtiva utilizou-se:</font></b>
+    </p>
+    <ul>
+      <li>
+        Informa&#231;&#245;es sobre o quadro natural;
+      </li>
+      <li>
+        Rela&#231;&#245;es sociais/econ&#244;micas/particulares;
+      </li>
+      <li>
+        Com&#233;rcio de varejo/atacado;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node COLOR="#006699" CREATED="1565104226261" ID="ID_1903639576" MODIFIED="1565105908688" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0006ff"><b>As microregi&#245;es s&#227;o:</b></font>
+    </p>
+    <ul>
+      <li>
+        Rio Negro
+      </li>
+      <li>
+        Japur&#225;
+      </li>
+      <li>
+        Alto Solim&#245;es
+      </li>
+      <li>
+        Juru&#225;
+      </li>
+      <li>
+        Boca do Acre
+      </li>
+      <li>
+        Purus
+      </li>
+      <li>
+        Madeira
+      </li>
+      <li>
+        Tef&#233;
+      </li>
+      <li>
+        Coari
+      </li>
+      <li>
+        Manaus
+      </li>
+      <li>
+        Rio Preto da Eva
+      </li>
+      <li>
+        Parintins
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#338800" CREATED="1564770112740" ID="ID_1782931487" MODIFIED="1565104337743" TEXT="Imagem">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565104400563" ID="ID_993202014" MODIFIED="1565104416584">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="microrregioes.png" />
   </body>
 </html>
 </richcontent>
@@ -133,52 +209,158 @@
 </node>
 </node>
 </node>
-<node CREATED="1564770531908" ID="ID_41626046" MODIFIED="1564770542309" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o em Regi&#xf5;es Geogr&#xe1;ficas">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564770556491" ID="ID_1611335428" MODIFIED="1564770557986" TEXT="As regi&#xf5;es geogr&#xe1;ficas intermedi&#xe1;rias foram apresentadas em 2017"/>
-<node COLOR="#006699" CREATED="1564770619133" ID="ID_506531882" MODIFIED="1564770643018">
+<node COLOR="#006699" CREATED="1565104612754" ID="ID_178244260" MODIFIED="1565105550642" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Mesorregi&#245;es -&gt; Regi&#245;es Geogr&#225;ficas Intermedi&#225;rias
+      <b>Distribui&#231;&#227;o em Regi&#245;es Geogr&#225;ficas:</b>
     </p>
     <p>
-      Microrregi&#245;es -&gt; Regi&#245;es Geogr&#225;ficas Imediatas
+      
+    </p>
+    <p>
+      &gt;As regi&#245;es geogr&#225;ficas intermedi&#225;ris foram apresentadas em 2017;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Mesorregi&#245;es ------&gt; Regi&#245;es Geogr&#225;ficas Intermedi&#225;rias;
+    </p>
+    <p>
+      &gt; Microrregi&#245;es ------&gt; Regi&#245;es Geogr&#225;ficas Imediatas;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; 04 regi&#245;es Intermedi&#225;rias
+    </p>
+    <p>
+      &gt; 11 regi&#245;es Imeditas
     </p>
   </body>
 </html>
 </richcontent>
-<cloud/>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1564770628467" ID="ID_1327428965" MODIFIED="1564770728184" TEXT="Regi&#xf5;es Intermedi&#xe1;rias">
-<node CREATED="1564770728735" ID="ID_313746851" MODIFIED="1564770785045">
+<node COLOR="#cc3300" CREATED="1565104635048" ID="ID_36071864" MODIFIED="1565105002652">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Correspondem uma escala intermedi&#225;ria entre<br />as Unidades da Feder&#227;o e Regi&#245;es Imediatas
+      <b>Regi&#245;es Intermedi&#225;rias:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Correspondem uma escala intermedi&#225;ria entre as Unidades da Federa&#231;&#227;o e Regi&#245;es Imediatas;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Organizam o territ&#243;rio, articulando as Regi&#245;es Imediatas por meio de um polo de hierarquia superior diferenciado;
+    </p>
+    <p>
+      &#160;
+    </p>
+    <p>
+      &gt; a partir do fluxo de gest&#227;o privada ou p&#250;blica e exist&#234;ncia de fun&#231;&#245;es urbanas de maior complexidade;
     </p>
   </body>
 </html>
 </richcontent>
+<node COLOR="#006699" CREATED="1565105493218" ID="ID_1720559573" MODIFIED="1565105696432" TEXT="Manaus">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565105744507" ID="ID_73486414" MODIFIED="1565105759618" TEXT="Manaus"/>
+<node CREATED="1565105760035" ID="ID_1586976870" MODIFIED="1565105771832" TEXT="S&#xe3;o Gabriel Da Cachoeira"/>
+<node CREATED="1565105772321" ID="ID_247408726" MODIFIED="1565105780347" TEXT="Coari"/>
+<node CREATED="1565105780955" ID="ID_1143761649" MODIFIED="1565105783515" TEXT="Manacapuru"/>
 </node>
-<node CREATED="1564770810581" ID="ID_1182637388" MODIFIED="1564770981301" TEXT="Organizam o territ&#xf3;rio, articulando as Regi&#xf5;es Imediatas por meio de um polo de hierarquia superior diferenciado a partir do fluxo de gest&#xe3;o privada ou p&#xfa;blica e exist&#xea;ncias de fun&#xe7;&#xf5;es urbanas de maior complexidade"/>
+<node COLOR="#006699" CREATED="1565105656112" ID="ID_1694754769" MODIFIED="1565105696432" TEXT="Tef&#xe9;">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565105799431" ID="ID_37148532" MODIFIED="1565105810798" TEXT="Tef&#xe9;"/>
+<node CREATED="1565105811309" ID="ID_127381987" MODIFIED="1565105813304" TEXT="Tabatinga"/>
+<node CREATED="1565105813727" ID="ID_170033118" MODIFIED="1565105832635" TEXT="Eirunep&#xe9;"/>
 </node>
-<node CREATED="1564770992369" ID="ID_189813255" MODIFIED="1564771004720" TEXT="Regi&#xf5;es Imediatas">
-<node CREATED="1564771005933" ID="ID_884190983" MODIFIED="1564771029582" TEXT="Tem na rede urbana o seu principal elemento de Refer&#xea;ncia"/>
-<node CREATED="1564771042574" ID="ID_124665401" MODIFIED="1564771064302" TEXT="S&#xe3;o estruturadas a partir de centros urbanos"/>
-<node CREATED="1564771072551" ID="ID_1317481937" MODIFIED="1564771104746" TEXT="P/ satisfa&#xe7;&#xe3;o das necessidades popula&#xe7;&#xe3;o">
-<node CREATED="1564771081755" ID="ID_753247933" MODIFIED="1564771135969" TEXT="compras de bens de consumo dur&#xe1;veis e n&#xe3;o dur&#xe1;veis; busca de trabalho; procura por servi&#xe7;os de sa&#xfa;de e educa&#xe7;&#xe3;o; e presta&#xe7;&#xe3;o de servi&#xe7;os p&#xfa;blicos, como postos de atendimento do Instituto Nacional do Seguro Social - INSS, do Minist&#xe9;rio do Trabalho e de servi&#xe7;os judici&#xe1;rios, entre outros."/>
+<node COLOR="#006699" CREATED="1565105658897" ID="ID_1474732010" MODIFIED="1565105696432" TEXT="L&#xe1;brea">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565105844691" ID="ID_304219005" MODIFIED="1565105846648" TEXT="L&#xe1;brea"/>
+<node CREATED="1565105846903" ID="ID_595814416" MODIFIED="1565105865277" TEXT="Manicor&#xe9;"/>
+</node>
+<node COLOR="#006699" CREATED="1565105661099" ID="ID_1868216163" MODIFIED="1565105696432" TEXT="Parintins">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565105866757" ID="ID_106031443" MODIFIED="1565105884215" TEXT="Parintins"/>
+<node CREATED="1565105884464" ID="ID_378866128" MODIFIED="1565105888180" TEXT="Itacoatiara"/>
+</node>
+</node>
+<node COLOR="#cc3300" CREATED="1565104853165" ID="ID_1021661973" MODIFIED="1565105002654">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Regi&#245;es Imediatas:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Tem na rede urbana o seu principal elemento de Refer&#234;ncia;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; S&#227;o estruturadas a partir de centros urbanos;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; P/ satisfa&#231;&#227;o das necessidades popula&#231;&#227;o -&gt;
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#338800" CREATED="1565104941840" ID="ID_555032541" MODIFIED="1565105002655">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; compras de bens de consumo dur&#225;veis e n&#227;o dur&#225;veis;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; busca de trabalho;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; procura por servi&#231;os de sa&#250;de e educa&#231;&#227;o;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; e presta&#231;&#227;o de servi&#231;os p&#250;blicos, como postos de atendimento do Instituto Nacional do Seguro Social - INSS, do Minist&#233;rio do Trabalho e de servi&#231;os judici&#225;rios, entre outros.
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1564341802484" FOLDED="true" ID="ID_1810017149" MODIFIED="1564768837448" POSITION="left" TEXT="Limites do Amazonas">
+<node CREATED="1564341802484" ID="ID_1810017149" MODIFIED="1565102749024" POSITION="left" TEXT="Limites do Amazonas">
 <node CREATED="1564341312641" HGAP="99" ID="ID_573939505" MODIFIED="1564341396970" VSHIFT="-98">
 <richcontent TYPE="NODE"><html>
   <head>

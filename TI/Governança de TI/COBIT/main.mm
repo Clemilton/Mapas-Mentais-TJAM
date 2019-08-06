@@ -1,7 +1,8 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1564507109363" ID="ID_1706539084" MODIFIED="1564853038252" TEXT="COBIT - Pag 20 Dimens&#xe3;o dos habilitadores">
-<node CREATED="1564507194773" ID="ID_561494676" MODIFIED="1564666627063" POSITION="right" TEXT="Justificativa">
+<node CREATED="1564507109363" ID="ID_1706539084" MODIFIED="1565039598452" TEXT="COBIT 5">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1564507194773" FOLDED="true" ID="ID_561494676" MODIFIED="1565039603835" POSITION="right" TEXT="Justificativa">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564507202842" ID="ID_1925776052" MODIFIED="1564507223266" TEXT="A informa&#xe7;&#xe3;o &#xe9; um recurso valioso p/ todos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -9,7 +10,7 @@
 <node COLOR="#0033ff" CREATED="1564507223714" ID="ID_201321098" MODIFIED="1564507275527" TEXT="A TI est&#xe1; em todos os aspectos de neg&#xf3;cios">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1564507255736" ID="ID_213313951" MODIFIED="1564666631267" TEXT="As coorpora&#xe7;&#xf5;es precisam">
+<node CREATED="1564507255736" FOLDED="true" ID="ID_213313951" MODIFIED="1565039601504" TEXT="As coorpora&#xe7;&#xf5;es precisam">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564507278042" ID="ID_252580208" MODIFIED="1564507312076" TEXT="Manter informa&#xe7;&#xf5;es de Qualidade p/ dar suporte ao neg&#xf3;cio">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -27,7 +28,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1564507393186" ID="ID_666055681" MODIFIED="1564666637776" TEXT="Ciclo da Informa&#xe7;&#xe3;o, segundo COBIT -&gt;">
+<node CREATED="1564507393186" FOLDED="true" ID="ID_666055681" MODIFIED="1565039603120" TEXT="Ciclo da Informa&#xe7;&#xe3;o, segundo COBIT -&gt;">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564507426915" ID="ID_654585623" MODIFIED="1564507485033">
 <richcontent TYPE="NODE"><html>
@@ -41,7 +42,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564507625165" ID="ID_1351527858" MODIFIED="1564664238433" POSITION="right" TEXT="Defini&#xe7;&#xe3;o">
+<node CREATED="1564507625165" FOLDED="true" ID="ID_1351527858" MODIFIED="1565039605532" POSITION="right" TEXT="Defini&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564507667791" ID="ID_1075446924" MODIFIED="1564664241831" TEXT="o COBIT 5 fornece um framework ABRANGENTE que auxilia as empresas a alcan&#xe7;ar seus objetivos para a Governan&#xe7;a e a Gest&#xe3;o da TI em suas organiza&#xe7;&#xf5;es.">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -71,5 +72,6 @@
 <node CREATED="1564508646811" ID="ID_14244455" LINK="Princ&#xed;pios%20do%20COBIT.mm" MODIFIED="1564666598618" POSITION="right" TEXT="Princ&#xed;pios do COBIT">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1565039619664" ID="ID_1817190184" LINK="Processos.mm" MODIFIED="1565039619666" POSITION="right" TEXT="Processos"/>
 </node>
 </map>

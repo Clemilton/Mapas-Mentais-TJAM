@@ -1,9 +1,121 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1564947069451" ID="ID_1320403701" MODIFIED="1564950430030" TEXT="Engenharia de Requisitos - Classifica&#xe7;&#xe3;o de requisitos pag 18">
+<node CREATED="1564947069451" ID="ID_1320403701" MODIFIED="1565049597427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Engenharia de Requisitos
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#990099" CREATED="1565049767821" HGAP="17" ID="ID_1928101837" MODIFIED="1565049866987" POSITION="right" VSHIFT="-138">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Engenharia de Requisitos &#233; uma abordagem sistem&#225;tica
+    </p>
+    <p>
+      &#160;para a formula&#231;&#227;o, an&#225;lise, documenta&#231;&#227;o e manuten&#231;&#227;o
+    </p>
+    <p>
+      &#160;de requisitos de um sistema.
+    </p>
+  </body>
+</html>
+</richcontent>
+<cloud/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
 <node CREATED="1564949755313" ID="ID_1372136501" LINK="classificacao_requisitos.mm" MODIFIED="1564949755314" POSITION="right" TEXT="Classifica&#xe7;&#xe3;o dos Requisitos"/>
-<node CREATED="1564950765396" ID="ID_1910749298" MODIFIED="1564950768025" POSITION="left" TEXT="Erros">
+<node CREATED="1565049616791" ID="ID_562254948" MODIFIED="1565050827665" POSITION="right" TEXT="Fases do Processo">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565049884919" ID="ID_236953115" MODIFIED="1565050830467" STYLE="bubble" TEXT="Presman">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1565049890173" ID="ID_1845138922" MODIFIED="1565050849469" TEXT="Concep&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049898504" ID="ID_1510433188" MODIFIED="1565050849469" TEXT="Levantamento">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049902505" ID="ID_1172957769" MODIFIED="1565050849469" TEXT="Elabora&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049905085" ID="ID_245798705" MODIFIED="1565050849468" TEXT="Negocia&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049909789" ID="ID_344122320" MODIFIED="1565050849468" TEXT="Especifica&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049915224" ID="ID_1138328522" MODIFIED="1565050849468" TEXT="Valida&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049920724" ID="ID_370139527" MODIFIED="1565050849468" TEXT="Gest&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1565049924753" ID="ID_299510978" MODIFIED="1565050830467" STYLE="bubble" TEXT="Sommerville">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1565050329837" ID="ID_532640684" LINK="Estudo%20de%20Viabilidade.mm" MODIFIED="1565050849468" TEXT="Estudo de Viabilidade">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565050798963" ID="ID_136365575" LINK="Elicitacao.mm" MODIFIED="1565050849468" TEXT="Elicita&#xe7;&#xe3;o e An&#xe1;lise de Requisitos">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049949765" ID="ID_1660989492" MODIFIED="1565050849467" TEXT="Especifica&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049955704" ID="ID_509175257" MODIFIED="1565050849467" TEXT="Valida&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006699" CREATED="1565049959824" ID="ID_1173331204" MODIFIED="1565050849467" TEXT="Gest&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1565050169786" ID="ID_1523125545" MODIFIED="1565050837460" VSHIFT="22">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; O Sommerville &#233; o mais cobrado em concursos;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Sommerville afirma que o objetivo da engenharia<br />de requisitos &#233; criar e manter um documento de<br />requisitos de sistema.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#338800" CREATED="1565049973196" FOLDED="true" ID="ID_156601260" MODIFIED="1565050858982" TEXT="Imagem Comparativa">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565049978977" ID="ID_141620579" MODIFIED="1565050039032">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="fases_requisitos.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="11"/>
+</node>
+</node>
+</node>
+<node CREATED="1564950765396" FOLDED="true" ID="ID_1910749298" MODIFIED="1565049620057" POSITION="left" TEXT="Erros">
 <node CREATED="1564950769054" ID="ID_876336583" MODIFIED="1564950802250" TEXT="Gerenciamento de Requisitos x Mundan&#xe7;a"/>
 <node CREATED="1564950873113" ID="ID_1833376983" MODIFIED="1564951772831" TEXT="Coleta Colaborativa de requisitos -&gt; workshop">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -22,8 +134,7 @@
   <body>
     <img src="img_erro01.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564951349838" ID="ID_472654895" MODIFIED="1564951349838" TEXT="">
