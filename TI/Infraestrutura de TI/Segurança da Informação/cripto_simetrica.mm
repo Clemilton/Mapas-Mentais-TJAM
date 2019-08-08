@@ -36,8 +36,7 @@
       <font color="#006699">&#160;&#160;&#160;&#160;&#160;* Com uma menor qtd de dados, dificulta-se o processo de&#160; criptoan&#225;lise de um atacante</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#338800" CREATED="1564709181066" ID="ID_1899877973" MODIFIED="1564959683940" POSITION="right" TEXT="Imagem Ilustrativa">
@@ -82,10 +81,9 @@
       &gt; Assim, <u>para efeito de prova, devemos considerar, quando abordado em um car&#225;ter gen&#233;rico, que o DES utiliza chave de 56 bits.</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#338800" CREATED="1564957937668" FOLDED="true" ID="ID_42975425" MODIFIED="1564958117916" STYLE="bubble" TEXT="Imagem">
+<node COLOR="#338800" CREATED="1564957937668" ID="ID_42975425" MODIFIED="1565222945029" STYLE="bubble" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564957944675" ID="ID_308717010" MODIFIED="1564957960732">
 <richcontent TYPE="NODE"><html>
@@ -95,8 +93,7 @@
   <body>
     <img src="DES.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564958009392" ID="ID_978903750" LINK="T&#xe9;cnicas%20de%20Cifragem.mm" MODIFIED="1564958117914" STYLE="bubble">
@@ -109,8 +106,7 @@
       Utiliza cifragem de bloco. Logo pode usar qualquer<br />umas das t&#233;cnicas de bloco j&#225; comentadas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564958121561" HGAP="25" ID="ID_1408392658" MODIFIED="1564961370749" POSITION="left" TEXT="3DES" VSHIFT="55">
@@ -143,8 +139,7 @@
       &gt; Nesse caso, a robustez da chave se restringiria a 112 bits.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#cc3300" CREATED="1564961379023" ID="ID_28326798" MODIFIED="1564961390899" TEXT=" &#xc9; vulner&#xe1;vel a ataque do tipo meet-in-the-middle">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -159,8 +154,7 @@
   <body>
     <img src="3DES.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1564958484064" FOLDED="true" ID="ID_350636189" MODIFIED="1564959172441" STYLE="bubble" TEXT="Imagem - Descriptografia">
@@ -173,8 +167,7 @@
   <body>
     <img src="3DES_descript.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#338800" CREATED="1564958549747" ID="ID_517750943" MODIFIED="1564958575986" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -186,12 +179,11 @@
       No processo de decripta&#231;&#227;o, basta inverter o sentido da opera&#231;&#227;o, conforme figura acima:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1564958608550" FOLDED="true" ID="ID_1402511696" MODIFIED="1564959683945" POSITION="left" TEXT="RC - Rivest Cipher">
+<node CREATED="1564958608550" ID="ID_1402511696" MODIFIED="1565222979549" POSITION="left" TEXT="RC - Rivest Cipher">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990000" CREATED="1564958622733" ID="ID_1669106620" MODIFIED="1564959328049" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -209,10 +201,9 @@
       &#201; um algoritmo desenvolvido pela RSA
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564958672852" FOLDED="true" ID="ID_391340093" MODIFIED="1564959343337" TEXT="RC4">
+<node COLOR="#0033ff" CREATED="1564958672852" ID="ID_391340093" MODIFIED="1565222981613" TEXT="RC4">
 <node COLOR="#006699" CREATED="1564958903131" ID="ID_882662081" MODIFIED="1564959328050">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -241,8 +232,7 @@
       &gt; &#201; um algoritmo bastante utilizado no TLS.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1564958941901" HGAP="21" ID="ID_1887051667" MODIFIED="1564959328052" VSHIFT="12">
@@ -261,12 +251,11 @@
       &gt; A chave desse algoritmo &#233; usada para inicializar um vetor interno.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564958687812" FOLDED="true" HGAP="21" ID="ID_122668951" MODIFIED="1564959344225" TEXT="RC5" VSHIFT="36">
+<node COLOR="#0033ff" CREATED="1564958687812" HGAP="21" ID="ID_122668951" MODIFIED="1565222991598" TEXT="RC5" VSHIFT="36">
 <node COLOR="#006699" CREATED="1564958947423" ID="ID_1360075402" MODIFIED="1564959328053">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -304,12 +293,11 @@
       &gt; Utiliza <u>tr&#234;s rotinas padr&#245;es: expans&#227;o, encripta&#231;&#227;o e decripta&#231;&#227;o.</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564958692779" FOLDED="true" HGAP="18" ID="ID_1900487955" MODIFIED="1564959345121" TEXT="RC6" VSHIFT="38">
+<node COLOR="#0033ff" CREATED="1564958692779" HGAP="18" ID="ID_1900487955" MODIFIED="1565222994988" TEXT="RC6" VSHIFT="38">
 <node COLOR="#006699" CREATED="1564958962944" ID="ID_429736267" MODIFIED="1564959328054">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -332,8 +320,7 @@
       &gt; Acrescenta recursos de inclus&#227;o de multiplica&#231;&#227;o de inteiros e registradores de 4 bits, enquanto o RC5 utilizava de 2 bits.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -349,10 +336,9 @@
       AES
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564959443762" ID="ID_1247661790" MODIFIED="1564959953408">
+<node COLOR="#006699" CREATED="1564959443762" ID="ID_1247661790" MODIFIED="1565230325917">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -372,15 +358,35 @@
         Suporta tamanhos de chaves vari&#225;veis.
       </li>
       <li>
-        Utiliza-se o tamanho de bloco de 128 bits, podendo ser utilizado chaves de 128, 192 e 256 bits.
+        <b><font color="#ff2500">Cifra e decifra blocos</font></b>&#160;de 128 bits e chaves criptogr&#225;ficas de 128,192 e 256 bits;
+      </li>
+      <li>
+        Mesma chave para criptografia e decifragem;
       </li>
       <li>
         N&#227;o utiliza a rede de Feistel,usada no DES.
+      </li>
+      <li>
+        Variabilidade no n&#250;mero de <i>rounds</i>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
+</node>
+<node COLOR="#990099" CREATED="1565230507859" ID="ID_542582826" MODIFIED="1565230539844">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      O WPA2 (wi-fi protected access version 2) tem por base o padr&#227;o de seguran&#231;a 802.11i e utiliza o AES para encripta&#231;&#227;o.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#0033ff" CREATED="1564959602308" HGAP="19" ID="ID_838031791" MODIFIED="1564959972352" VSHIFT="24">
 <richcontent TYPE="NODE"><html>
@@ -403,8 +409,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564959613310" ID="ID_152737130" MODIFIED="1564959965733" TEXT="SubBytes">
 <font NAME="SansSerif" SIZE="12"/>
@@ -418,8 +423,7 @@
       Utiliza uma caixa-S para substitui&#231;&#227;o operada<br />&#160;byte a byte de acordo com uma tabela;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564959637052" ID="ID_1992028188" MODIFIED="1564959966439" TEXT="ShiftRows">
@@ -434,8 +438,7 @@
       Permuta&#231;&#227;o Simples;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564959640369" ID="ID_668926371" MODIFIED="1564959966933" TEXT="MixColumns">
@@ -450,8 +453,7 @@
       Uma combina&#231;&#227;o linear que utiliza aritm&#233;tica<br />&#160;sobre corpo finito.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564959665922" ID="ID_398045511" MODIFIED="1564959967337" TEXT="AddRoundKey">
@@ -466,8 +468,7 @@
       Um XOR bit a bit simples do bloco atual<br />com uma parte da chave expandida.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -493,8 +494,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>

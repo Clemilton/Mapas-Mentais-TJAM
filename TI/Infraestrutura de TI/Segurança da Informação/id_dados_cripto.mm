@@ -9,7 +9,7 @@
 <node COLOR="#006699" CREATED="1564504402063" ID="ID_1193299313" MODIFIED="1564695674859" POSITION="right" TEXT="&gt; Entretanto, dificulta o trabalho de auditorias em dados criptografados"/>
 <node CREATED="1564504449670" ID="ID_1348677070" MODIFIED="1564697042003" POSITION="right" TEXT="03 Contextos p/ dados criptografados">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564504505335" FOLDED="true" ID="ID_1339634320" MODIFIED="1564956315491" TEXT="Arquivos Criptografados">
+<node COLOR="#006699" CREATED="1564504505335" ID="ID_1339634320" MODIFIED="1565222882896" TEXT="Arquivos Criptografados">
 <node COLOR="#0033ff" CREATED="1564504638164" ID="ID_1549614235" MODIFIED="1564697036721" TEXT="Criptografia somente no conte&#xfa;do de determinados arquivos"/>
 <node COLOR="#0033ff" CREATED="1564504664759" ID="ID_1241692552" MODIFIED="1564697036721" TEXT="Caracter&#xed;sticas do arquivo se mant&#xe9;m decifrados"/>
 <node COLOR="#0033ff" CREATED="1564504750598" ID="ID_1787483787" MODIFIED="1564697036721" TEXT="&#xc9; poss&#xed;vel verificar metadados (nome,tamanho, datas de cria&#xe7;&#xe3;o)"/>
@@ -37,7 +37,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564504518473" FOLDED="true" ID="ID_1604870307" MODIFIED="1564956414427" TEXT="Discos Virtuais Criptografados">
+<node COLOR="#006699" CREATED="1564504518473" ID="ID_1604870307" MODIFIED="1565222884117" TEXT="Discos Virtuais Criptografados">
 <node COLOR="#0033ff" CREATED="1564505000481" FOLDED="true" ID="ID_1301444395" MODIFIED="1564956413555" TEXT="&gt; Utiliza-se um arquivo-cont&#xea;iner devidamente criptografado">
 <node CREATED="1564505009576" ID="ID_1108123633" MODIFIED="1564505010335" TEXT="partir da sua decripta&#xe7;&#xe3;o"/>
 <node CREATED="1564505011058" ID="ID_139035561" MODIFIED="1564956353003" TEXT="gera-se um disco virtual com sistema de arquivos pr&#xf3;prio."/>
@@ -48,7 +48,7 @@
 <node COLOR="#0033ff" CREATED="1564505128446" ID="ID_1790965802" MODIFIED="1564697151369" TEXT="&gt; Os testes de entropia ajudam a identificar arquivos-cont&#xea;iner"/>
 <node COLOR="#0033ff" CREATED="1564505129728" ID="ID_1846309275" MODIFIED="1564697160465" TEXT="&gt; Possuem tamanhos consider&#xe1;veis"/>
 <node COLOR="#0033ff" CREATED="1564505139908" ID="ID_163848532" MODIFIED="1564697169185" TEXT="&gt; Conte&#xfa;do inintelig&#xed;vel por causa da criptografia."/>
-<node COLOR="#0033ff" CREATED="1564505145006" FOLDED="true" ID="ID_1333525331" MODIFIED="1564956410578" TEXT="&gt; Aplica&#xe7;&#xf5;es capazes de criar os arquivos-cont&#xea;iner">
+<node COLOR="#0033ff" CREATED="1564505145006" ID="ID_1333525331" MODIFIED="1565222886468" TEXT="&gt; Aplica&#xe7;&#xf5;es capazes de criar os arquivos-cont&#xea;iner">
 <node COLOR="#338800" CREATED="1564505159274" ID="ID_703922007" MODIFIED="1564697174766" TEXT="bitlocker."/>
 <node COLOR="#338800" CREATED="1564505171618" ID="ID_1492902570" MODIFIED="1564697174766" TEXT="apple disk image"/>
 <node COLOR="#338800" CREATED="1564505178996" ID="ID_526217315" MODIFIED="1564697174766" TEXT=" LUKS"/>

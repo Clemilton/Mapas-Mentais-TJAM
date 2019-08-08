@@ -3,17 +3,17 @@
 <node COLOR="#0033ff" CREATED="1564508599679" ID="ID_536784412" LINK="main.mm" MODIFIED="1564508799269" TEXT="Princ&#xed;pios do COBIT">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="full-2"/>
-<node CREATED="1564508904072" FOLDED="true" ID="ID_1641970037" MODIFIED="1564971662529" POSITION="right" TEXT="Conceitos">
+<node CREATED="1564508904072" ID="ID_1641970037" MODIFIED="1565187471549" POSITION="right" TEXT="Conceitos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564508925147" ID="ID_1924022591" MODIFIED="1564662825529" TEXT="Organiza&#xe7;&#xf5;es Existem para criar valor as partes interessadas">
 <cloud/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1564508995484" FOLDED="true" ID="ID_304223029" MODIFIED="1564971661737" TEXT="Criar valor Significa -&gt;">
+<node COLOR="#0033ff" CREATED="1564508995484" ID="ID_304223029" MODIFIED="1565187475430" TEXT="Criar valor Significa -&gt;">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564509008380" ID="ID_619483873" MODIFIED="1564509120138" TEXT="Gerar benef&#xed;cios a um custo ideal"/>
 <node COLOR="#006699" CREATED="1564509023200" ID="ID_1027711590" MODIFIED="1564509342045" TEXT="Otimizando os riscos otimiza&#xe7;&#xe3;o do risco e uso dos recursos."/>
-<node COLOR="#338800" CREATED="1564509049575" FOLDED="true" ID="ID_207427045" MODIFIED="1564971660001" TEXT="Trip&#xe9; da Cria&#xe7;&#xe3;o de Valor">
+<node COLOR="#338800" CREATED="1564509049575" FOLDED="true" ID="ID_207427045" MODIFIED="1565187479461" TEXT="Trip&#xe9; da Cria&#xe7;&#xe3;o de Valor">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564509051991" ID="ID_1659038279" MODIFIED="1564509101427">
 <richcontent TYPE="NODE"><html>
@@ -47,7 +47,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564508697438" FOLDED="true" ID="ID_1936492755" MODIFIED="1564971969289" POSITION="right" TEXT="1 - Satisfazer as necessidades das Partes Interessadas">
+<node CREATED="1564508697438" FOLDED="true" ID="ID_1936492755" MODIFIED="1565187542485" POSITION="right" TEXT="1 - Satisfazer as necessidades das Partes Interessadas">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564508805465" ID="ID_731561036" MODIFIED="1564756633003">
 <richcontent TYPE="NODE"><html>
@@ -86,27 +86,27 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1564510120804" FOLDED="true" ID="ID_45808253" MODIFIED="1564971807649" TEXT="&gt; Cascata de objetivos (COBIT 5 Goals Cascade)">
+<node CREATED="1564510120804" FOLDED="true" ID="ID_45808253" MODIFIED="1565187538382" TEXT="&gt; Cascata de objetivos (COBIT 5 Goals Cascade)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564510426313" ID="ID_155228020" MODIFIED="1564510705413" TEXT="&gt; Permite associar os objetivos estrat&#xe9;gicos com o risco associado/">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1564510157015" FOLDED="true" ID="ID_617762116" MODIFIED="1564971806617" TEXT="&gt; Traduz as necessidades dos stakeholders em">
+<node COLOR="#0033ff" CREATED="1564510157015" ID="ID_617762116" MODIFIED="1565187509767" TEXT="&gt; Traduz as necessidades dos stakeholders em">
 <node COLOR="#338800" CREATED="1564510219131" ID="ID_1630608419" MODIFIED="1564510376713" TEXT="* Metas Empresariais"/>
 <node COLOR="#338800" CREATED="1564510233656" ID="ID_277855431" MODIFIED="1564510376712" TEXT="* Metas de TI relacionadas"/>
 <node COLOR="#338800" CREATED="1564510250735" ID="ID_1738505941" MODIFIED="1564663278806" TEXT="* Metas dos Habilitadores"/>
-<node COLOR="#006699" CREATED="1564510265921" FOLDED="true" ID="ID_1799622655" MODIFIED="1564971805498" TEXT="Tais metas devem ser">
+<node COLOR="#006699" CREATED="1564510265921" ID="ID_1799622655" MODIFIED="1565187512350" TEXT="Tais metas devem ser">
 <node COLOR="#338800" CREATED="1564510277484" ID="ID_1484511174" MODIFIED="1564510395279" TEXT="* Espec&#xed;ficas"/>
 <node COLOR="#338800" CREATED="1564510281159" ID="ID_248041824" MODIFIED="1564510398096" TEXT="* Tang&#xed;veis"/>
 <node COLOR="#338800" CREATED="1564510287460" ID="ID_1897398913" MODIFIED="1564510402093" TEXT="* Customizadas p/ organiza&#xe7;&#xe3;o"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564510474040" FOLDED="true" ID="ID_179727091" MODIFIED="1564971804569" TEXT="Trip&#xe9; das necessidades dos stakeholders">
+<node COLOR="#0033ff" CREATED="1564510474040" ID="ID_179727091" MODIFIED="1565187516614" TEXT="Trip&#xe9; das necessidades dos stakeholders">
 <node COLOR="#338800" CREATED="1564510491687" ID="ID_1380829304" MODIFIED="1564510730770" TEXT="* Realiza&#xe7;&#xe3;o de Benef&#xed;cios"/>
 <node COLOR="#338800" CREATED="1564510504248" ID="ID_1865673874" MODIFIED="1564510730770" TEXT="* Otimiza&#xe7;&#xe3;o de Riscos a n&#xed;veis aceit&#xe1;veis"/>
 <node COLOR="#338800" CREATED="1564510517283" ID="ID_1275240681" MODIFIED="1564510730769" TEXT="* Otimiza&#xe7;&#xe3;o de Recursos"/>
 </node>
-<node COLOR="#0033ff" CREATED="1564510553151" FOLDED="true" ID="ID_637422953" MODIFIED="1564971803777" TEXT="Define prioridades de implementa&#xe7;&#xe3;o. Funciona em quatro n&#xed;veis">
+<node COLOR="#0033ff" CREATED="1564510553151" ID="ID_637422953" MODIFIED="1565187518519" TEXT="Define prioridades de implementa&#xe7;&#xe3;o. Funciona em quatro n&#xed;veis">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1564510579132" ID="ID_575503467" MODIFIED="1564510743396" TEXT="Necessidades das Partes Interessadas"/>
 <node COLOR="#338800" CREATED="1564510590743" ID="ID_1847422650" MODIFIED="1564510743396" TEXT="Metas ou objetivos coorporativos"/>
@@ -127,7 +127,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564510760533" FOLDED="true" ID="ID_1701633401" MODIFIED="1564971801305" TEXT="Benef&#xed;cios">
+<node COLOR="#0033ff" CREATED="1564510760533" ID="ID_1701633401" MODIFIED="1565187521307" TEXT="Benef&#xed;cios">
 <node COLOR="#0033ff" CREATED="1564510774513" ID="ID_87783046" MODIFIED="1564510920988" TEXT="&gt; Define metas e objetivos tang&#xed;veis e relevantes em v&#xe1;rios n&#xed;veis de responsabilidade"/>
 <node COLOR="#0033ff" CREATED="1564510816020" ID="ID_816865653" MODIFIED="1564510920988" TEXT="&gt; Filtra a base de conhecimento do COBIT 5">
 <node COLOR="#338800" CREATED="1564510856580" ID="ID_1478178024" MODIFIED="1564510925582" TEXT="Com base nos objetivo coorporativos"/>
@@ -136,14 +136,14 @@
 </node>
 <node COLOR="#0033ff" CREATED="1564510882348" ID="ID_655400240" MODIFIED="1564664186703" TEXT="&gt; Identifica e comunica claramente como (por vezes de forma muito operacional) os HABILITADORES s&#xe3;o importantes para o atingimento dos objetivos corporativos"/>
 </node>
-<node CREATED="1564510893958" FOLDED="true" ID="ID_1681970560" MODIFIED="1564971800513" TEXT="Resumo: ">
+<node CREATED="1564510893958" ID="ID_1681970560" MODIFIED="1565187526104" TEXT="Resumo: ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564510905205" ID="ID_106662201" MODIFIED="1564510944185" TEXT="Permite a defini&#xe7;&#xe3;o das prioridades de implementa&#xe7;&#xe3;o, melhoria e garantia da governan&#xe7;a corporativa de TI com base nos objetivos (estrat&#xe9;gicos) da organiza&#xe7;&#xe3;o e no respectivo risco.">
 <cloud/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1564510346817" FOLDED="true" ID="ID_1207700479" MODIFIED="1564971799025" TEXT="Imagem:">
+<node COLOR="#338800" CREATED="1564510346817" ID="ID_1207700479" MODIFIED="1565187532224" TEXT="Imagem:">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564510350703" ID="ID_1683671588" MODIFIED="1564510353630">
 <richcontent TYPE="NODE"><html>
@@ -159,11 +159,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1564663596296" FOLDED="true" ID="ID_289262940" MODIFIED="1564971971433" POSITION="right" TEXT="2 - Cobrir a organiza&#xe7;&#xe3;o de ponta-a-ponta">
+<node CREATED="1564663596296" FOLDED="true" ID="ID_289262940" MODIFIED="1565187565093" POSITION="right" TEXT="2 - Cobrir a organiza&#xe7;&#xe3;o de ponta-a-ponta">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564663660779" ID="ID_522567671" MODIFIED="1564666940619" TEXT="Defini&#xe7;&#xf5;es">
+<node CREATED="1564663660779" FOLDED="true" ID="ID_522567671" MODIFIED="1565187563901" TEXT="Defini&#xe7;&#xf5;es">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564663676708" FOLDED="true" ID="ID_1605249861" MODIFIED="1564971874641" TEXT="&gt; Integra -&gt;">
+<node COLOR="#0033ff" CREATED="1564663676708" ID="ID_1605249861" MODIFIED="1565187544750" TEXT="&gt; Integra -&gt;">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564663749677" ID="ID_1763758466" MODIFIED="1564665031707" TEXT="&gt; Governan&#xe7;a de TI"/>
 <node COLOR="#006699" CREATED="1564663754987" ID="ID_849371495" MODIFIED="1564665031706" TEXT="&gt; Governan&#xe7;a Corporativa"/>
@@ -171,7 +171,7 @@
 <node COLOR="#0033ff" CREATED="1564663732374" ID="ID_337925644" MODIFIED="1564665026400" TEXT="&gt; Cobre todas as fun&#xe7;&#xf5;es/processos necess&#xe1;rios&#xa;p/ controlar as informa&#xe7;&#xf5;es e tecnologias da organiza&#xe7;&#xe3;o">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1564663820029" FOLDED="true" ID="ID_1775267346" MODIFIED="1564971873273" TEXT="Trata de">
+<node COLOR="#0033ff" CREATED="1564663820029" ID="ID_1775267346" MODIFIED="1565187546737" TEXT="Trata de">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564663971316" ID="ID_639092895" MODIFIED="1564971857937" TEXT="Servi&#xe7;os de TI">
 <font NAME="SansSerif" SIZE="12"/>
@@ -191,7 +191,7 @@
 <node COLOR="#ff0000" CREATED="1564664360754" ID="ID_1992548702" LINK="#ID_114864423" MODIFIED="1564665067209" TEXT="Que tem por base os diversos HABILITADORES"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564664118253" FOLDED="true" ID="ID_114864423" MODIFIED="1564971871865" TEXT="Habilitadores">
+<node COLOR="#0033ff" CREATED="1564664118253" ID="ID_114864423" MODIFIED="1565187548950" TEXT="Habilitadores">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564664126633" ID="ID_466694373" MODIFIED="1564665040833" TEXT="Servem para toda organiza&#xe7;&#xe3;o de ponta-a-ponta">
 <font NAME="SansSerif" SIZE="12"/>
@@ -272,9 +272,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1564756452841" ID="ID_87201179" MODIFIED="1564971972151" POSITION="right" TEXT="3 - Aplicar um Framework Integrado e &#xda;nico">
+<node CREATED="1564756452841" FOLDED="true" ID="ID_87201179" MODIFIED="1565187575280" POSITION="right" TEXT="3 - Aplicar um Framework Integrado e &#xda;nico">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564759947376" FOLDED="true" ID="ID_1980494028" MODIFIED="1564851263677" TEXT="O COBIT consegue integrar outros padr&#xf5;es/frameworks como">
+<node COLOR="#0033ff" CREATED="1564759947376" ID="ID_1980494028" MODIFIED="1565187567381" TEXT="O COBIT consegue integrar outros padr&#xf5;es/frameworks como">
 <node COLOR="#338800" CREATED="1564760002274" ID="ID_645068903" MODIFIED="1564760104192">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -344,11 +344,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1564756467045" FOLDED="true" ID="ID_592551231" MODIFIED="1564974518858" POSITION="right" TEXT="4 - Possibilitar uma vis&#xe3;o Hol&#xed;stica">
+<node CREATED="1564756467045" FOLDED="true" ID="ID_592551231" MODIFIED="1565187804542" POSITION="right" TEXT="4 - Possibilitar uma vis&#xe3;o Hol&#xed;stica">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564760770871" ID="ID_268624550" MODIFIED="1564972013187" TEXT="Habilitadores">
+<node COLOR="#006699" CREATED="1564760770871" FOLDED="true" ID="ID_268624550" MODIFIED="1565187662021" TEXT="Habilitadores">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564851477450" ID="ID_1570814718" MODIFIED="1564852695675" TEXT="&gt; Habilitadores s&#xe3;o fatores que influenciam se a governan&#xe7;a e a gest&#xe3;o corporativas da TI. &#xa;Os 07 habilitadores s&#xe3;o:"/>
+<node COLOR="#0033ff" CREATED="1564851477450" ID="ID_1570814718" MODIFIED="1565187611136" TEXT="&gt; Habilitadores s&#xe3;o fatores que influenciam se a governan&#xe7;a&#xa; e a gest&#xe3;o corporativas da TI.  Os 07 habilitadores s&#xe3;o:"/>
 <node COLOR="#0033ff" CREATED="1564852741188" ID="ID_744977000" MODIFIED="1564852806844" TEXT="&gt; Os habilitadores est&#xe3;o interligados">
 <node COLOR="#006699" CREATED="1564852766696" ID="ID_423816101" MODIFIED="1564852832711" STYLE="bubble" TEXT="Necessita das informa&#xe7;&#xf5;es dos demais habilitadores">
 <font NAME="SansSerif" SIZE="10"/>
@@ -375,14 +375,14 @@
 <node COLOR="#0033ff" CREATED="1564852225353" ID="ID_503117671" MODIFIED="1564973462219" STYLE="bubble" TEXT="5. Informa&#xe7;&#xe3;o">
 <arrowlink DESTINATION="ID_1615862094" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_547516385" STARTARROW="None" STARTINCLINATION="175;0;"/>
 </node>
-<node COLOR="#0033ff" CREATED="1564852231784" ID="ID_1349462407" MODIFIED="1564852667256" STYLE="bubble" TEXT="6. Servi&#xe7;&#xf5;s, Infraestruturas e Aplicativos">
+<node COLOR="#0033ff" CREATED="1564852231784" ID="ID_1349462407" MODIFIED="1565187639024" STYLE="bubble" TEXT="6. Servi&#xe7;os, Infraestruturas e Aplicativos">
 <arrowlink DESTINATION="ID_1615862094" ENDARROW="Default" ENDINCLINATION="46;0;" ID="Arrow_ID_1005857255" STARTARROW="None" STARTINCLINATION="46;0;"/>
 <arrowlink DESTINATION="ID_1615862094" ENDARROW="Default" ENDINCLINATION="46;0;" ID="Arrow_ID_231423553" STARTARROW="None" STARTINCLINATION="46;0;"/>
 </node>
 <node COLOR="#0033ff" CREATED="1564852157734" ID="ID_1751154928" MODIFIED="1564852675022" STYLE="bubble" TEXT="7. Pessoas, Habilidades e Compet&#xea;ncias">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1615862094" ENDARROW="Default" ENDINCLINATION="68;0;" ID="Arrow_ID_525710777" STARTARROW="None" STARTINCLINATION="68;0;"/>
 </node>
-<node COLOR="#338800" CREATED="1564851588475" FOLDED="true" ID="ID_1305300038" MODIFIED="1564972486628" TEXT="Imagem">
+<node COLOR="#338800" CREATED="1564851588475" FOLDED="true" ID="ID_1305300038" MODIFIED="1565187659797" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1564851592798" ID="ID_256747721" MODIFIED="1564852688419" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -448,7 +448,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1564972506512" FOLDED="true" ID="ID_1229986903" MODIFIED="1564973517787" STYLE="bubble" TEXT="Existem 04 Dimens&#xf5;es dos habilitadores">
+<node CREATED="1564972506512" ID="ID_1229986903" MODIFIED="1565187667370" STYLE="bubble" TEXT="Existem 04 Dimens&#xf5;es dos habilitadores">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564972716440" ID="ID_489806412" MODIFIED="1564973212417" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -665,7 +665,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1564972576578" FOLDED="true" ID="ID_1231287556" MODIFIED="1564973948227" TEXT="Imagem Resumo">
+<node COLOR="#338800" CREATED="1564972576578" ID="ID_1231287556" MODIFIED="1565187782689" TEXT="Imagem Resumo">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564972585773" ID="ID_1645385217" MODIFIED="1564972613344">
 <richcontent TYPE="NODE"><html>
@@ -721,6 +721,31 @@
     </ul>
   </body>
 </html></richcontent>
+<node COLOR="#990099" CREATED="1565191523127" ID="ID_730872986" MODIFIED="1565191582543">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; A governan&#231;a assegura que as necessidades, as condi&#231;&#245;es e as op&#231;&#245;es<br />dos stakeholders sejam avaliadas para determinar os objetivos empresariais<br />a serem alcan&#231;ados; define a dire&#231;&#227;o por meio de prioriza&#231;&#227;o e tomada<br />de decis&#227;o;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; monitora o desempenho e conformidade com rela&#231;&#227;o aos objetivos.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><u>&gt; A responsabilidade pela Governan&#231;a &#233; da alta dire&#231;&#227;o</u></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node COLOR="#006699" CREATED="1564974627562" ID="ID_499311412" MODIFIED="1564974813580">
 <richcontent TYPE="NODE"><html>
@@ -750,6 +775,20 @@
     </ul>
   </body>
 </html></richcontent>
+<node COLOR="#990099" CREATED="1565191476096" ID="ID_646065070" MODIFIED="1565191519727">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; A gest&#227;o (gerenciamento) planeja, constr&#243;i, executa e monitorar atividades<br />&#160;alinhadas com a dire&#231;&#227;o estrat&#233;gica estabelecida pela governan&#231;a para<br />atingir os objetivos empresariais.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 <node COLOR="#990000" CREATED="1564974538957" ID="ID_240362752" MODIFIED="1565038906298">
 <richcontent TYPE="NODE"><html>
@@ -767,8 +806,7 @@
       <font color="#010101">H&#225; uma depend&#234;ncia entre Gest&#227;o e Governan&#231;a, que se d&#225; por meio dos HABILITADORES</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#338800" CREATED="1565038927586" ID="ID_1039966979" MODIFIED="1565039179500">
@@ -781,8 +819,7 @@
       &gt; o COBIT trata os processos inerentes a cada<br />&#160;uma delas em dom&#237;nios diferentes( Governan&#231;a e Gest&#227;o).<br />&#160;Veja a imagem ao lado
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565038979908" ID="ID_1424666065" MODIFIED="1565039047046">
 <richcontent TYPE="NODE"><html>
@@ -792,8 +829,7 @@
   <body>
     <img src="gesta_governanca.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="11"/>
 </node>
 <node COLOR="#cc3300" CREATED="1565039280458" ID="ID_610278740" MODIFIED="1565039403571">
@@ -812,8 +848,7 @@
       &gt; Em cada processo s&#227;o definidas tarefas de &quot;Avaliar, Dirigir e Monitorar&quot;;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#cc3300" CREATED="1565039405460" ID="ID_1916337716" MODIFIED="1565039482351">
 <richcontent TYPE="NODE"><html>
@@ -825,8 +860,7 @@
       &gt; a <b><u>Gest&#227;o</u></b>&#160;possui 04 dom&#237;nios, em conson&#226;ncia com as &#225;reas respons&#225;veis por planejar, construir, executar e monitorar;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#338800" CREATED="1565039458006" ID="ID_754849288" MODIFIED="1565039562037" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -838,13 +872,10 @@
   <body>
     <img src="dominios.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1565038965961" ID="ID_1997882853" MODIFIED="1565038965961" TEXT=""/>
-<node CREATED="1565038826818" ID="ID_1007597035" MODIFIED="1565038826818" TEXT=""/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1564508700656" ID="ID_149570884" MODIFIED="1564663008606" POSITION="left" TEXT="Imagem">

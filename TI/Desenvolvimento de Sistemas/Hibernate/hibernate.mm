@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1565014460175" ID="ID_1373341644" MODIFIED="1565014464954" TEXT="Hibernate">
-<node CREATED="1565020812853" FOLDED="true" ID="ID_160102630" MODIFIED="1565027798620" POSITION="right" TEXT="Conceitos Iniciais">
+<node CREATED="1565020812853" FOLDED="true" ID="ID_160102630" MODIFIED="1565212273559" POSITION="right" TEXT="Conceitos Iniciais">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565020376046" ID="ID_1354809321" MODIFIED="1565027498268" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -37,10 +37,9 @@
       &gt; <font color="#ff0000">N&#227;o &#233; uma boa ferramenta para aplica&#231;&#245;es que fazem uso de stored procedures, triggers ou que implementam a maior parte da l&#243;gica da aplica&#231;&#227;o no banco de dados,</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565020500506" ID="ID_475307079" MODIFIED="1565027543908" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565020500506" FOLDED="true" ID="ID_475307079" MODIFIED="1565214894387" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -64,8 +63,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1565020525956" ID="ID_1443286035" MODIFIED="1565027543910">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -114,8 +112,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1565020827243" ID="ID_677728578" MODIFIED="1565027332517" POSITION="right" TEXT="Arquitetura Hibernate">
-<node CREATED="1565020842077" ID="ID_995430365" MODIFIED="1565027781247">
+<node CREATED="1565020827243" FOLDED="true" ID="ID_677728578" MODIFIED="1565212274935" POSITION="right" STYLE="bubble" TEXT="Arquitetura Hibernate">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565020842077" FOLDED="true" ID="ID_995430365" MODIFIED="1565214894388" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -136,16 +135,21 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1565027800922" ID="ID_194041090" MODIFIED="1565028092973" STYLE="bubble">
+</html></richcontent>
+<node CREATED="1565027800922" FOLDED="true" ID="ID_194041090" MODIFIED="1565214894388" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; O primeiro e o segundo fazem a mesma fun&#231;&#227;o, configurar um servidor hibernate;
+      &gt; O primeiro e o segundo fazem a mesma fun&#231;&#227;o
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; configurar um servidor hibernate;
     </p>
     <p>
       
@@ -157,12 +161,24 @@
       
     </p>
     <p>
-      &gt; Cont&#233;m informa&#231;&#245;es sobre o local em que se encontra o banco de dados; conex&#245;es, usu&#225;rio, senha, propriedades; tipo de cache utilizado; local onde se encontram os caminhos para os arquivos hbm.xml;
+      &gt;&#160;&#160;Informa&#231;&#245;es sobre o banco de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; tipo de cache utilizado;
+    </p>
+    <p>
+      &#160;
+    </p>
+    <p>
+      &gt; localiza&#231;&#227;o do arquivo hbm.xml;
     </p>
   </body>
 </html>
 </richcontent>
-<node CREATED="1565028069681" ID="ID_1647833181" MODIFIED="1565028092977">
+<node CREATED="1565028069681" ID="ID_1647833181" MODIFIED="1565212266320">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -170,23 +186,47 @@
   <body>
     <img src="hibernate_config.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-</node>
-<node CREATED="1565028094060" ID="ID_1704145279" MODIFIED="1565028155081">
+<node CREATED="1565210977091" ID="ID_626202002" MODIFIED="1565212266331">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; O hbm.xml&#160;&#233; respons&#225;vel por mapear o banco de dados,<br />informando o nome da tabela, tipo de dados, identificadores,<br />&#160;entre outros.
+      &gt; Esse arquivo tamb&#233;m configura um Session Factory
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; &#201; a classe utilizada pelo hibernate para interagir com o banco de dados por meio de sess&#245;es;
     </p>
   </body>
 </html>
 </richcontent>
-<node CREATED="1565028235327" ID="ID_1047638316" MODIFIED="1565028238039">
+</node>
+</node>
+<node CREATED="1565028094060" FOLDED="true" ID="ID_1704145279" MODIFIED="1565214894388">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; O hbm.xml&#160;&#233; respons&#225;vel por mapear o banco de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; &#201; uma boa pr&#225;tica criar um arquivo <b><font color="#ff0000">hbm.xml para cada classe de persist&#234;ncia</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1565028235327" ID="ID_1047638316" MODIFIED="1565212266334">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -194,10 +234,565 @@
   <body>
     <img src="hbm_xml.png" />
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node COLOR="#006699" CREATED="1565211206778" FOLDED="true" ID="ID_1888853469" MODIFIED="1565212266345" STYLE="bubble" TEXT="Imagem">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565211240105" ID="ID_166274818" MODIFIED="1565211427300">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="arquitetura_hibernate.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565211320017" ID="ID_337405501" MODIFIED="1565212236787">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; A figura acima representa a arquitetura hibernate de uma forma<br />&#160;mais ampla;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Entre a camada de aplica&#231;&#227;o e banco de dados h&#225; diversos componentes<br />hibernate;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565211405802" ID="ID_1079027861" MODIFIED="1565212236784">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Session(org.hibernate.session): </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Representa uma comunica&#231;&#227;o entre a aplica&#231;&#227;o e objetos persistentes<br />atrav&#233;s de uma conex&#227;o&#160;&#160;JDBC
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; &#201; criada por uma <b><font color="#ff0000">SessionFactory</font></b>;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; &#201; instanciada cada vez que uma intera&#231;&#227;o com o bd for necess&#225;ria;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Objeto leve, Single-thread, vida curta
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565211641221" ID="ID_81641833" MODIFIED="1565212236782">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>SessionFactory (org.hibernate.SessionFactory):</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <b><font color="#ff0000">&#201; uma fabrica de sess&#245;es;</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; &#201; necess&#225;rio um SessionFactory p/ cada banco de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Objeto Pesado, thread-safe, imut&#225;vel
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Cole&#231;&#245;es de mapeamentos objeto-relacional p/ um banco;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565211838969" ID="ID_1489523280" MODIFIED="1565212236781">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Transaction (org.hibernate.Transaction):</b>&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Utilizado p/ <b><font color="#ff0000">especificar unidade indivis&#237;veis e at&#244;micas</font></b>&#160; de uma opera&#231;&#227;o de<br />manipula&#231;&#227;o de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;Abstrai detalhes de transa&#231;&#245;es de camadas inferiores;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Opcional: O dev escolhe se o utiliza ou se gerencia transa&#231;&#245;es em seu<br />pr&#243;prio c&#243;digo;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Objeto single-threaded, de vida curta;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565212020087" ID="ID_1237416887" MODIFIED="1565212236779">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Configuration (org.hibernate.Configuration):</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Utilizado p/ realizar configura&#231;&#245;es de <b><font color="#ff0000">inicializa&#231;&#227;o</font></b>&#160; do hibernate;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Definem-se configura&#231;&#245;es: Driver de Banco, dialeto, etc...
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A partir de uma inst&#226;ncia desse objeto, indica-se como os mapeamentos<br />entre classes e tabelas s&#227;o realizados;
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
+</node>
+<node COLOR="#006699" CREATED="1565212277010" FOLDED="true" ID="ID_403065880" MODIFIED="1565213644490" POSITION="left" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Estados dos Objetos<br />&#160;Hibernate
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565212318224" ID="ID_378873575" MODIFIED="1565212472407">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#729ee1">Um objeto de Classes Persistentes pode estar em um dos tr&#234;s</font></b><br /><b><font color="#729ee1">diferentes estados:</font></b>
+    </p>
+    <ul>
+      <li>
+        Transiente (Transient);
+      </li>
+      <li>
+        Persistente (Persistent);
+      </li>
+      <li>
+        Dexanexado (Detached);
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#338800" CREATED="1565212474873" FOLDED="true" ID="ID_1369835584" MODIFIED="1565213642938" TEXT="Imagem">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565212482775" FOLDED="true" ID="ID_1267946939" MODIFIED="1565214894388">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="estados_hibernate.png" />
+  </body>
+</html>
+</richcontent>
+<node COLOR="#006699" CREATED="1565212616497" ID="ID_1109424911" MODIFIED="1565213325843">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Transiente:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; O objeto n&#227;o est&#225; associado a um contexto persistente;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; N&#227;o h&#225; uma representa&#231;&#227;o no banco de dados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; N&#227;o h&#225; um valor de identificador;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565212768710" ID="ID_884781685" MODIFIED="1565213325842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Persistente:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; O objeto est&#225; associado a um contexto persistente;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; H&#225; uma representa&#231;&#227;o no banco de dados e um valor id;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Qualquer mudan&#231;a nesse objeto &#233; detectada e sincronizada<br />&#160;com o BD;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565212867796" ID="ID_3946341" MODIFIED="1565213325840">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Desanexado: </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A inst&#226;ncia foi associada a um contexto persistente;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; No entanto n&#227;o est&#225; mais associada por alguma raz&#227;o<br />(Ex: Fim da sess&#227;o);
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; o objeto ainda pode ser modificado e essas modifica&#231;&#245;es<br />podem futuramente ser persistidas;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Trata-se de um estado intermedi&#225;rio.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node COLOR="#cc3300" CREATED="1565213022000" ID="ID_824247501" MODIFIED="1565213301766">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      O processo mostrado na imagem funciona assim:
+    </p>
+    <ol>
+      <li>
+        <u>Cria-se um objeto</u>&#160;POJO - Inicialmente ele estar&#225; no <b><font color="#0000ff">estado transiente;</font></b>
+      </li>
+      <li>
+        Quando o objeto for <u>salvo ou atualizado</u>, ele &#233; <b><font color="#0200ff">persistido</font></b>;
+      </li>
+      <li>
+        Caso o objeto seja <u>despejado, fechado, ou cache limpado</u>, ele se torna <b><font color="#0006ff">desanexado</font></b>;
+      </li>
+      <li>
+        Caso ele seja <u>atualizado, salvo, atualizado ou trancado</u>, ele volta para o <b><font color="#0000ff">estado persistente</font></b>;
+      </li>
+      <li>
+        E se, depois disso, ele for <u>deletado</u>, volta para o <b><font color="#0008ff">estado transiente</font></b>.
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1565213334473" FOLDED="true" ID="ID_234860133" MODIFIED="1565214776002" POSITION="left" TEXT="Anota&#xe7;&#xf5;es e Mapeamento">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565213703366" FOLDED="true" ID="ID_1278595845" MODIFIED="1565214894388" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Anota&#231;&#245;es</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Metadados que aparecem no c&#243;digo fonte e s&#227;o ignorados pelo<br />compilador;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Qualquer s&#237;mbolo que comece com <b>@</b>;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Foi introduzido a partir do Java SE 5.0
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1565213769604" ID="ID_192840357" MODIFIED="1565213929118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="anotacoes_hibernate.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565214679119" ID="ID_578723799" MODIFIED="1565214728706">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Relacionamentos: </b>
+    </p>
+    <ul>
+      <li>
+        <b>1-1 -&gt; @OneToOne; </b>
+      </li>
+      <li>
+        <b>1-N -&gt; @OneToMany; </b>
+      </li>
+      <li>
+        <b>N-N -&gt; @ManyToMany;</b>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node COLOR="#006699" CREATED="1565213974030" FOLDED="true" ID="ID_890094034" MODIFIED="1565214894388" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Mapeamento:</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Os tipos declarados nos arquivos de mapeamento n&#227;o s&#227;o tipos<br />de dados Java nem tipos de dados SQL;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; S&#227;o tipos Hibernate; Podem traduzir do Java p/ SQL e vice-versa;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Podem ter nomes parecidos, mas n&#227;o s&#227;o iguais;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1565214149864" ID="ID_88438932" MODIFIED="1565214735747">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="mapeamento_hibernate.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1565213963450" FOLDED="true" ID="ID_8863732" MODIFIED="1565214894388" TEXT="Exemplo">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565214192101" FOLDED="true" ID="ID_999917615" MODIFIED="1565214894388" TEXT="SQL">
+<node CREATED="1565214198532" ID="ID_1969527428" MODIFIED="1565214216127">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="sql_ex.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1565214194607" FOLDED="true" ID="ID_770359555" MODIFIED="1565214894388" TEXT="Hibernate">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565214243953" ID="ID_400893187" MODIFIED="1565214247097">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="hibernate_ex01.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565214249143" ID="ID_571152178" MODIFIED="1565214285933">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="hibernate_ex02.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565214288038" ID="ID_330225900" MODIFIED="1565214321733">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="hibernate_ex03.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1565214777598" FOLDED="true" ID="ID_1507709327" MODIFIED="1565214894389" POSITION="left" TEXT="Considera&#xe7;&#xf5;es FInais">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565214783057" ID="ID_1746806503" MODIFIED="1565214893695">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; A maioria das bases de dados utilizam<u>&#160;caches para os resultados </u>
+    </p>
+    <p>
+      <u>de uma consulta</u>, caso essas consultas s&#227;o executadas in&#250;meras vezes.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff0000"><b>&gt; Dessa forma, elimina-se ooverhead de I/O do disco e tempo de</b></font><br /><font color="#ff0000"><b>compila&#231;&#227;o da consulta </b></font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#010101">&gt; O mais apropriado &#233; termos uma cache no cliente final que faz a </font>
+    </p>
+    <p>
+      <font color="#010101">conex&#227;o com a base de dados.</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>

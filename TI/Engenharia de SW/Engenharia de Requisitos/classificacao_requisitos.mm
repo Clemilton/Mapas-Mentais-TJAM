@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1564949718074" ID="ID_228467423" LINK="requisitos.mm" MODIFIED="1564949755266" TEXT="Classifica&#xe7;&#xe3;o dos Requisitos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564947120409" FOLDED="true" ID="ID_1508944793" MODIFIED="1565040682637" POSITION="right">
+<node CREATED="1564947120409" ID="ID_1508944793" MODIFIED="1565191810037" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14,7 +14,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564947158594" ID="ID_1076659516" MODIFIED="1565040660909" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564947158594" ID="ID_1076659516" MODIFIED="1565191845982" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -31,14 +31,15 @@
         Descri&#231;&#245;es, em linguagem natural e com diagramas, de quais servi&#231;os o sistema deve fornecer e as restri&#231;&#245;es sob as quais deve operar.
       </li>
       <li>
-        S&#227;o requisitos com alto n&#237;vel de abstra&#231;&#227;o e poucos detalhes, feitos para serem lidos por pessoas leigas
+        <b><font color="#ff0f00"><u>S&#227;o requisitos com alto n&#237;vel de abstra&#231;&#227;o e poucos detalhes, feitos para serem lidos por pessoas leigas</u></font></b>
       </li>
       <li>
         Podem ser funcionais ou n&#227;o funcionais.
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#338800" CREATED="1564947348805" MODIFIED="1564947434348" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -52,7 +53,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564947272257" ID="ID_1061893419" MODIFIED="1565040664998" STYLE="bubble" VSHIFT="21">
+<node COLOR="#006699" CREATED="1564947272257" ID="ID_1061893419" MODIFIED="1565191869039" STYLE="bubble" VSHIFT="21">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -69,17 +70,18 @@
         Descri&#231;&#245;es detalhadas sobre as fun&#231;&#245;es, opera&#231;&#245;es e restri&#231;&#245;es de sistema que definem exatamente o que deve ser implementado.
       </li>
       <li>
-        S&#227;o requisitos com baixo n&#237;vel de abstra&#231;&#227;o e muitos detalhes, feitos para serem lidos por pessoas experientes.
+        <b><u><font color="#ff0000">S&#227;o requisitos com baixo n&#237;vel de abstra&#231;&#227;o e muitos detalhes, feitos para serem lidos por pessoas experientes.</font></u></b>
       </li>
       <li>
         Podem ser funcionais ou n&#227;o funcionais.
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1564947504458" FOLDED="true" ID="ID_108794821" MODIFIED="1565040708754" POSITION="right">
+<node CREATED="1564947504458" FOLDED="true" ID="ID_108794821" MODIFIED="1565191890829" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -91,7 +93,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564947526720" HGAP="19" MODIFIED="1564947837163" STYLE="bubble" VSHIFT="24">
+<node COLOR="#006699" CREATED="1564947526720" HGAP="19" ID="ID_1933442832" MODIFIED="1565191886882" STYLE="bubble" VSHIFT="24">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -108,11 +110,12 @@
         Refletem os objetivos e metas estabelecidos para um produto ou sistema durante reuni&#245;es com o cliente.
       </li>
       <li>
-        Se esses requisitos estiverem presentes, o cliente fica satisfeito.
+        Se esses requisitos estiverem presentes, o cliente fica satisfeito
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#338800" CREATED="1564947588019" MODIFIED="1564947807874" STYLE="bubble" TEXT="Ex: Tipos de displays gr&#xe1;ficos solicitados, fun&#xe7;&#xf5;es de &#xa;sistema espec&#xed;ficas e n&#xed;veis de desempenho definidos."/>
 </node>
 <node COLOR="#006699" CREATED="1564947612674" ID="ID_884581072" MODIFIED="1564947840003" STYLE="bubble" VSHIFT="24">
@@ -161,7 +164,7 @@
 <node COLOR="#338800" CREATED="1564947753808" MODIFIED="1564947823915" STYLE="bubble" TEXT="Ex: o software para um novo celular vem com recursos-padr&#xe3;o,&#xa; mas junto vem um conjunto de capacidades n&#xe3;o esperadas.&#xa;Tecla multitoque e Correio de voz visual."/>
 </node>
 </node>
-<node CREATED="1564947863829" FOLDED="true" ID="ID_1346263646" MODIFIED="1565040829849" POSITION="right">
+<node CREATED="1564947863829" ID="ID_1346263646" MODIFIED="1565191891665" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -172,7 +175,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1564947878605" HGAP="21" MODIFIED="1564948074307" STYLE="bubble" VSHIFT="21">
+<node COLOR="#006699" CREATED="1564947878605" HGAP="21" ID="ID_41101234" MODIFIED="1565191918416" STYLE="bubble" VSHIFT="21">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -189,7 +192,7 @@
         Tamb&#233;m chamados de Requisitos Est&#225;veis;
       </li>
       <li>
-        Est&#227;o diretamente ligados <u><b>a atividade principal da organiza&#231;&#227;o;</b></u>
+        Est&#227;o diretamente ligados<font color="#ff0000">&#160;<u><b>a atividade principal da organiza&#231;&#227;o;</b></u></font>
       </li>
       <li>
         S&#227;o concebidos com a ess&#234;ncia de um sistema e seu dom&#237;nio da aplica&#231;&#227;o;
@@ -202,9 +205,10 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node COLOR="#006699" CREATED="1564947889332" FOLDED="true" ID="ID_1514899063" MODIFIED="1565040825845" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564947889332" FOLDED="true" ID="ID_1514899063" MODIFIED="1565191937768" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -221,7 +225,7 @@
         Tamb&#233;m chamados de Requisitos Inst&#225;veis;
       </li>
       <li>
-        S&#227;o espec&#237;ficos para a instancia&#231;&#227;o de um sistema em um ambiente ou um cliente particular e s&#227;o <u><b>mais propensos a mudan&#231;a</b></u>.
+        S&#227;o espec&#237;ficos para a instancia&#231;&#227;o de um sistema em um ambiente ou um cliente particular e s&#227;o<font color="#ff0001">&#160;<u><b>mais propensos a mudan&#231;a</b></u>.</font>
       </li>
       <li>
         Se modificam quando o sistema est&#225; em desenvolvimento ou em uso.
@@ -231,7 +235,8 @@
       Podem ser de quatro tipos -&gt;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#990000" CREATED="1564947906308" ID="ID_121345221" MODIFIED="1565040751815" TEXT="Mut&#xe1;veis">
 <node COLOR="#009999" CREATED="1564949133985" MODIFIED="1564949663574">
 <richcontent TYPE="NODE"><html>
@@ -368,7 +373,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1564949772036" FOLDED="true" ID="ID_690880058" MODIFIED="1565049466009" POSITION="left">
+<node COLOR="#ff0000" CREATED="1564949772036" ID="ID_690880058" MODIFIED="1565191945182" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -381,7 +386,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
-<node COLOR="#0033ff" CREATED="1564949791186" FOLDED="true" ID="ID_551696055" MODIFIED="1565049030590" TEXT="Requisitos Funcionais">
+<node COLOR="#0033ff" CREATED="1564949791186" ID="ID_551696055" MODIFIED="1565191946613" TEXT="Requisitos Funcionais">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564949875189" ID="ID_386737426" MODIFIED="1564950100505" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -469,7 +474,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564949861208" FOLDED="true" HGAP="19" ID="ID_1934139084" MODIFIED="1565049028506" TEXT="Requisitos N&#xe3;o-Funcionais" VSHIFT="23">
+<node COLOR="#0033ff" CREATED="1564949861208" HGAP="19" ID="ID_1934139084" MODIFIED="1565191960458" TEXT="Requisitos N&#xe3;o-Funcionais" VSHIFT="23">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565040925093" ID="ID_1691776731" MODIFIED="1565041311591" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -564,7 +569,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1565041317526" FOLDED="true" ID="ID_1232875419" MODIFIED="1565049026835" TEXT="Requisitos de Dom&#xed;nio" VSHIFT="27">
+<node CREATED="1565041317526" ID="ID_1232875419" MODIFIED="1565191967924" TEXT="Requisitos de Dom&#xed;nio" VSHIFT="27">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565041459620" ID="ID_1397437635" MODIFIED="1565041796429" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -655,9 +660,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1565049032503" FOLDED="true" ID="ID_1413683609" MODIFIED="1565049469108" POSITION="left" TEXT="Classifica&#xe7;&#xe3;o quanto a Origem">
+<node CREATED="1565049032503" ID="ID_1413683609" MODIFIED="1565191973743" POSITION="left" TEXT="Classifica&#xe7;&#xe3;o quanto a Origem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1565049071230" FOLDED="true" ID="ID_1774044354" MODIFIED="1565049468256" STYLE="bubble">
+<node COLOR="#990099" CREATED="1565049071230" ID="ID_1774044354" MODIFIED="1565191977747" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -679,8 +684,7 @@
       &gt; Requisitos externos;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#0033ff" CREATED="1565049165635" ID="ID_1280188652" MODIFIED="1565049453276" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -714,8 +718,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1565049307157" ID="ID_1173173840" MODIFIED="1565049453269" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -753,8 +756,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1565049390659" ID="ID_555327671" MODIFIED="1565049453263" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -789,8 +791,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

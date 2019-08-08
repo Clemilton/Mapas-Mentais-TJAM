@@ -10,8 +10,7 @@
       Engenharia de Requisitos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1565049767821" HGAP="17" ID="ID_1928101837" MODIFIED="1565049866987" POSITION="right" VSHIFT="-138">
 <richcontent TYPE="NODE"><html>
@@ -29,8 +28,7 @@
       &#160;de requisitos de um sistema.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <cloud/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -69,17 +67,37 @@
 <node COLOR="#006699" CREATED="1565050798963" ID="ID_136365575" LINK="Elicitacao.mm" MODIFIED="1565050849468" TEXT="Elicita&#xe7;&#xe3;o e An&#xe1;lise de Requisitos">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006699" CREATED="1565049949765" ID="ID_1660989492" MODIFIED="1565050849467" TEXT="Especifica&#xe7;&#xe3;o">
-<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1565201073213" ID="ID_1129562922" LINK="especificacao.mm" MODIFIED="1565201392950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Especifica&#231;&#227;o dos Requisitos
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565049955704" ID="ID_509175257" MODIFIED="1565050849467" TEXT="Valida&#xe7;&#xe3;o">
-<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565201407887" ID="ID_1321607792" LINK="validacao.mm" MODIFIED="1565201407896">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Valida&#231;&#227;o de Requisitos
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565049959824" ID="ID_1173331204" MODIFIED="1565050849467" TEXT="Gest&#xe3;o">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1565050169786" ID="ID_1523125545" MODIFIED="1565050837460" VSHIFT="22">
+<node COLOR="#0033ff" CREATED="1565050169786" ID="ID_1523125545" MODIFIED="1565192036599" STYLE="bubble" VSHIFT="22">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -95,11 +113,10 @@
       &gt; Sommerville afirma que o objetivo da engenharia<br />de requisitos &#233; criar e manter um documento de<br />requisitos de sistema.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#338800" CREATED="1565049973196" FOLDED="true" ID="ID_156601260" MODIFIED="1565050858982" TEXT="Imagem Comparativa">
+<node COLOR="#338800" CREATED="1565049973196" ID="ID_156601260" MODIFIED="1565192010624" TEXT="Imagem Comparativa">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565049978977" ID="ID_141620579" MODIFIED="1565050039032">
 <richcontent TYPE="NODE"><html>
@@ -109,8 +126,7 @@
   <body>
     <img src="fases_requisitos.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="11"/>
 </node>
 </node>
@@ -145,6 +161,19 @@
 <node CREATED="1564951719197" FOLDED="true" ID="ID_613992008" MODIFIED="1564951727142" TEXT="Requisitos de Espa&#xe7;o">
 <node CREATED="1564951723901" ID="ID_32293329" MODIFIED="1564951724563" TEXT="Os requisitos de espa&#xe7;o do programa referem-se a um atributo mensur&#xe1;vel e que representa uma limita&#xe7;&#xe3;o ou uma propriedade do sistema em quest&#xe3;o. Isso se configura como requisito n&#xe3;o funcional. Ocorre que n&#xe3;o &#xe9; verdade que, em projetos orientados a objetos, essa classifica&#xe7;&#xe3;o ocorra. A Orienta&#xe7;&#xe3;o &#xe0; Objetos &#xe9; um paradigma que n&#xe3;o altera a classifica&#xe7;&#xe3;o dos requisitos."/>
 </node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1565193931633" FOLDED="true" ID="ID_1110132659" MODIFIED="1565193951815" POSITION="left" STYLE="bubble" TEXT="Imagem Espiral de Requisitos">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565193939900" ID="ID_661413892" MODIFIED="1565193946028">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="espiral_requisitos.png" />
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
