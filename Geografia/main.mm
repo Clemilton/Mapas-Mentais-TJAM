@@ -51,7 +51,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564768989223" ID="ID_1560504905" MODIFIED="1565105901914" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o dos munic&#xed;pios em Microregi&#xf5;es">
+<node CREATED="1564768989223" ID="ID_1560504905" MODIFIED="1565361649675" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o dos munic&#xed;pios em Microregi&#xf5;es">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564769140434" ID="ID_1280975935" MODIFIED="1564769608884" TEXT="A divis&#xe3;o do Brasil em mesorregi&#xf5;es e microrregi&#xf5;es&#xa; foi adotada pelo IBGE entre 1989 e 2017."/>
 <node COLOR="#0033ff" CREATED="1564769838386" ID="ID_822078799" MODIFIED="1564770168524" TEXT="Essas duas divis&#xf5;es facilitam o levantamento de dados -&gt; Ex: CENSO"/>
@@ -114,8 +114,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565104043285" ID="ID_1515441778" MODIFIED="1565104180474" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -138,8 +137,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565104226261" ID="ID_1903639576" MODIFIED="1565105908688" STYLE="bubble">
@@ -190,8 +188,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#338800" CREATED="1564770112740" ID="ID_1782931487" MODIFIED="1565104337743" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -203,13 +200,12 @@
   <body>
     <img src="microrregioes.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565104612754" ID="ID_178244260" MODIFIED="1565105550642" POSITION="right" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565104612754" FOLDED="true" ID="ID_178244260" MODIFIED="1565357117837" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -243,8 +239,7 @@
       &gt; 11 regi&#245;es Imeditas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#cc3300" CREATED="1565104635048" ID="ID_36071864" MODIFIED="1565105002652">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -273,8 +268,7 @@
       &gt; a partir do fluxo de gest&#227;o privada ou p&#250;blica e exist&#234;ncia de fun&#231;&#245;es urbanas de maior complexidade;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1565105493218" ID="ID_1720559573" MODIFIED="1565105696432" TEXT="Manaus">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565105744507" ID="ID_73486414" MODIFIED="1565105759618" TEXT="Manaus"/>
@@ -372,7 +366,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564342065888" ID="ID_709900536" MODIFIED="1564766150421" POSITION="left" TEXT="Vegeta&#xe7;&#xe3;o">
+<node CREATED="1564342065888" FOLDED="true" ID="ID_709900536" MODIFIED="1565357136772" POSITION="left" TEXT="Vegeta&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564342217980" ID="ID_1179500413" LINK="Floresta%20Amazonica.mm" MODIFIED="1564342245859" TEXT="Floresta Amaz&#xf4;nica (predominante)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -381,14 +375,14 @@
 <node CREATED="1564342133772" ID="ID_1439621422" MODIFIED="1564342135850" TEXT="Cerrados"/>
 <node CREATED="1564342137146" ID="ID_942280693" MODIFIED="1564342143351" TEXT="Caatinga"/>
 </node>
-<node CREATED="1564343359815" ID="ID_594967547" MODIFIED="1564766381679" POSITION="left" TEXT="Clima Equatorial Quente &#xda;mido">
+<node CREATED="1564343359815" FOLDED="true" ID="ID_594967547" MODIFIED="1565357133748" POSITION="left" TEXT="Clima Equatorial Quente &#xda;mido">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564344521811" ID="ID_359963909" MODIFIED="1564766387426" TEXT="Temperatura elevada com baixa varia&#xe7;&#xe3;o"/>
 <node COLOR="#0033ff" CREATED="1564344591064" ID="ID_1077861154" MODIFIED="1564766387426" TEXT="Per&#xed;odo Chuvoso de 06 meses"/>
 <node COLOR="#0033ff" CREATED="1564344621898" ID="ID_87124175" MODIFIED="1564766387425" TEXT="Precipita&#xe7;&#xe3;o anual variando entre 1.500mm a 1.700mm"/>
 <node COLOR="#0033ff" CREATED="1564344681789" ID="ID_1965307667" MODIFIED="1564766387425" TEXT="Ultrapassando 3.000mm em alguns locais"/>
 </node>
-<node CREATED="1564344725408" ID="ID_1349974297" MODIFIED="1564766390156" POSITION="left" TEXT="Relevo">
+<node CREATED="1564344725408" FOLDED="true" ID="ID_1349974297" MODIFIED="1565357132948" POSITION="left" TEXT="Relevo">
 <node CREATED="1564344770276" ID="ID_220959438" MODIFIED="1564344807385" TEXT="85% da superf&#xed;cie abaixo dos 100m"/>
 <node CREATED="1564344807798" ID="ID_7534111" MODIFIED="1564344829893" TEXT="Tamb&#xe9;m tem as terras mais altas do Pa&#xed;s">
 <node CREATED="1564344924948" ID="ID_411860680" MODIFIED="1564344948391" TEXT="Munic&#xed;pio de Santa Isabel do Rio Negro">
@@ -399,5 +393,6 @@
 </node>
 <node CREATED="1564345057398" ID="ID_200695855" LINK="municipios.mm" MODIFIED="1564345057400" POSITION="left" TEXT="Munic&#xed;pios do Amazonas"/>
 <node CREATED="1564345834307" ID="ID_1838562462" LINK="fronteiras.mm" MODIFIED="1564345834308" POSITION="left" TEXT="Faixa de Fronteira"/>
+<node CREATED="1565357157222" ID="ID_1405285737" LINK="hidrografia.mm" MODIFIED="1565357157223" POSITION="left" TEXT="Hidrografia"/>
 </node>
 </map>

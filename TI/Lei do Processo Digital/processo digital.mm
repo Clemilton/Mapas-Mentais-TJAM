@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1564964086941" ID="ID_29992379" MODIFIED="1564970671830" STYLE="bubble" TEXT="Lei do Processo Digital - Parei no Art4 inciso 1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564964729239" ID="ID_1719357874" MODIFIED="1565231044606" POSITION="right" STYLE="bubble">
+<node CREATED="1564964729239" ID="ID_1719357874" MODIFIED="1565284204414" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -153,8 +153,7 @@
       <font color="#a92db2" size="2">*Obs: Garante a autoria e Integridade(identifica&#231;&#227;o de documento alterado) do documento assinado</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -177,8 +176,7 @@
       Pr&#225;tica de atos processuais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1564967788086" ID="ID_759648508" MODIFIED="1564969855231">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -232,8 +230,7 @@
       <font color="#ff0000">N&#227;o &#233; poss&#237;vel credenciamento por&#160;Procura&#231;&#227;o</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1564968373945" ID="ID_1889023350" MODIFIED="1564969960785">
 <richcontent TYPE="NODE"><html>
@@ -314,7 +311,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564964745772" ID="ID_1500942632" MODIFIED="1565231319859" POSITION="right">
+<node CREATED="1564964745772" ID="ID_1500942632" MODIFIED="1565284215042" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -344,8 +341,7 @@
       <b><font color="#ff0000">Di&#225;rio de Justi&#231;a Eletr&#244;nico</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#cc3300" CREATED="1564970562930" ID="ID_1415913080" MODIFIED="1565232662050">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -368,8 +364,7 @@
       &gt; Tamb&#233;m usado em Comunica&#231;&#245;es em geral<br />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1565231773816" ID="ID_338362927" MODIFIED="1565232476991">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -392,8 +387,7 @@
       &gt; Por um certificado emitido por&#160;&#160;<b><font color="#ff0000">Autoridade Certificadora</font></b>&#160;creden-<br />ciada na forma da lei;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565231891605" ID="ID_1853732904" MODIFIED="1565232476988">
 <richcontent TYPE="NODE"><html>
@@ -417,8 +411,7 @@
       &gt; <b><font color="#ff0000">Exceto os casos que exigem intima&#231;&#227;o ou vista pessoal</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565232100607" ID="ID_1258625316" MODIFIED="1565232476985">
 <richcontent TYPE="NODE"><html>
@@ -436,8 +429,7 @@
       &gt; O<b><font color="#ff0000">&#160;primeiro dia &#250;til seguinte</font></b>&#160;ao da <u>disponibiliza&#231;&#227;o da informa&#231;&#227;o</u><br />no Di&#225;rio de Justi&#231;a Eletr&#244;nico;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565232213319" ID="ID_1240940535" MODIFIED="1565232476983">
 <richcontent TYPE="NODE"><html>
@@ -455,8 +447,7 @@
       &gt; <b>No primeiro dia &#250;til que seguir</b>&#160;ao considerado como<u>&#160; data da publica&#231;&#227;o.</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565232370073" ID="ID_264055327" MODIFIED="1565232476980">
 <richcontent TYPE="NODE"><html>
@@ -480,8 +471,7 @@
       <font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif">&gt; Ato administrativo correspondente ser&#225; publicado durante 30(trinta) dias</font><br />no di&#225;rio oficial em uso;<font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif"><b>&#160;</b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -513,8 +503,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565233797103" ID="ID_1223561288" MODIFIED="1565234597092">
 <richcontent TYPE="NODE"><html>
@@ -535,8 +524,7 @@
       <b>&gt; </b>certificando-se nos autos a sua realiza&#231;&#227;o;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1565233987099" ID="ID_107198209" MODIFIED="1565234597094">
@@ -555,8 +543,7 @@
       &gt; <u>Caso a consulta se d&#234; em dia n&#227;o &#250;til</u>, a intima&#231;&#227;o ser&#225; considerada<br />como realizada no <b><font color="#ff0000">primeiro dia &#250;til seguinte</font></b>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1565234066286" ID="ID_1261041762" MODIFIED="1565234597094">
@@ -587,11 +574,10 @@
       &gt; Ser&#225; considerada a <b><font color="#ff0000">intima&#231;&#227;o automaticamente realizada</font></b><br /><u>na data do t&#233;rmino desse prazo.</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006699" CREATED="1565234202089" FOLDED="true" ID="ID_204000075" MODIFIED="1565234703252">
+<node COLOR="#006699" CREATED="1565234202089" ID="ID_204000075" MODIFIED="1565284232676">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -619,8 +605,7 @@
       &gt; aos que manifestarem interesse por esse servi&#231;o.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1565234394262" ID="ID_1980765483" MODIFIED="1565234597096">
 <richcontent TYPE="NODE"><html>
@@ -632,8 +617,7 @@
       &gt; OBS: Esse servi&#231;o tem car&#225;ter <b><font color="#0004ff">INFORMATIVO</font></b>; O n&#227;o recebimento do<br />&#160;e-mail( por qualquer raz&#227;o), n&#227;o serve de argumenta&#231;&#227;o de n&#227;o ter<br />&#160;recebido uma intima&#231;&#227;o;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -664,8 +648,7 @@
       &gt; O ato processual dever&#225; ser realizado por <b><font color="#0009ff">outro meio que atinja a sua finalidade</font></b>, conforme determinado pelo juiz.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565234856329" ID="ID_1287519007" MODIFIED="1565234985879">
 <richcontent TYPE="NODE"><html>
@@ -683,8 +666,7 @@
       &gt; As intima&#231;&#245;es feitas na forma deste artigo, <b><font color="#0800ff">inclusive da Fazenda P&#250;blica</font></b>,<br />ser&#227;o consideradas pessoais para todos os efeitos legais.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565234906480" ID="ID_654921084" MODIFIED="1565235175627">
@@ -720,8 +702,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565235179362" ID="ID_510532619" MODIFIED="1565235353258">
 <richcontent TYPE="NODE"><html>
@@ -757,8 +738,7 @@
       &gt; E dos dos demais Poderes;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564964764917" ID="ID_343085080" MODIFIED="1564970208605" POSITION="right">

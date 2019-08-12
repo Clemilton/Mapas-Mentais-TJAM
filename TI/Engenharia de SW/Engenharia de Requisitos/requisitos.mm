@@ -77,8 +77,7 @@
       Especifica&#231;&#227;o dos Requisitos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565201407887" ID="ID_1321607792" LINK="validacao.mm" MODIFIED="1565201407896">
 <richcontent TYPE="NODE"><html>
@@ -90,12 +89,9 @@
       Valida&#231;&#227;o de Requisitos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565049959824" ID="ID_1173331204" MODIFIED="1565050849467" TEXT="Gest&#xe3;o">
-<font NAME="SansSerif" SIZE="12"/>
-</node>
+<node CREATED="1565283705408" ID="ID_468454484" LINK="gerenciamento.mm" MODIFIED="1565283705411" TEXT="Gerenciamento de Requisitos"/>
 </node>
 <node COLOR="#0033ff" CREATED="1565050169786" ID="ID_1523125545" MODIFIED="1565192036599" STYLE="bubble" VSHIFT="22">
 <richcontent TYPE="NODE"><html>
@@ -163,7 +159,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1565193931633" FOLDED="true" ID="ID_1110132659" MODIFIED="1565193951815" POSITION="left" STYLE="bubble" TEXT="Imagem Espiral de Requisitos">
+<node COLOR="#338800" CREATED="1565193931633" FOLDED="true" ID="ID_1110132659" MODIFIED="1565375197984" POSITION="left" STYLE="bubble" TEXT="Imagem Espiral de Requisitos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565193939900" ID="ID_661413892" MODIFIED="1565193946028">
 <richcontent TYPE="NODE"><html>

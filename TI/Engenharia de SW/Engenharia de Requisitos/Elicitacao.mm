@@ -33,9 +33,8 @@
       &gt; Processo de <u><b><font color="#ff0700">intera&#231;&#227;o com os stakeholders para coletar requisitos</font></b></u>. Os requisitos de dom&#237;nio s&#227;o descobertos durante essa atividade;.
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1565192213973" FOLDED="true" ID="ID_771231628" MODIFIED="1565193590566" STYLE="bubble">
+</html></richcontent>
+<node CREATED="1565192213973" ID="ID_771231628" MODIFIED="1565286324221" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -243,7 +242,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565193088573" ID="ID_822384672" MODIFIED="1565193234950">
+<node CREATED="1565193088573" ID="ID_822384672" MODIFIED="1565286354344">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -256,7 +255,13 @@
       
     </p>
     <p>
-      &gt; T&#233;cnica de elicita&#231;&#227;o, independente de tecnologia, utilizada no est&#225;gio inicial do projeto, ajudando stakeholders a desenvolverem uma forte no&#231;&#227;o sobre a aplica&#231;&#227;o a ser implementada;
+      &gt; T&#233;cnica de elicita&#231;&#227;o,<b><font color="#ff0000">&#160;independente de tecnologia</font></b>, utilizada no est&#225;gio inicial do projeto;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Ajuda os stakeholders a desenvolverem uma forte no&#231;&#227;o sobre a aplica&#231;&#227;o a ser implementada;
     </p>
     <p>
       
@@ -303,6 +308,37 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1565460550807" ID="ID_907303093" MODIFIED="1565460598310">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Laddering: </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; &#201; um m&#233;todo de entrevistas estruturadas, um-a-um;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Utilizado para o&#160;&#160;levantamento de conhecimento (o que &#233; importante e por que) de&#160;&#160;especialistas, e que consiste na cria&#231;&#227;o, revis&#227;o e modifica&#231;&#227;o da&#160;&#160;hierarquia de conhecimento dos especialistas geralmente na forma de&#160;&#160;diagramas hier&#225;rquicos (ex.: diagrama em &#225;rvore).
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Consiste em um m&#233;todo anal&#237;tico.&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565051105729" ID="ID_324486146" MODIFIED="1565192109591">
@@ -321,8 +357,7 @@
       &gt; Esta atividade envolve a cole&#231;&#227;o de requisitos n&#227;o estruturados, agrupa os requisitos relacionados e os organiza em conjuntos diferentes;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565193597289" ID="ID_127343874" MODIFIED="1565193746737">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -345,8 +380,7 @@
       &gt; O analista de requisitos se preocupar&#225; em fazer v&#225;rias verifica&#231;&#245;es de conflito, consist&#234;ncia, omiss&#227;o e ambiguidade;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565051192627" ID="ID_862246449" MODIFIED="1565192133255">
@@ -365,8 +399,7 @@
       Inevitavelmente, os requisitos ser&#227;o conflitantes. Assim, <b><font color="#ff0000"><u>busca-se priorizar os requisitos e resolver conflitos por meio de negocia&#231;&#227;o</u></font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565193773217" ID="ID_1730730465" MODIFIED="1565193812908">
 <richcontent TYPE="NODE"><html>
@@ -384,8 +417,7 @@
       &gt; Utiliza-se uma abordagem iterativa que avalia custos e riscos de modo a balancear todas as demandas.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565051282218" ID="ID_1261240743" MODIFIED="1565051447076">
@@ -415,8 +447,7 @@
       &gt; Documentar formalmente ou informalmente os requisitos levantados, classificados, organizados, priorizados e negociados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1565051373968" ID="ID_925035943" MODIFIED="1565192172538" TEXT="Imagem do Processo">

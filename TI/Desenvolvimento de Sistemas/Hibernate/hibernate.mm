@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1565014460175" ID="ID_1373341644" MODIFIED="1565014464954" TEXT="Hibernate">
-<node CREATED="1565020812853" FOLDED="true" ID="ID_160102630" MODIFIED="1565212273559" POSITION="right" TEXT="Conceitos Iniciais">
+<node CREATED="1565020812853" ID="ID_160102630" MODIFIED="1565297849198" POSITION="right" TEXT="Conceitos Iniciais">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565020376046" ID="ID_1354809321" MODIFIED="1565027498268" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -112,9 +112,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1565020827243" FOLDED="true" ID="ID_677728578" MODIFIED="1565212274935" POSITION="right" STYLE="bubble" TEXT="Arquitetura Hibernate">
+<node CREATED="1565020827243" ID="ID_677728578" MODIFIED="1565298528071" POSITION="right" STYLE="bubble" TEXT="Arquitetura Hibernate">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565020842077" FOLDED="true" ID="ID_995430365" MODIFIED="1565214894388" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565020842077" ID="ID_995430365" MODIFIED="1565295534363">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -136,20 +136,14 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1565027800922" FOLDED="true" ID="ID_194041090" MODIFIED="1565214894388" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565027800922" ID="ID_194041090" MODIFIED="1565295559030">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; O primeiro e o segundo fazem a mesma fun&#231;&#227;o
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; configurar um servidor hibernate;
+      &gt; O primeiro e o segundo fazem a mesma fun&#231;&#227;o que &#233;<br />configurar um servidor hibernate;
     </p>
     <p>
       
@@ -176,9 +170,9 @@
       &gt; localiza&#231;&#227;o do arquivo hbm.xml;
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1565028069681" ID="ID_1647833181" MODIFIED="1565212266320">
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565028069681" ID="ID_1647833181" MODIFIED="1565295537465">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -188,7 +182,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565210977091" ID="ID_626202002" MODIFIED="1565212266331">
+<node COLOR="#006699" CREATED="1565210977091" ID="ID_626202002" MODIFIED="1565295539797">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -204,11 +198,10 @@
       &gt; &#201; a classe utilizada pelo hibernate para interagir com o banco de dados por meio de sess&#245;es;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565028094060" FOLDED="true" ID="ID_1704145279" MODIFIED="1565214894388">
+<node COLOR="#006699" CREATED="1565028094060" ID="ID_1704145279" MODIFIED="1565295809668">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -224,8 +217,7 @@
       &gt; &#201; uma boa pr&#225;tica criar um arquivo <b><font color="#ff0000">hbm.xml para cada classe de persist&#234;ncia</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565028235327" ID="ID_1047638316" MODIFIED="1565212266334">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -238,7 +230,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565211206778" FOLDED="true" ID="ID_1888853469" MODIFIED="1565212266345" STYLE="bubble" TEXT="Imagem">
+<node COLOR="#006699" CREATED="1565211206778" ID="ID_1888853469" MODIFIED="1565298542661" STYLE="bubble" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565211240105" ID="ID_166274818" MODIFIED="1565211427300">
 <richcontent TYPE="NODE"><html>
@@ -248,8 +240,7 @@
   <body>
     <img src="arquitetura_hibernate.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565211320017" ID="ID_337405501" MODIFIED="1565212236787">
 <richcontent TYPE="NODE"><html>
@@ -267,8 +258,7 @@
       &gt; Entre a camada de aplica&#231;&#227;o e banco de dados h&#225; diversos componentes<br />hibernate;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565211405802" ID="ID_1079027861" MODIFIED="1565212236784">
 <richcontent TYPE="NODE"><html>
@@ -307,10 +297,9 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565211641221" ID="ID_81641833" MODIFIED="1565212236782">
+<node COLOR="#006699" CREATED="1565211641221" ID="ID_81641833" MODIFIED="1565298621837">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -336,6 +325,12 @@
     </p>
     <p>
       &gt; Objeto Pesado, thread-safe, imut&#225;vel
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Fica aberto durante toda a execu&#231;&#227;o;
     </p>
     <p>
       
@@ -381,8 +376,7 @@
       &gt; Objeto single-threaded, de vida curta;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565212020087" ID="ID_1237416887" MODIFIED="1565212236779">
 <richcontent TYPE="NODE"><html>
@@ -412,12 +406,11 @@
       &gt; A partir de uma inst&#226;ncia desse objeto, indica-se como os mapeamentos<br />entre classes e tabelas s&#227;o realizados;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565212277010" FOLDED="true" ID="ID_403065880" MODIFIED="1565213644490" POSITION="left" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565212277010" ID="ID_403065880" MODIFIED="1565297024586" POSITION="left" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -427,8 +420,7 @@
       Estados dos Objetos<br />&#160;Hibernate
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565212318224" ID="ID_378873575" MODIFIED="1565212472407">
 <richcontent TYPE="NODE"><html>
@@ -451,10 +443,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#338800" CREATED="1565212474873" FOLDED="true" ID="ID_1369835584" MODIFIED="1565213642938" TEXT="Imagem">
+<node COLOR="#338800" CREATED="1565212474873" ID="ID_1369835584" MODIFIED="1565297775401" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565212482775" FOLDED="true" ID="ID_1267946939" MODIFIED="1565214894388">
 <richcontent TYPE="NODE"><html>
@@ -464,8 +455,7 @@
   <body>
     <img src="estados_hibernate.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1565212616497" ID="ID_1109424911" MODIFIED="1565213325843">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -494,8 +484,7 @@
       &gt; N&#227;o h&#225; um valor de identificador;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565212768710" ID="ID_884781685" MODIFIED="1565213325842">
 <richcontent TYPE="NODE"><html>
@@ -525,8 +514,7 @@
       &gt; Qualquer mudan&#231;a nesse objeto &#233; detectada e sincronizada<br />&#160;com o BD;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565212867796" ID="ID_3946341" MODIFIED="1565213325840">
 <richcontent TYPE="NODE"><html>
@@ -562,8 +550,7 @@
       &gt; Trata-se de um estado intermedi&#225;rio.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#cc3300" CREATED="1565213022000" ID="ID_824247501" MODIFIED="1565213301766">
@@ -593,12 +580,63 @@
       </li>
     </ol>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1565296963526" HGAP="24" ID="ID_34305894" MODIFIED="1565297790335" POSITION="left" TEXT="Arquivos e Propriedades" VSHIFT="47">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565296975366" ID="ID_620727676" MODIFIED="1565297028850">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hibernate.hbm2ddl.auto
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1565296981507" ID="ID_712270408" MODIFIED="1565298520826">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div http-equiv="content-type" content="text/html; charset=utf-8" size="" style="color: rgb(51, 51, 51); font-family: Source Sans Pro, Trebuchet MS, Tahoma, sans-serif; font-size: 17.6px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)">
+      <font color="rgb(51, 51, 51)" size="3">&gt; A propriedade hibernate.hbm2ddl.auto valida automaticamente ou exporta um esquema DDL para uma base de dados.</font>
+    </div>
+    <div size="" style="color: rgb(51, 51, 51); font-family: Source Sans Pro, Trebuchet MS, Tahoma, sans-serif; font-size: 17.6px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)">
+      <font size="3">&#160; </font>
+    </div>
+    <div size="" style="color: rgb(51, 51, 51); font-family: Source Sans Pro, Trebuchet MS, Tahoma, sans-serif; font-size: 17.6px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)">
+      <font color="rgb(51, 51, 51)" size="3">A lista de valores poss&#237;veis &#233; a seguinte:</font>
+    </div>
+    <ul>
+      <li>
+        <font color="rgb(51, 51, 51)" size="3"><strong size="" style="font-weight: bold; color: rgb(51, 51, 51)"><b>validate</b></strong>: valida o esquema, n&#227;o realiza altera&#231;&#245;es na base de dados</font>
+      </li>
+      <li size="" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px">
+        <font color="rgb(51, 51, 51)" size="3"><strong size="" style="font-weight: bold; color: rgb(51, 51, 51)"><b>update</b></strong>: atualiza o esquema</font>
+      </li>
+      <li size="" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px">
+        <font color="rgb(51, 51, 51)" size="3"><strong size="" style="font-weight: bold; color: rgb(51, 51, 51)"><b>create</b></strong>: cria u esquema, destruindo dados anteriores</font>
+      </li>
+      <li size="" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px">
+        <font color="rgb(51, 51, 51)" size="3"><strong size="" style="font-weight: bold; color: rgb(51, 51, 51)"><b>create-drop</b></strong>: realiza o &quot;drop&quot; do esquema ao final da sess&#227;o</font>
+      </li>
+    </ul>
+    <br class="Apple-interchange-newline" />
+    
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1565213334473" FOLDED="true" ID="ID_234860133" MODIFIED="1565214776002" POSITION="left" TEXT="Anota&#xe7;&#xf5;es e Mapeamento">
+<node CREATED="1565213334473" FOLDED="true" ID="ID_234860133" MODIFIED="1565296956463" POSITION="left" TEXT="Anota&#xe7;&#xf5;es e Mapeamento">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565213703366" FOLDED="true" ID="ID_1278595845" MODIFIED="1565214894388" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -628,8 +666,7 @@
       &gt; Foi introduzido a partir do Java SE 5.0
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565213769604" ID="ID_192840357" MODIFIED="1565213929118">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -638,8 +675,7 @@
   <body>
     <img src="anotacoes_hibernate.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565214679119" ID="ID_578723799" MODIFIED="1565214728706">
 <richcontent TYPE="NODE"><html>
@@ -662,8 +698,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565213974030" FOLDED="true" ID="ID_890094034" MODIFIED="1565214894388" STYLE="bubble">
@@ -694,8 +729,7 @@
       &gt; Podem ter nomes parecidos, mas n&#227;o s&#227;o iguais;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565214149864" ID="ID_88438932" MODIFIED="1565214735747">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -704,11 +738,10 @@
   <body>
     <img src="mapeamento_hibernate.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565213963450" FOLDED="true" ID="ID_8863732" MODIFIED="1565214894388" TEXT="Exemplo">
+<node CREATED="1565213963450" ID="ID_8863732" MODIFIED="1565296942984" TEXT="Exemplo">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565214192101" FOLDED="true" ID="ID_999917615" MODIFIED="1565214894388" TEXT="SQL">
 <node CREATED="1565214198532" ID="ID_1969527428" MODIFIED="1565214216127">
@@ -719,11 +752,10 @@
   <body>
     <img src="sql_ex.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565214194607" FOLDED="true" ID="ID_770359555" MODIFIED="1565214894388" TEXT="Hibernate">
+<node CREATED="1565214194607" FOLDED="true" ID="ID_770359555" MODIFIED="1565296947503" TEXT="Hibernate">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565214243953" ID="ID_400893187" MODIFIED="1565214247097">
 <richcontent TYPE="NODE"><html>
@@ -733,8 +765,7 @@
   <body>
     <img src="hibernate_ex01.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565214249143" ID="ID_571152178" MODIFIED="1565214285933">
 <richcontent TYPE="NODE"><html>
@@ -744,8 +775,7 @@
   <body>
     <img src="hibernate_ex02.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565214288038" ID="ID_330225900" MODIFIED="1565214321733">
 <richcontent TYPE="NODE"><html>
@@ -755,15 +785,14 @@
   <body>
     <img src="hibernate_ex03.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1565214777598" FOLDED="true" ID="ID_1507709327" MODIFIED="1565214894389" POSITION="left" TEXT="Considera&#xe7;&#xf5;es FInais">
+<node CREATED="1565214777598" ID="ID_1507709327" MODIFIED="1565298314026" POSITION="left" TEXT="Considera&#xe7;&#xf5;es FInais">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565214783057" ID="ID_1746806503" MODIFIED="1565214893695">
+<node COLOR="#006699" CREATED="1565214783057" ID="ID_1746806503" MODIFIED="1565298518447">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -788,7 +817,13 @@
       <font color="#010101">&gt; O mais apropriado &#233; termos uma cache no cliente final que faz a </font>
     </p>
     <p>
-      <font color="#010101">conex&#227;o com a base de dados.</font>
+      <font color="#010101">conex&#227;o com a base de dados. </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <b>Nota de Rodap&#233;</b>: Classes Persistentes n&#227;o precisam implementar interfaces ou herdar de uma classe-base especial!
     </p>
   </body>
 </html>

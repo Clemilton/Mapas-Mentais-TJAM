@@ -12,7 +12,18 @@
 <node COLOR="#338800" CREATED="1564236362318" ID="ID_1260434972" MODIFIED="1564493166334" TEXT="multithreading"/>
 <node COLOR="#338800" CREATED="1564236375447" ID="ID_1311180098" MODIFIED="1564493166334" TEXT="etc..."/>
 </node>
-<node COLOR="#0033ff" CREATED="1564236392590" ID="ID_835907179" MODIFIED="1564493214192" POSITION="right" TEXT="multiplataforma s/ necessidade de recompila&#xe7;&#xe3;o">
+<node COLOR="#0033ff" CREATED="1564236392590" ID="ID_835907179" MODIFIED="1565381149704" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000">multiplataforma s/ necessidade de recompila&#231;&#227;o</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#0033ff" CREATED="1564236427449" ID="ID_896802027" MODIFIED="1564493173057" POSITION="right" TEXT="aborda diversos aspectos de uma app corporativa:">

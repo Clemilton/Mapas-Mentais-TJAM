@@ -38,8 +38,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#338800" CREATED="1564947348805" MODIFIED="1564947434348" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -77,8 +76,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564947504458" FOLDED="true" ID="ID_108794821" MODIFIED="1565191890829" POSITION="right">
@@ -114,8 +112,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#338800" CREATED="1564947588019" MODIFIED="1564947807874" STYLE="bubble" TEXT="Ex: Tipos de displays gr&#xe1;ficos solicitados, fun&#xe7;&#xf5;es de &#xa;sistema espec&#xed;ficas e n&#xed;veis de desempenho definidos."/>
 </node>
 <node COLOR="#006699" CREATED="1564947612674" ID="ID_884581072" MODIFIED="1564947840003" STYLE="bubble" VSHIFT="24">
@@ -205,8 +202,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564947889332" FOLDED="true" ID="ID_1514899063" MODIFIED="1565191937768" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -235,8 +231,7 @@
       Podem ser de quatro tipos -&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#990000" CREATED="1564947906308" ID="ID_121345221" MODIFIED="1565040751815" TEXT="Mut&#xe1;veis">
 <node COLOR="#009999" CREATED="1564949133985" MODIFIED="1564949663574">
 <richcontent TYPE="NODE"><html>
@@ -511,6 +506,17 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1565457677665" ID="ID_1445945221" MODIFIED="1565457692443">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="Requisitos_nfuncionais.png" />
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node COLOR="#cc3300" CREATED="1565041061810" HGAP="21" ID="ID_1433435105" MODIFIED="1565041311588" STYLE="bubble" VSHIFT="10">
 <richcontent TYPE="NODE"><html>
@@ -658,6 +664,26 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+<node COLOR="#006699" CREATED="1565460371607" ID="ID_278267737" MODIFIED="1565460400812" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Teste Caixa preta -&gt; Funcionais;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Teste Caixa Branca -&gt; N&#227;o Funcionais
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1565049032503" ID="ID_1413683609" MODIFIED="1565191973743" POSITION="left" TEXT="Classifica&#xe7;&#xe3;o quanto a Origem">

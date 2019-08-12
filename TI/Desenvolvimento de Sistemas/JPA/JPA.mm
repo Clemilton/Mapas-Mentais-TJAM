@@ -10,10 +10,9 @@
       JPA - Java Persistence API
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564774068714" FOLDED="true" ID="ID_1918865776" MODIFIED="1565013128020" POSITION="right" TEXT="Conceitos Iniciais">
+<node CREATED="1564774068714" ID="ID_1918865776" MODIFIED="1565297091864" POSITION="right" TEXT="Conceitos Iniciais">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564774543445" ID="ID_1042980143" MODIFIED="1564928129621" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -158,7 +157,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564775645828" FOLDED="true" HGAP="21" ID="ID_1865997240" MODIFIED="1565013202607" POSITION="right" TEXT="Partes do JPA" VSHIFT="23">
+<node CREATED="1564775645828" FOLDED="true" HGAP="21" ID="ID_1865997240" MODIFIED="1565296164941" POSITION="right" TEXT="Partes do JPA" VSHIFT="23">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564775696789" ID="ID_1186401062" MODIFIED="1564928236139" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -232,8 +231,7 @@
       <font color="#008000">&gt; Permite desenvolver consultas de modo que compilador Java possa </font><font color="#ff0300"><u>verificar quanto &#224; corre&#231;&#227;o na compila&#231;&#227;o.</u></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564775760912" ID="ID_1674983786" MODIFIED="1564928250491" STYLE="bubble" VSHIFT="13">
 <richcontent TYPE="NODE"><html>
@@ -254,7 +252,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564775869430" FOLDED="true" ID="ID_1995168037" MODIFIED="1565013287116" POSITION="right" TEXT="Annotations">
+<node CREATED="1564775869430" ID="ID_1995168037" MODIFIED="1565296166948" POSITION="right" TEXT="Annotations">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564775876477" ID="ID_786555304" MODIFIED="1564930467293" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -296,7 +294,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564775917974" FOLDED="true" ID="ID_165907785" MODIFIED="1565013280974" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564775917974" ID="ID_165907785" MODIFIED="1565296167818" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -335,6 +333,29 @@
     </ul>
   </body>
 </html></richcontent>
+<node COLOR="#990099" CREATED="1565296218400" ID="ID_1213775383" MODIFIED="1565296295511">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      As&#160;classes de entidade devem seguir tr&#234;s regra:
+    </p>
+    <ul>
+      <li>
+        <font color="rgb(52, 58, 64)" face="Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif">Devem ser anotadas com @Entity;</font>
+      </li>
+      <li>
+        <font color="rgb(52, 58, 64)" face="Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif">&#160;Devem ter um campo definido que representa a chave prim&#225;ria da tabela, anotado com @Id</font><br />
+      </li>
+      <li>
+        Devem ter um construtor p&#250;blico sem par&#226;metros;
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1564775953440" ID="ID_1831202882" MODIFIED="1565013223921" STYLE="bubble" TEXT="@Table">
@@ -357,7 +378,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1564929250612" ID="ID_1782362081" MODIFIED="1564929254942">
+<node COLOR="#990099" CREATED="1564929250612" ID="ID_1782362081" MODIFIED="1565296293535">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -517,6 +538,21 @@
 <node COLOR="#006699" CREATED="1564776121185" ID="ID_1831052657" MODIFIED="1564930686181" STYLE="bubble" TEXT="@OneToOne">
 <node COLOR="#338800" CREATED="1564930616443" ID="ID_1935393551" MODIFIED="1564930686181" TEXT="Mapeamento um para um (1:1)."/>
 </node>
+<node COLOR="#006699" CREATED="1565296769127" ID="ID_634050209" MODIFIED="1565296779015" TEXT="@PrimaryKeyJoinColumn">
+<node COLOR="#338800" CREATED="1565296780240" ID="ID_1053687696" MODIFIED="1565296819712">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; &#233; utilizada quando a chave prim&#225;ria da tabela mapeada &#233; tamb&#233;m<br />uma chave estrangeira.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1564776150808" ID="ID_1069405387" MODIFIED="1565013288093" POSITION="right" TEXT="EntityManager">
@@ -560,8 +596,7 @@
       &gt; Gerencia o Ciclo de Vida de v&#225;rias entidades.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1565013432945" ID="ID_1090517617" MODIFIED="1565013432945" TEXT=""/>
@@ -592,8 +627,7 @@
       &gt; Faz uma nova inst&#226;ncia, gerenci&#225;vel e persist&#237;vel;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565013785972" ID="ID_1920310855" MODIFIED="1565013855924">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -602,8 +636,7 @@
   <body>
     <img src="persist.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990000" CREATED="1565013859088" ID="ID_1180921810" MODIFIED="1565013935287" TEXT="&gt; Utilizamos o m&#xe9;todo persist da EntityManager para  salvar a Entity Pessoa no banco de dados.&#xa;&#xa;&gt; Note que criamos uma javax.persitence.EntityTransaction para criar uma transa&#xe7;&#xe3;o, pois os m&#xe9;todos persist(), merge() e remove() precisam de um transa&#xe7;&#xe3;o para realizar suas opera&#xe7;&#xf5;es no banco de dados.">
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
@@ -611,7 +644,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564777239173" FOLDED="true" ID="ID_241729467" MODIFIED="1565013395313" STYLE="bubble" TEXT="&gt; Diagrama de Classe">
+<node COLOR="#006699" CREATED="1564777239173" ID="ID_241729467" MODIFIED="1565296177295" STYLE="bubble" TEXT="&gt; Diagrama de Classe">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564777245175" ID="ID_1392039555" MODIFIED="1564930992395" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -627,7 +660,7 @@
 </node>
 <node COLOR="#006699" CREATED="1564931040410" ID="ID_1900510101" MODIFIED="1565013348195" TEXT="&gt; Ciclo de Vida da Entity(http://www.universidadejava.com.br/materiais/jpa-entitymanager/)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565013540929" ID="ID_462997793" MODIFIED="1565013602011">
+<node CREATED="1565013540929" ID="ID_462997793" MODIFIED="1565295993777" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -649,8 +682,7 @@
       &gt; Todas as identidades das entidades s&#227;o &#250;nicas e para cada registro no banco de dados haver&#225; apenas uma referencia no contexto do EntityManager.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564931051513" ID="ID_663081218" MODIFIED="1564931361875" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -706,8 +738,7 @@
       &gt; Mudan&#231;as no estado da Entity n&#227;o s&#227;o sincronizadas com o banco de dados;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565014205147" ID="ID_1117728916" MODIFIED="1565014422300">
 <richcontent TYPE="NODE"><html>
@@ -731,8 +762,7 @@
       &gt; Mudan&#231;as no estado da Entity s&#227;o sincronizados com o banco de dados <u><font color="#ff0000">assim que uma transa&#231;&#227;o for finalizada</font></u>&#160;com sucesso.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565014292118" ID="ID_728622916" MODIFIED="1565014422305">
 <richcontent TYPE="NODE"><html>
@@ -756,8 +786,7 @@
       &gt; Essa entidade ser&#225; removida fisicamente do banco de dados quando a transa&#231;&#227;o for finalizada com sucesso;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565014329528" ID="ID_1654224837" MODIFIED="1565014422309">
 <richcontent TYPE="NODE"><html>
@@ -787,8 +816,7 @@
       &gt; Altera&#231;&#245;es em seu estado n&#227;o s&#227;o refletidos na base de dados.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565013536467" ID="ID_1560859149" MODIFIED="1565013536467" TEXT=""/>
@@ -803,8 +831,7 @@
       &gt; PersistenceContext
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990000" CREATED="1564777334099" ID="ID_1653558095" MODIFIED="1565014048497">
 <richcontent TYPE="NODE"><html>
@@ -828,8 +855,7 @@
       gerenciadas pelo EntityManager
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

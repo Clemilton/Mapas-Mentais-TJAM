@@ -63,30 +63,98 @@
 <node CREATED="1564372015021" ID="ID_903812331" MODIFIED="1564372073330" TEXT="Como s&#xe3;o n&#xe3;o-persistentes, o cliente n&#xe3;o acessa um MDB diretamente, mas por meio do JMS enviando mensagens para o destinat&#xe1;rio."/>
 </node>
 <node CREATED="1564371708278" ID="ID_1742486730" MODIFIED="1564493455013" TEXT="Session Beans (SB)">
-<node CREATED="1564372085069" ID="ID_78077172" MODIFIED="1564372100569" TEXT="objeto n&#xe3;o persistente">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1565382448059" ID="ID_1814595085" MODIFIED="1565382586240">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Trata-se de um objeto n&#227;o-persistente que implementa alguma
+    </p>
+    <p>
+      l&#243;gica de neg&#243;cio ou fluxo de trabalho no servidor.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Eles servem para executar alguma tarefa em nome de um &#250;nico cliente
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Implementa a interface javax.ejb.SessionBean,
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Pode implementar Web Services.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; O Cont&#234;iner EJB prov&#234; um ambiente escal&#225;vel para executar um grande n&#250;mero de SBs concorrentemente.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Encapsula a l&#243;gica de neg&#243;cio;
+    </p>
+    <p>
+      O cliente pode chamar de forma
+    </p>
+    <ul>
+      <li>
+        local
+      </li>
+      <li>
+        remota
+      </li>
+      <li>
+        webservices
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1564372126459" ID="ID_593495614" MODIFIED="1564372158841" TEXT="Implementa alguma l&#xf3;gica de n&#xe9;gocio ou fluxo de trabalho do servidor"/>
-<node CREATED="1564372159235" ID="ID_1050258192" MODIFIED="1564372246597" TEXT="serve p/ executar alguma tarefa em nome de um &#xfa;nico cliente"/>
-<node CREATED="1564372183040" ID="ID_437229157" MODIFIED="1564372211291" TEXT="Implementa -&gt; javax.ejb.SessionBean"/>
-<node CREATED="1564372211746" ID="ID_208583481" MODIFIED="1564372221909" TEXT="Pode implementar WEBSERVICES"/>
-<node CREATED="1564372646509" ID="ID_767503893" MODIFIED="1564496258845" TEXT="encapsula a l&#xf3;gica de neg&#xf3;cio">
-<node CREATED="1564372675455" ID="ID_1388023143" MODIFIED="1564372694680" TEXT="cliente pode chamar de forma">
-<node CREATED="1564372696101" ID="ID_1334628324" MODIFIED="1564372697557" TEXT="local"/>
-<node CREATED="1564372697845" ID="ID_103907199" MODIFIED="1564372698966" TEXT="remota"/>
-<node CREATED="1564372699300" ID="ID_535104991" MODIFIED="1564372708287" TEXT="webservices"/>
-</node>
-</node>
-<node CREATED="1564372748876" ID="ID_1967505408" MODIFIED="1564372763860" TEXT="Msgs JMS apenas de forma S&#xed;ncronas"/>
 <node CREATED="1564372224912" ID="ID_1490035846" MODIFIED="1564493569957" TEXT="Tipos de Session Beans">
-<node CREATED="1564372286208" ID="ID_68555899" MODIFIED="1564496508918" TEXT="Stateless">
-<node CREATED="1564372791037" ID="ID_1766992388" MODIFIED="1564372797652" TEXT="objetos de neg&#xf3;cio"/>
-<node CREATED="1564372798128" ID="ID_1259903074" MODIFIED="1564372824888" TEXT="n&#xe3;o mant&#xe9;m o estado entre invoca&#xe7;&#xf5;es de m&#xe9;todos"/>
-<node CREATED="1564372826432" ID="ID_1416716781" MODIFIED="1564713436152" TEXT="Ap&#xf3;s cada chamada de m&#xe9;todo o container pode -&gt;">
-<node CREATED="1564373089209" ID="ID_205643085" MODIFIED="1564373112384" TEXT="destruir"/>
-<node CREATED="1564373112869" ID="ID_1309591346" MODIFIED="1564373114365" TEXT="recriar"/>
-<node CREATED="1564373115054" ID="ID_1461018898" MODIFIED="1564373116638" TEXT="ou manter"/>
-<node CREATED="1564373117203" ID="ID_1551372793" MODIFIED="1564373119528" TEXT="o BEAN"/>
+<node CREATED="1564372286208" ID="ID_68555899" MODIFIED="1565382630207" TEXT="Stateless">
+<node CREATED="1565382634428" ID="ID_944393676" MODIFIED="1565382747943" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; S&#227;o objetos de neg&#243;cio que n&#227;o mant&#233;m o estado entre invoca&#231;&#245;es<br />de m&#233;todos;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Ap&#243;s cada chamada de m&#233;todo, o cont&#234;iner pode escolher destruir, recriar ou manter o Bean;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Eles podem ter vari&#225;veis de inst&#226;ncia armazenadas no pool;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; no entanto elas ser&#227;o compartilhadas por v&#225;rios usu&#225;rios (entretanto,<br />n&#227;o de forma concorrente).
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1564373122971" ID="ID_1897585946" MODIFIED="1564493650777" TEXT="Possui 2 estados">
 <node CREATED="1564373164273" FOLDED="true" ID="ID_1780172142" MODIFIED="1564713436153" TEXT="Does Not Exist">
@@ -105,7 +173,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1564372305361" ID="ID_1500882575" MODIFIED="1564493661730" TEXT="Statefull">
+<node CREATED="1564372305361" FOLDED="true" ID="ID_1500882575" MODIFIED="1565382618934" TEXT="Statefull">
 <node CREATED="1564373262812" ID="ID_1179651314" MODIFIED="1564373338619" TEXT="Objeto de neg&#xf3;cio">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -129,7 +197,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564372322272" ID="ID_1959083841" MODIFIED="1564493687523" TEXT="Singleton">
+<node CREATED="1564372322272" FOLDED="true" ID="ID_1959083841" MODIFIED="1565382619974" TEXT="Singleton">
 <node CREATED="1564373730791" ID="ID_1109135742" MODIFIED="1564373747051" TEXT="s&#xe3;o objetos de neg&#xf3;cio"/>
 <node CREATED="1564373747441" ID="ID_1660263436" MODIFIED="1564373755589" TEXT="instanciados uma &#xfa;nica vez pela aplica&#xe7;&#xe3;o"/>
 <node COLOR="#ff0000" CREATED="1564373756046" ID="ID_1305643192" MODIFIED="1564373766823" TEXT="existem por todo ciclo de vida da aplica&#xe7;&#xe3;o.">
@@ -147,7 +215,8 @@
 </node>
 </node>
 <node CREATED="1564372910332" ID="ID_606506150" MODIFIED="1564493314374" POSITION="left" TEXT="Imagens do SB(Session Beans)">
-<node CREATED="1564372924407" ID="ID_1798986388" MODIFIED="1564493597831" TEXT="Stateless">
+<node CREATED="1564372924407" ID="ID_1798986388" MODIFIED="1565381851563" TEXT="Stateless">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564372953070" ID="ID_944333136" LINK="#ID_1897585946" MODIFIED="1564493636567">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -159,7 +228,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564372942595" ID="ID_1109150732" MODIFIED="1564493655418" TEXT="Stateful">
+<node CREATED="1564372942595" ID="ID_1109150732" MODIFIED="1565381850428" TEXT="Stateful">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564373063382" ID="ID_1976707366" MODIFIED="1564373067008">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -171,7 +241,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564372945099" ID="ID_708743196" MODIFIED="1564493706921" TEXT="Singleton">
+<node CREATED="1564372945099" ID="ID_708743196" MODIFIED="1565381849390" TEXT="Singleton">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564373070344" ID="ID_886774329" MODIFIED="1564373073665">
 <richcontent TYPE="NODE"><html>
   <head>
