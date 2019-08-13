@@ -199,7 +199,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1565224303570" ID="ID_1735017930" MODIFIED="1565224813134" POSITION="left" TEXT="Diffie-Hellman - DH">
+<node CREATED="1565224303570" FOLDED="true" ID="ID_1735017930" MODIFIED="1565708294657" POSITION="left" TEXT="Diffie-Hellman - DH">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565224617165" ID="ID_1325570333" MODIFIED="1565224811117">
 <richcontent TYPE="NODE"><html>
@@ -241,7 +241,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1565224813556" FOLDED="true" ID="ID_1585979602" MODIFIED="1565229005463" POSITION="left">
+<node CREATED="1565224813556" HGAP="22" ID="ID_1585979602" MODIFIED="1565708292393" POSITION="left" VSHIFT="27">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -253,7 +253,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565224918914" ID="ID_922079741" MODIFIED="1565225106069">
+<node COLOR="#006699" CREATED="1565224918914" ID="ID_922079741" MODIFIED="1565708420293">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -296,10 +296,11 @@
       
     </p>
     <p>
-      
+      &gt; ao cifrar a mensagem, &#233; necess&#225;rio dividir a mensagem em blocos para<br />criptograf&#225;-los e esses blocos t&#234;m tamanho limitado de n bits.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1565228113983" ID="ID_43236735" MODIFIED="1565228810729">
 <richcontent TYPE="NODE"><html>
@@ -311,8 +312,7 @@
       <b>&#160;Algoritmo:</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565228812703" ID="ID_1410577677" MODIFIED="1565228879281">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -321,8 +321,7 @@
   <body>
     <img src="algoritmo_rsa.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565228922285" ID="ID_1576350214" MODIFIED="1565228926416">
 <richcontent TYPE="NODE"><html>
@@ -332,8 +331,7 @@
   <body>
     <img src="chave_publica.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565228952238" ID="ID_614661605" MODIFIED="1565228979493">
 <richcontent TYPE="NODE"><html>
@@ -343,8 +341,7 @@
   <body>
     <img src="cifragem_rsa.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -370,8 +367,7 @@
       &gt; Sua principal aplica&#231;&#227;o &#233; na transfer&#234;ncia de assinaturas digitais e trocas<br />de chaves no estabelecimento de comunica&#231;&#245;es.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

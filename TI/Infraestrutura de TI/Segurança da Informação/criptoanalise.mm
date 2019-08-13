@@ -23,8 +23,7 @@
       <font color="#000099">&gt; Reconhecimento apenas do algoritmo de criptografia e do pr&#243;prio texto cifrado</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564697779103" ID="ID_938349451" MODIFIED="1564956880164" STYLE="bubble" VSHIFT="12">
 <richcontent TYPE="NODE"><html>
@@ -42,8 +41,7 @@
       <font color="#000099">&gt; O atacante tem a informa&#231;&#227;o dos pares de texto claro de entrada e seu respectivo texto cifrado de sa&#237;da;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564697836024" HGAP="25" ID="ID_231262188" MODIFIED="1564956884276" STYLE="bubble" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
@@ -61,8 +59,7 @@
       <font color="#000099">&gt; O atacante n&#227;o sabe apenas o par de entrada e sa&#237;da, &#233; capaz de manipular a entrada e avaliar sua respectiva sa&#237;da;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564697880056" HGAP="22" ID="ID_1700745215" MODIFIED="1564956888597" STYLE="bubble" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
@@ -80,8 +77,7 @@
       <font color="#000099">&gt; O atacante &#233; capaz de fazer o caminho reverso, onde a partir de um texto cifrado escolhido ele &#233; capaz de verificar qual o texto em claro correspondente </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564697901969" HGAP="22" ID="ID_1779156332" MODIFIED="1564956896388" STYLE="bubble" VSHIFT="26">
 <richcontent TYPE="NODE"><html>
@@ -99,15 +95,14 @@
       <font color="#000099">&gt; H&#225; plena capacidade de manipula&#231;&#227;o dos textos de entrada e sa&#237;da, e vice-versa;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1564698259114" ID="ID_469173328" MODIFIED="1564956566005" POSITION="left" TEXT="Decifragem dos Dados">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564698293400" ID="ID_1405208393" MODIFIED="1564708390767" TEXT="h&#xe1; diversas t&#xe9;cnicas que podem ser utilizadas com a&#xa; finalidade de se decifrar mensagens criptografadas."/>
-<node COLOR="#006699" CREATED="1564698315193" FOLDED="true" ID="ID_1435696895" MODIFIED="1564709071499" TEXT="A seguir &#xe9; apresentada algumas delas">
+<node COLOR="#006699" CREATED="1564698293400" ID="ID_1405208393" MODIFIED="1565646095203" STYLE="bubble" TEXT="h&#xe1; diversas t&#xe9;cnicas que podem ser utilizadas com a&#xa; finalidade de se decifrar mensagens criptografadas."/>
+<node COLOR="#006699" CREATED="1564698315193" ID="ID_1435696895" MODIFIED="1565646086488" TEXT="A seguir &#xe9; apresentada algumas delas">
 <node COLOR="#0033ff" CREATED="1564698331117" ID="ID_1564884867" MODIFIED="1564708403095" TEXT="1. M&#xe9;todo da Recupera&#xe7;&#xe3;o Direta">
 <node COLOR="#0033ff" CREATED="1564708422559" ID="ID_95546316" MODIFIED="1564708473843" TEXT="O intuito desse m&#xe9;todo &#xe9; conseguir obter a senha de maneira direta"/>
 <node COLOR="#0033ff" CREATED="1564708475179" ID="ID_1963570417" MODIFIED="1564708619862" TEXT="Ou seja, a partir de algum ponto de armazenamento ou&#xa; a chave utilizada como refer&#xea;ncia para armazenar o dado criptografado."/>

@@ -14,7 +14,7 @@
 <node COLOR="#0033ff" CREATED="1564504664759" ID="ID_1241692552" MODIFIED="1564697036721" TEXT="Caracter&#xed;sticas do arquivo se mant&#xe9;m decifrados"/>
 <node COLOR="#0033ff" CREATED="1564504750598" ID="ID_1787483787" MODIFIED="1564697036721" TEXT="&#xc9; poss&#xed;vel verificar metadados (nome,tamanho, datas de cria&#xe7;&#xe3;o)"/>
 <node COLOR="#0033ff" CREATED="1564504948752" ID="ID_459933286" MODIFIED="1564697036721" TEXT="Para identificar arquivos cripto. pode-se utilizar ENTROPIA"/>
-<node COLOR="#0033ff" CREATED="1564504802652" FOLDED="true" ID="ID_1824128520" MODIFIED="1564956314531" TEXT="Duas formas b&#xe1;sicas p/ gerar esses arquivos">
+<node COLOR="#0033ff" CREATED="1564504802652" FOLDED="true" ID="ID_1824128520" MODIFIED="1565646046361" TEXT="Duas formas b&#xe1;sicas p/ gerar esses arquivos">
 <node COLOR="#999999" CREATED="1564504830934" FOLDED="true" ID="ID_1301848168" MODIFIED="1564697018016" TEXT="interm&#xe9;dio dos pr&#xf3;prios programas que geraram os arquivos ">
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1564504897565" ID="ID_376332728" MODIFIED="1564504899996" TEXT="excel"/>

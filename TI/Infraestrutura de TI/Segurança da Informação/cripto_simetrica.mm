@@ -52,7 +52,18 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564709612500" ID="ID_1472692837" MODIFIED="1564961368565" POSITION="left" TEXT="DES">
+<node CREATED="1564709612500" ID="ID_1472692837" MODIFIED="1565705831475" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      DES - Data Encription Standart
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564957730982" ID="ID_1627691891" MODIFIED="1564958117917" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -144,7 +155,7 @@
 <node COLOR="#cc3300" CREATED="1564961379023" ID="ID_28326798" MODIFIED="1564961390899" TEXT=" &#xc9; vulner&#xe1;vel a ataque do tipo meet-in-the-middle">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#338800" CREATED="1564958284096" FOLDED="true" ID="ID_204286044" MODIFIED="1564959173417" STYLE="bubble" TEXT="Imagem - Criptografia 3DES">
+<node COLOR="#338800" CREATED="1564958284096" FOLDED="true" ID="ID_204286044" MODIFIED="1565646196769" STYLE="bubble" TEXT="Imagem - Criptografia 3DES">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564958408326" ID="ID_1702705447" MODIFIED="1564958464132" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -157,7 +168,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1564958484064" FOLDED="true" ID="ID_350636189" MODIFIED="1564959172441" STYLE="bubble" TEXT="Imagem - Descriptografia">
+<node COLOR="#338800" CREATED="1564958484064" FOLDED="true" ID="ID_350636189" MODIFIED="1565646200017" STYLE="bubble" TEXT="Imagem - Descriptografia">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1564958541788" ID="ID_1144361996" MODIFIED="1564958575986" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -338,7 +349,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564959443762" ID="ID_1247661790" MODIFIED="1565230325917">
+<node COLOR="#006699" CREATED="1564959443762" ID="ID_1247661790" MODIFIED="1565706151329">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -358,7 +369,10 @@
         Suporta tamanhos de chaves vari&#225;veis.
       </li>
       <li>
-        <b><font color="#ff2500">Cifra e decifra blocos</font></b>&#160;de 128 bits e chaves criptogr&#225;ficas de 128,192 e 256 bits;
+        <b><font color="#ff2500">Cifra e decifra blocos fixos de 128bits;</font></b>&#160;
+      </li>
+      <li>
+        Chaves criptogr&#225;ficas de tamanho vari&#225;vel 128,192 e 256 bits;
       </li>
       <li>
         Mesma chave para criptografia e decifragem;
@@ -384,8 +398,7 @@
       O WPA2 (wi-fi protected access version 2) tem por base o padr&#227;o de seguran&#231;a 802.11i e utiliza o AES para encripta&#231;&#227;o.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#0033ff" CREATED="1564959602308" HGAP="19" ID="ID_838031791" MODIFIED="1564959972352" VSHIFT="24">
