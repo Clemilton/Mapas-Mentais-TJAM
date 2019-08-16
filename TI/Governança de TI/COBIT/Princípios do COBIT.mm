@@ -176,7 +176,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564663596296" FOLDED="true" ID="ID_289262940" MODIFIED="1565455873148" POSITION="right" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564663596296" ID="ID_289262940" MODIFIED="1565836147051" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -206,7 +206,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564663660779" FOLDED="true" ID="ID_522567671" MODIFIED="1565455659313" TEXT="Defini&#xe7;&#xf5;es">
+<node CREATED="1564663660779" ID="ID_522567671" MODIFIED="1565836152942" TEXT="Defini&#xe7;&#xf5;es">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564663676708" ID="ID_1605249861" MODIFIED="1565187544750" TEXT="&gt; Integra -&gt;">
 <font NAME="SansSerif" SIZE="12"/>
@@ -241,7 +241,7 @@
 <node COLOR="#006699" CREATED="1564664126633" ID="ID_466694373" MODIFIED="1564665040833" TEXT="Servem para toda organiza&#xe7;&#xe3;o de ponta-a-ponta">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006699" CREATED="1564664388985" FOLDED="true" ID="ID_233973050" MODIFIED="1565449720736" TEXT="Incluem todas -&gt;">
+<node COLOR="#006699" CREATED="1564664388985" ID="ID_233973050" MODIFIED="1565836159074" TEXT="Incluem todas -&gt;">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1564664411464" ID="ID_1671668471" MODIFIED="1564666965282" TEXT="Pessoas"/>
 <node COLOR="#338800" CREATED="1564664413889" ID="ID_356996069" MODIFIED="1564666965282" TEXT="Coisas(kkkk)"/>
@@ -344,7 +344,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564756452841" FOLDED="true" ID="ID_87201179" MODIFIED="1565455873147" POSITION="right" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564756452841" ID="ID_87201179" MODIFIED="1565836165435" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -435,7 +435,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564756467045" FOLDED="true" ID="ID_592551231" MODIFIED="1565455873146" POSITION="right" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564756467045" ID="ID_592551231" MODIFIED="1565836965200" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -448,7 +448,7 @@
       
     </p>
     <p>
-      &gt; Permitir uma abordagem hol&#237;stica. O COBIT 5 define 7 habilitadores
+      &gt; Permitir uma abordagem hol&#237;stica. O COBIT 5 <b>define 7 habilitadores</b>
     </p>
     <p>
       que influenciam a Governan&#231;a e Gest&#227;o de TI;
@@ -590,7 +590,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565450679001" ID="ID_1294314385" MODIFIED="1565450792216">
+<node COLOR="#006699" CREATED="1565450679001" ID="ID_1294314385" MODIFIED="1565837839911">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -603,11 +603,19 @@
       
     </p>
     <p>
-      &gt; Incluem a infraestrutura, a tecnologia e os aplicativos;
+      &gt; Proporcionam ao &#243;rg&#227;o de governan&#231;a informa&#231;&#245;es adequadas e<br />apoio &#224;s seguintes atividades da governan&#231;a:
     </p>
-    <p>
-      
-    </p>
+    <ul>
+      <li>
+        avalia&#231;&#227;o;
+      </li>
+      <li>
+        defini&#231;&#227;o da orienta&#231;&#227;o;
+      </li>
+      <li>
+        monitoramento;
+      </li>
+    </ul>
     <p>
       &gt; Fornecem &#224; organiza&#231;&#227;o o processamento e os servi&#231;os de<br />tecnologia da informa&#231;&#227;o;
     </p>
@@ -930,7 +938,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564756479211" FOLDED="true" ID="ID_1839600474" MODIFIED="1565455873145" POSITION="right" STYLE="bubble">
+<node COLOR="#006699" CREATED="1564756479211" ID="ID_1839600474" MODIFIED="1565920054960" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1000,14 +1008,23 @@
     </ul>
   </body>
 </html></richcontent>
-<node COLOR="#990099" CREATED="1565191523127" ID="ID_730872986" MODIFIED="1565191582543">
+<node COLOR="#990099" CREATED="1565191523127" ID="ID_730872986" MODIFIED="1565920203902">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; A governan&#231;a assegura que as necessidades, as condi&#231;&#245;es e as op&#231;&#245;es<br />dos stakeholders sejam avaliadas para determinar os objetivos empresariais<br />a serem alcan&#231;ados; define a dire&#231;&#227;o por meio de prioriza&#231;&#227;o e tomada<br />de decis&#227;o;
+      &gt; Governan&#231;a --&gt; garante necessidades --&gt; stakeholders --&gt;<br />
+    </p>
+    <p>
+      &gt;determina objetivos corporativos
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; define dire&#231;&#227;o atrav&#233;s de prioriza&#231;&#245;es e tomada de decis&#227;o
     </p>
     <p>
       
@@ -1022,7 +1039,8 @@
       <b><u>&gt; A responsabilidade pela Governan&#231;a &#233; da alta dire&#231;&#227;o</u></b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1564974627562" ID="ID_499311412" MODIFIED="1564974813580">
@@ -1053,17 +1071,21 @@
     </ul>
   </body>
 </html></richcontent>
-<node COLOR="#990099" CREATED="1565191476096" ID="ID_646065070" MODIFIED="1565191519727">
+<node COLOR="#990099" CREATED="1565191476096" ID="ID_646065070" MODIFIED="1565920355300">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; A gest&#227;o (gerenciamento) planeja, constr&#243;i, executa e monitorar atividades<br />&#160;alinhadas com a dire&#231;&#227;o estrat&#233;gica estabelecida pela governan&#231;a para<br />atingir os objetivos empresariais.
+      &gt; Gest&#227;o --&gt; Planejamento/Desenvolvimento/Execu&#231;&#227;o/Monitoramento --&gt;<br />&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;das atividades --&gt; conson&#226;ncia com a dire&#231;&#227;o(governan&#231;a) --&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;atingir objetivos corporativos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>

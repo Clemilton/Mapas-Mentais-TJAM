@@ -27,8 +27,7 @@
       <b>&gt; Existem 06 n&#237;veis de capacidade:</b><br />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#669900" CREATED="1565363746739" ID="ID_121863194" MODIFIED="1565366785136">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -120,8 +119,7 @@
       &gt; Processo criado;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#669900" CREATED="1565363943687" ID="ID_1286253408" MODIFIED="1565366785131">
 <richcontent TYPE="NODE"><html>
@@ -160,7 +158,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565364060650" ID="ID_1915033872" MODIFIED="1565367423613" POSITION="right">
+<node COLOR="#006699" CREATED="1565364060650" ID="ID_1915033872" MODIFIED="1565919075720" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -185,10 +183,17 @@
       
     </p>
     <p>
+      &gt; S&#227;o nove atributos do processo;
+    </p>
+    <p>
+      
+    </p>
+    <p>
       &gt; Os n&#237;veis de capacidade e seus atributos s&#227;o mostrados na figura ao<br />lado ---------------------------&gt;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1565364298928" ID="ID_1333964722" MODIFIED="1565364360541">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -233,7 +238,7 @@
 </html></richcontent>
 <node CREATED="1565364417183" ID="ID_842143218" MODIFIED="1565364417183" TEXT=""/>
 </node>
-<node COLOR="#ff0000" CREATED="1565364797228" ID="ID_1620087584" MODIFIED="1565451683060" POSITION="left">
+<node COLOR="#ff0000" CREATED="1565364797228" ID="ID_1620087584" MODIFIED="1565830357837" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -269,8 +274,7 @@
       Modelo de Capacidade;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

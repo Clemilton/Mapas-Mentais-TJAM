@@ -2,32 +2,69 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1565721670082" ID="ID_968946503" MODIFIED="1565726727646" STYLE="bubble" TEXT="Divis&#xe3;o Judici&#xe1;ria ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565721810146" ID="ID_539502576" MODIFIED="1565721884371" POSITION="right">
+<node COLOR="#006699" CREATED="1565721810146" ID="ID_539502576" MODIFIED="1565961911914" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b><font color="#0002ff">Art. 1&#186;- Este C&#243;digo disp&#245;e sobre a divis&#227;o e a organiza&#231;&#227;o judici&#225;ria<br color="#0002ff" />do Estado do Amazonas,</font></b>
+      <b><font color="#0002ff">Art. 1&#186;- Este C&#243;digo disp&#245;e sobre a divis&#227;o e a organiza&#231;&#227;o judici&#225;ria<br color="#0002ff" />do Estado do Amazonas, </font></b>
     </p>
     <p>
       
     </p>
     <p>
-      &gt; bem como sobre o regime jur&#237;dico da Magistratura e a organiza&#231;&#227;o<br />dos servi&#231;os auxiliares da Justi&#231;a
+      &gt;&#160;&#160;o regime jur&#237;dico da Magistratura e a organiza&#231;&#227;o dos servi&#231;os<br />auxiliares da Justi&#231;a
     </p>
     <p>
       
     </p>
     <p>
-      &gt;&#160;&#160;observados os princ&#237;pios constitucionais que as regem.
+      &gt;&#160;&#160;observados os princ&#237;pios constitucionais
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565722106291" FOLDED="true" ID="ID_848592433" MODIFIED="1565722622268" POSITION="right">
+<node COLOR="#006699" CREATED="1565962595936" ID="ID_712001627" MODIFIED="1565962795006" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Art 4&#186;</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <b>&#211;rg&#227;os judici&#225;rios podem requisitar o aux&#237;lio da for&#231;a p&#250;blica,</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&#160;&#160;devendo a autoridade a quem for dirigido o pedido prest&#225;-lo
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; sob pena de responder por <b><font color="#ff0d00">crime de desobedi&#234;ncia</font></b>.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Para <u>assegurar o cumprimento e a execu&#231;&#227;o dos seus atos e decis&#245;es</u>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565722106291" FOLDED="true" ID="ID_848592433" MODIFIED="1565962094639" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -37,8 +74,7 @@
       Art. 5&#186; - A <b><u>divis&#227;o judici&#225;ria</u></b>&#160;compreende a <b><font color="#ff0000">cria&#231;&#227;o</font></b>, <font color="#0800ff"><b>altera&#231;&#227;o</b></font>&#160;e a<br /><font color="#6a3c50"><b>extin&#231;&#227;o</b></font>&#160;de <b>unidades judici&#225;rias</b>, <font color="#c58601"><b>sua classifica&#231;&#227;o e agrupamento. </b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#990099" CREATED="1565722286881" ID="ID_1648446002" MODIFIED="1565722382013">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -55,10 +91,9 @@
       &gt; Existem <b><u>requisitos m&#237;nimos</u></b>&#160;para a cria&#231;&#227;o de unidade judici&#225;ria ou<br />comarca;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#990099" CREATED="1565722306086" ID="ID_788598818" MODIFIED="1565722367534">
+<node COLOR="#990099" CREATED="1565722306086" ID="ID_788598818" MODIFIED="1565962013275">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -71,7 +106,13 @@
       
     </p>
     <p>
-      O Judici&#225;rio &#233; mut&#225;vel, est&#225; em constante altera&#231;&#227;o. A popula&#231;&#227;o cresce,<br />&#160;as cidades crescem e, naturalmente, a demanda pelo judici&#225;rio tamb&#233;m.<br />Por isso, o <b><font color="#ff0000">CODJ trata dos requisitos de altera&#231;&#227;o;</font></b>
+      &gt; A demanda do judici&#225;rio pode mudar conforme o tempo;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#ff0000">&gt; CODJ trata dos requisitos de altera&#231;&#227;o;</font></b>
     </p>
   </body>
 </html>
@@ -99,8 +140,7 @@
       &gt; A base dos tribunais &#233; a Resolu&#231;&#227;o n. 184/2013 do CNJ.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1565722463176" ID="ID_253294440" MODIFIED="1565722592491">
 <richcontent TYPE="NODE"><html>
@@ -141,8 +181,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#990099" CREATED="1565722596336" ID="ID_1160146610" MODIFIED="1565722619460">
@@ -161,11 +200,10 @@
       &gt; Diz respeito &#224; jun&#231;&#227;o de duas ou mais unidades judici&#225;rias em virtude<br />do movimento forense n&#227;o comportar unidade aut&#244;noma.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565722649343" FOLDED="true" ID="ID_1972152502" MODIFIED="1565726725095" POSITION="right">
+<node COLOR="#006699" CREATED="1565722649343" ID="ID_1972152502" MODIFIED="1565962096012" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -175,10 +213,9 @@
       Art 6&#186; Divis&#227;o Judici&#225;ria do Amazonas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1565722702250" FOLDED="true" ID="ID_1283289776" MODIFIED="1565724523158">
+<node COLOR="#338800" CREATED="1565722702250" ID="ID_1283289776" MODIFIED="1565962100488">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -197,8 +234,7 @@
       &gt; Sede de Ju&#237;zo &#218;nico ou m&#250;ltiplo;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1565723173477" ID="ID_1375502324" MODIFIED="1565724011776">
 <richcontent TYPE="NODE"><html>
@@ -219,8 +255,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1565723390852" ID="ID_540378188" MODIFIED="1565723549620">
 <richcontent TYPE="NODE"><html>
@@ -238,11 +273,10 @@
       &gt; A Comarca ainda n&#227;o implantada constitui Termo Judici&#225;rio,<br />&#160;na forma do&#160;art. 13 deste C&#243;digo.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1565722721307" FOLDED="true" ID="ID_743109156" MODIFIED="1565724523734">
+<node COLOR="#338800" CREATED="1565722721307" ID="ID_743109156" MODIFIED="1565962119089">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -258,8 +292,7 @@
       &gt; Munic&#237;pio cuja comarca ainda n&#227;o foi instalada;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1565724061882" ID="ID_376309828" MODIFIED="1565724337527">
 <richcontent TYPE="NODE"><html>
@@ -283,8 +316,7 @@
       &gt; Os servi&#231;os judiciais dos Termos Judici&#225;rios ficam afetos ao Ju&#237;zo<br />da Comarca &#224; qual est&#227;o vinculados.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1565722734927" ID="ID_1785685917" MODIFIED="1565724856156">
@@ -303,10 +335,9 @@
       &gt; Unidade do Termo Judici&#225;rio;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1565724134170" FOLDED="true" ID="ID_1885144942" MODIFIED="1565724848646">
+<node COLOR="#990099" CREATED="1565724134170" ID="ID_1885144942" MODIFIED="1565962220993">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -330,8 +361,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#990000" CREATED="1565724420106" ID="ID_734385662" MODIFIED="1565724473019">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -342,8 +372,7 @@
       &#167;1o. A instala&#231;&#227;o do Distrito dar-se-&#225; com a posse do Oficial do<br />Registro Civil de Pessoas Naturais.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990000" CREATED="1565724440175" ID="ID_932589913" MODIFIED="1565724502275">
 <richcontent TYPE="NODE"><html>
@@ -355,8 +384,7 @@
       &#167;2o. O cargo de Oficial do Registro Civil de Pessoas Naturais ser&#225;<br />provido mediante concurso p&#250;blico de provas, elaborado na confor-<br />midade de ato regulamentar baixado pelo Tribunal de Justi&#231;a.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990000" CREATED="1565724476653" ID="ID_1895711901" MODIFIED="1565724502274">
 <richcontent TYPE="NODE"><html>
@@ -371,8 +399,7 @@
       qual estiver vinculado.&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#cc3300" CREATED="1565724637472" ID="ID_141008205" MODIFIED="1565724831594">
 <richcontent TYPE="NODE"><html>
@@ -419,13 +446,12 @@
       &gt; a Justi&#231;a de Paz ser&#225; exercida por <b><u>Juiz de Paz eleito</u></b>, para <b><u><font color="#9621dd">mandato de </font></u></b><br /><b><u><font color="#9621dd">quatro anos</font></u></b>, pelo voto direto, universal e secreto do eleitorado do Munic&#237;pio respectivo,<b><font color="#ff0000">&#160;permitida uma reelei&#231;&#227;o</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565724869359" FOLDED="true" ID="ID_1529040719" MODIFIED="1565726724087" POSITION="right">
+<node COLOR="#006699" CREATED="1565724869359" ID="ID_1529040719" MODIFIED="1565962137062" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -435,8 +461,7 @@
       <b><u>Art 7&#186; Secretaria Geral do Tribunal de Justi&#231;a </u></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#990099" CREATED="1565724894668" ID="ID_408380543" MODIFIED="1565725195924">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -476,11 +501,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0009ff" CREATED="1565724224217" FOLDED="true" ID="ID_1830588629" MODIFIED="1565726723023" POSITION="right">
+<node BACKGROUND_COLOR="#0009ff" CREATED="1565724224217" ID="ID_1830588629" MODIFIED="1565962146181" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -493,8 +517,7 @@
       <b><font color="#fefefe">&#160;instala&#231;&#227;o da comarca</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#0033ff" CREATED="1565724259627" ID="ID_1630108907" MODIFIED="1565725498510">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -508,8 +531,7 @@
       FOR&#218;M
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565725288335" ID="ID_995530882" MODIFIED="1565725511724">
 <richcontent TYPE="NODE"><html>
@@ -521,8 +543,7 @@
       Depend&#234;ncia para gabinete do juiz
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565725355736" ID="ID_1269240575" MODIFIED="1565725511723">
 <richcontent TYPE="NODE"><html>
@@ -534,8 +555,7 @@
       Sala de Audi&#234;ncias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565725363941" ID="ID_764203716" MODIFIED="1565725511722">
 <richcontent TYPE="NODE"><html>
@@ -547,8 +567,7 @@
       Sala para Minist&#233;rio P&#250;blico
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565725384012" ID="ID_468130511" MODIFIED="1565725511721">
 <richcontent TYPE="NODE"><html>
@@ -560,8 +579,7 @@
       Sala para defensores p&#250;blicos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565725397130" ID="ID_1406761937" MODIFIED="1565725511720">
 <richcontent TYPE="NODE"><html>
@@ -573,8 +591,7 @@
       Depend&#234;ncia para o cart&#243;rio, inclusive eleitoral
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565725419022" ID="ID_1178928520" MODIFIED="1565725511719">
 <richcontent TYPE="NODE"><html>
@@ -586,8 +603,7 @@
       Demais depend&#234;ncias aos servi&#231;os judiciais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1565725233597" ID="ID_1183001549" MODIFIED="1565725502304">
@@ -600,8 +616,7 @@
       CASAS PARA RESID&#202;NCIA
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1565725271831" ID="ID_771240674" MODIFIED="1565725515776" TEXT="Juiz"/>
 <node COLOR="#338800" CREATED="1565725282560" ID="ID_1416790360" MODIFIED="1565725515776" TEXT="Promotor P&#xfa;blico"/>
@@ -616,8 +631,7 @@
       CADEIA P&#218;BLICA
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#006699" CREATED="1565725554101" ID="ID_386832197" MODIFIED="1565725975431">
@@ -630,10 +644,9 @@
       &#167;2o. A Comarca ser&#225; <b><u>instalada pelo Presidente do Tribunal</u></b>&#160; <b><font color="#d12a62">ou</font></b><br /><b><font color="#d12a62">outra autoridade judici&#225;ria</font></b>&#160;por ele designada, lavrando-se <b>ata.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565725978628" FOLDED="true" ID="ID_1314653986" MODIFIED="1565726345503">
+<node COLOR="#006699" CREATED="1565725978628" ID="ID_1314653986" MODIFIED="1565962328821">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -643,8 +656,7 @@
       &#167;3&#186; Ser&#225; enviada uma c&#243;pia da ata de instala&#231;&#227;o para:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565726252281" ID="ID_1394897891" MODIFIED="1565726321817">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -678,12 +690,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565726414075" FOLDED="true" ID="ID_1979692137" MODIFIED="1565726722247" POSITION="right">
+<node COLOR="#006699" CREATED="1565726414075" ID="ID_1979692137" MODIFIED="1565962360887" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -693,8 +704,7 @@
       Art 11. Quando a comarca for instalada<br />os&#160;Processos:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1565726433619" ID="ID_1086817953" MODIFIED="1565726597844" TEXT="INSTRU&#xcd;DOS">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -740,7 +750,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565726689930" FOLDED="true" ID="ID_895480052" MODIFIED="1565727408287" POSITION="right">
+<node COLOR="#006699" CREATED="1565726689930" ID="ID_895480052" MODIFIED="1565962484828" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -750,8 +760,7 @@
       <u>Art 12. Rebaixamento da Comarca</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1565726720722" ID="ID_226459100" MODIFIED="1565726902790">
 <richcontent TYPE="NODE"><html>
@@ -769,11 +778,10 @@
       &gt; Mediante decis&#227;o da maioria dos membros do Tribunal,que definir&#225;<br />o aproveitamento dos serventu&#225;rios alocados na Comarca rebaixada.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0009ff" CREATED="1565727017109" FOLDED="true" ID="ID_882028342" MODIFIED="1565727409679" POSITION="left">
+<node BACKGROUND_COLOR="#0009ff" CREATED="1565727017109" ID="ID_882028342" MODIFIED="1565961798112" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -783,8 +791,7 @@
       <b><font color="#fffafa">Poder Judici&#225;rio </font></b><font color="#fffafa"><br color="#fffafa" /><b>do </b><br color="#fffafa" /><b>Estado do Amazonas</b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565727089771" ID="ID_1234132676" MODIFIED="1565727097400">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -795,8 +802,7 @@
       <b><font color="#ff0000">I - Tribunal de Justi&#231;a;&#160;</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#338800" CREATED="1565727098756" ID="ID_1252626633" MODIFIED="1565727371428">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -807,10 +813,9 @@
       Tribunal Pleno
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#338800" CREATED="1565727177134" FOLDED="true" ID="ID_1467859231" MODIFIED="1565727404544" TEXT="C&#xe2;maras Isoladas">
+<node COLOR="#338800" CREATED="1565727177134" ID="ID_1467859231" MODIFIED="1565961828996" TEXT="C&#xe2;maras Isoladas">
 <node COLOR="#669900" CREATED="1565727390406" ID="ID_105203664" MODIFIED="1565727400202" TEXT="C&#xed;veis"/>
 <node COLOR="#669900" CREATED="1565727392629" ID="ID_717359037" MODIFIED="1565727400202" TEXT="Criminais"/>
 </node>
@@ -825,8 +830,7 @@
       Conselho&#160;da Magistratura
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565727031378" ID="ID_1610495265" MODIFIED="1565727241334">
@@ -857,8 +861,7 @@
       VIII - Ju&#237;zes de Paz.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

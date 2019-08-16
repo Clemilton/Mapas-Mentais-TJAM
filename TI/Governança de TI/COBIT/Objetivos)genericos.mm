@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1565366838792" ID="ID_734909443" LINK="main.mm" MODIFIED="1565451895912" TEXT="Objetivos Gen&#xe9;ricos - COBIT">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565451899789" FOLDED="true" ID="ID_1235330309" MODIFIED="1565453743847" POSITION="right" STYLE="bubble">
+<node CREATED="1565451899789" ID="ID_1235330309" MODIFIED="1565837190005" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12,9 +12,8 @@
       &gt; O&#160;COBIT, com base no BSC(Balanced Score Card), define 17 metas<br />gen&#233;ricas de neg&#243;cio e 17 metas gen&#233;ricas de TI;
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1565451992333" FOLDED="true" ID="ID_1049869886" MODIFIED="1565453397753" TEXT="Metas Gen&#xe9;ricas de Neg&#xf3;cio">
+</html></richcontent>
+<node CREATED="1565451992333" ID="ID_1049869886" MODIFIED="1565918048781" TEXT="Metas Gen&#xe9;ricas de Neg&#xf3;cio">
 <font BOLD="true" NAME="SansSerif" SIZE="13"/>
 <node CREATED="1565452072389" ID="ID_462771617" MODIFIED="1565452086214">
 <richcontent TYPE="NODE"><html>
@@ -24,8 +23,7 @@
   <body>
     <img src="metas_negocio.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1565452193776" ID="ID_45888522" MODIFIED="1565452274398">
 <richcontent TYPE="NODE"><html>
@@ -43,11 +41,10 @@
       &gt; Tamb&#233;m est&#227;o relacionados de maneira prim&#225;ria (P) ou secund&#225;ria (S), com os objetivos de Governan&#231;a;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565452290904" FOLDED="true" ID="ID_1362533213" MODIFIED="1565453397753" TEXT="Metas Gen&#xe9;ricas de TI">
+<node CREATED="1565452290904" ID="ID_1362533213" MODIFIED="1565918129699" TEXT="Metas Gen&#xe9;ricas de TI">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565452297423" ID="ID_1725004881" MODIFIED="1565452475139">
 <richcontent TYPE="NODE"><html>
@@ -57,8 +54,7 @@
   <body>
     <img src="metas_ti.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#006699" CREATED="1565452574437" FOLDED="true" ID="ID_1263741046" MODIFIED="1565453397753" STYLE="bubble">
@@ -111,8 +107,7 @@
       Matriz:<br />&#160;<br /><b><u><font color="#ff1100">as necessidades das partes&#160;interessadas</font></u></b>&#160;X <b><u><font color="#ff0003">objetivos gen&#233;ricos corporativos</font></u></b>,<br />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="13"/>
 <node CREATED="1565453208691" ID="ID_643204622" MODIFIED="1565453727945">
 <richcontent TYPE="NODE"><html>
@@ -122,8 +117,7 @@
   <body>
     <img src="mapeamento_objetivos_necesidades.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1565453306317" ID="ID_279536696" MODIFIED="1565453727946">
 <richcontent TYPE="NODE"><html>
@@ -135,11 +129,10 @@
       &gt; A interse&#231;&#227;o da necessidade de uma parte interessada com<br />o objetivo corporativo &#233; preenchida se <b><font color="#0023ff">aquela necessidade tiver<br color="#0023ff" />de ser considerada para aquele objetivo;</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565453399980" FOLDED="true" ID="ID_499256605" MODIFIED="1565453727942">
+<node COLOR="#006699" CREATED="1565453399980" ID="ID_499256605" MODIFIED="1565837277990">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -155,8 +148,7 @@
       <b><font color="#ff0000"><u>Objetivos gen&#233;ricos de TI</u></font></b>&#160;X <b><u><font color="#ff0000">Processos</font></u></b><font color="#ff0000">;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565453617243" ID="ID_440833980" MODIFIED="1565453720082">
 <richcontent TYPE="NODE"><html>
@@ -166,8 +158,7 @@
   <body>
     <img src="objetivosti_processos.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -193,8 +184,7 @@
       &gt; As tabelas de mapeamento n&#227;o fazem distin&#231;&#227;o entre o porte da<br />organiza&#231;&#227;o e/ou o setor em que ela est&#225; inserida;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

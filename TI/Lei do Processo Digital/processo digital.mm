@@ -1,6 +1,16 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1564964086941" ID="ID_29992379" MODIFIED="1564970671830" STYLE="bubble" TEXT="Lei do Processo Digital - Parei no Art4 inciso 1">
+<node CREATED="1564964086941" ID="ID_29992379" MODIFIED="1565803177075" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lei 11.419 - Processo Digital
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564964729239" ID="ID_1719357874" MODIFIED="1565284204414" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -68,7 +78,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1564964511053" HGAP="23" ID="ID_621461263" MODIFIED="1565231152176" TEXT="Conceitos Iniciais" VSHIFT="19">
+<node CREATED="1564964511053" HGAP="23" ID="ID_621461263" MODIFIED="1565803186516" TEXT="Conceitos Iniciais" VSHIFT="19">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564964518534" ID="ID_794199241" MODIFIED="1564971060089">
 <richcontent TYPE="NODE"><html>
@@ -325,7 +335,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1564970241676" FOLDED="true" ID="ID_1069957298" MODIFIED="1565234904609">
+<node COLOR="#006699" CREATED="1564970241676" ID="ID_1069957298" MODIFIED="1565803549146">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -335,7 +345,7 @@
       <b>Art 4&#186;</b>
     </p>
     <p style="text-align: center">
-      Os tribunais poder&#227;o criar um
+      Os tribunais <b><u>poder&#227;o</u></b>&#160;criar um
     </p>
     <p style="text-align: center">
       <b><font color="#ff0000">Di&#225;rio de Justi&#231;a Eletr&#244;nico</font></b>
@@ -413,7 +423,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565232100607" ID="ID_1258625316" MODIFIED="1565232476985">
+<node COLOR="#006699" CREATED="1565232100607" ID="ID_1258625316" MODIFIED="1565806365864">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -430,8 +440,9 @@
     </p>
   </body>
 </html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
 </node>
-<node COLOR="#006699" CREATED="1565232213319" ID="ID_1240940535" MODIFIED="1565232476983">
+<node COLOR="#006699" CREATED="1565232213319" ID="ID_1240940535" MODIFIED="1565806370231">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -448,6 +459,7 @@
     </p>
   </body>
 </html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
 </node>
 <node COLOR="#006699" CREATED="1565232370073" ID="ID_264055327" MODIFIED="1565232476980">
 <richcontent TYPE="NODE"><html>
@@ -669,7 +681,31 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565234906480" ID="ID_654921084" MODIFIED="1565235175627">
+<node COLOR="#990099" CREATED="1565926642312" ID="ID_491171911" MODIFIED="1565926697573">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; A Lei 11.419/2006 permite a utiliza&#231;&#227;o de tr&#234;s meios de comunica&#231;&#227;o<br />oficial publicidade e divulga&#231;&#227;o de atos judiciais:
+    </p>
+    <ul>
+      <li>
+        Di&#225;rio da Justi&#231;a Eletr&#244;nico (art. 4&#186;, caput);
+      </li>
+      <li>
+        portal pr&#243;prio (art. 5&#186;, caput); e
+      </li>
+      <li>
+        correspond&#234;ncia eletr&#244;nica (art. 5&#186;, &#167; 4&#186;);
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565234906480" ID="ID_654921084" MODIFIED="1565804593116">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -682,7 +718,7 @@
       
     </p>
     <p>
-      &gt;<b>&#160;</b>Observadas as formas e as cautelas do art. 5&#186; desta Lei as cita&#231;&#245;es, inclusive da Fazenda P&#250;blica:
+      &gt;<b>&#160;</b>Observadas as formas e as cautelas do art. 5&#186; desta Lei ,<b><u><font color="#0000ff">as cita&#231;&#245;es</font></u></b>, inclusive da Fazenda P&#250;blica:
     </p>
     <p>
       
@@ -697,9 +733,6 @@
     </p>
     <p style="text-align: center">
       <b><font color="#ff0000" size="5"><u>EXCETO as Cita&#231;&#245;es dos Direitos Processuais Criminal e Infracional</u></font></b>
-    </p>
-    <p>
-      
     </p>
   </body>
 </html></richcontent>
@@ -755,6 +788,386 @@
     </p>
   </body>
 </html></richcontent>
+<node COLOR="#006699" CREATED="1565804199283" ID="ID_984907784" MODIFIED="1565922512468">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Art. 8&#186;</b>&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Os &#243;rg&#227;os --&gt; Judici&#225;rio --&gt; <b>poder&#227;o</b><font color="#c51eae">(pode ou n&#227;o pode)</font>&#160;desenvolver sistemas eletr&#244;nicos;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; P/&#160;&#160;processamento de a&#231;&#245;es judiciais;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <u>autos total ou parcialmente digitais;</u>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&#160; <b><font color="#ff0000">preferencialmente -&gt; </font></b>&#160;<b><font color="#ff0100">internet</font></b>&#160;e acesso por meio de redes <b><font color="#ff0000">internas</font></b>&#160;e <b><font color="#ff0000">externas</font></b>.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <u><b><font color="#ff0000">Todos</font></b></u>&#160;os atos processuais do processo eletr&#244;nico <b><u><font color="#ff0000">ser&#227;o assinados<br color="#ff0000" />eletronicamente</font></u></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565804492138" ID="ID_1666407815" MODIFIED="1565922423493">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Art. 9&#186;</b>&#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <b><font color="#ff0000">Todas --&gt; Cita&#231;&#245;es/Intima&#231;&#245;es/Notifica&#231;&#245;es --&gt; </font></b>&#160; meio eletr&#244;nico;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&#160;&#160;inclusive da Fazenda P&#250;blica;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#990099" CREATED="1565804997743" ID="ID_348370471" MODIFIED="1565805171567">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&#167; 1&#186; </b>As cita&#231;&#245;es, intima&#231;&#245;es, notifica&#231;&#245;es e remessas que viabilizem o<br />acesso &#224; &#237;ntegra do processo correspondente
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; ser&#227;o consideradas vista pessoal do interessado para todos os<br />efeitos legais.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node COLOR="#990099" CREATED="1565805053264" ID="ID_1548609606" MODIFIED="1565805234984">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 2&#186;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Quando for invi&#225;vel o uso do meio eletr&#244;nico
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Os atos processuais poder&#227;o ser praticados segundo as regras ordin&#225;rias;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&#160;&#160;Digitalizando-se o documento f&#237;sico, que dever&#225; ser posteriormente<br />destru&#237;do.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node COLOR="#009999" CREATED="1565805338917" ID="ID_1848552110" MODIFIED="1565923029712">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Art. 10. A distribui&#231;&#227;o da
+    </p>
+    <ul>
+      <li>
+        peti&#231;&#227;o inicial e a juntada da contesta&#231;&#227;o, dos recursos e das peti&#231;&#245;es em geral, todos em formato digital, nos autos de processo eletr&#244;nico,
+      </li>
+    </ul>
+    <p>
+      &gt; podem ser <b><font color="#ff0000">feitas diretamente pelos advogados p&#250;blicos e privados</font></b><font color="#ff0000">,</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; sem necessidade da interven&#231;&#227;o do cart&#243;rio ou secretaria judicial
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <b><u>a autua&#231;&#227;o dever&#225; se dar de forma autom&#225;tica</u></b>, fornecendo-se <b><font color="#0007ff">recibo eletr&#244;nico de protocolo.</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#990099" CREATED="1565805538389" ID="ID_1327911211" MODIFIED="1565923164555">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 1&#186; O ato processual ser&#225;&#160; <b><font color="#ff0000">tempestivo</font></b>&#160;&#160;os efetivados at&#233;<br />as <b><font color="#ff0000">24 (vinte e quatro) horas do &#250;ltimo dia.</font></b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node COLOR="#990099" CREATED="1565805615132" ID="ID_1373608143" MODIFIED="1565923164554">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 2&#186; <b><font color="#ff0000">Se Sistema -&gt; Indispon&#237;vel (motivo t&#233;cnico)</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Ent&#227;o -&gt; Prazo prorrogado -&gt; at&#233; 1&#186; dia &#250;til seguinte &#224; resolu&#231;&#227;o do problema
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#990099" CREATED="1565805755725" ID="ID_904857973" MODIFIED="1565923164552">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&#167; 3&#186;</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&#160;&#160;Poder Judici&#225;rio -&gt;&#160;&#160;manter equipamentos de digitaliza&#231;&#227;o
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-&gt;&#160;&#160;e de acesso &#224; rede mundial de computadores
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#224; disposi&#231;&#227;o dos interessados p/ distribui&#231;&#227;o de pe&#231;as processuais.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1565923234920" ID="ID_1896482023" MODIFIED="1565926036239" VSHIFT="19">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Art 10&#186; </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Documentos eletr&#244;nicos -&gt;&#160;&#160;com garantia da origem e de seu signat&#225;rio-&gt;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;<b><font color="#ff0000">&#160;ser&#227;o considerados originais para todos os efeitos legais.</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1565923290478" ID="ID_398332480" MODIFIED="1565926934266">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&#167; 1&#186;</b>
+    </p>
+    <ul>
+      <li>
+        Os extratos digitais e
+      </li>
+      <li>
+        &#160;os documentos digitalizados e juntados aos autos pelos &#243;rg&#227;os:
+
+        <ul>
+          <li>
+            &#160;da Justi&#231;a e seus auxiliares;
+          </li>
+          <li>
+            pelo Minist&#233;rio P&#250;blico e seus auxiliares;
+          </li>
+          <li>
+            &#160;pelas procuradorias;
+          </li>
+          <li>
+            pelas autoridades policiais;
+          </li>
+          <li>
+            &#160;pelas reparti&#231;&#245;es p&#250;blicas em geral; e
+          </li>
+          <li>
+            por advogados p&#250;blicos e privados
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>
+      &gt; <b><font color="#ff0000">t&#234;m a mesma for&#231;a probante dos originais; </font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; ressalvada a alega&#231;&#227;o motivada e fundamentada de <b><u><font color="#ff0000">adultera&#231;&#227;o</font></u></b>&#160; antes ou durante o processo de digitaliza&#231;&#227;o.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565923292765" ID="ID_998427603" MODIFIED="1565926963012">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 2&#186; A arg&#252;i&#231;&#227;o de falsidade do documento&#160;original:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; ser&#225; processada eletronicamente;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565923315071" ID="ID_655217694" MODIFIED="1565927128637">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 3&#186; Os originais dos documentos digitalizados, mencionados no &#167; 2&#186; deste<br />artigo, dever&#227;o ser preservados pelo seu detentor at&#233;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt;&#160;&#160;o tr&#226;nsito em julgado da senten&#231;a; ou
+    </p>
+    <p>
+      &gt; quando admitida, at&#233; o final do prazo para interposi&#231;&#227;o de a&#231;&#227;o<br />&#160;rescis&#243;ria.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565923941407" ID="ID_717146819" MODIFIED="1565923956368">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 4&#186; (VETADO)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565923957560" ID="ID_870914209" MODIFIED="1565923970096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 5&#186; Os documentos cuja digitaliza&#231;&#227;o seja tecnicamente invi&#225;vel devido ao grande volume ou por motivo de ilegibilidade dever&#227;o ser apresentados ao cart&#243;rio ou secretaria no prazo de 10 (dez) dias contados do envio de peti&#231;&#227;o eletr&#244;nica comunicando o fato, os quais ser&#227;o devolvidos &#224; parte ap&#243;s o tr&#226;nsito em julgado.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565923977982" ID="ID_574363618" MODIFIED="1565924391344">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 6&#186; Os documentos digitalizados juntados em processo eletr&#244;nico estar&#227;o dispon&#237;veis para acesso por meio da rede externa pelas respectivas partes processuais, pelos advogados, independentemente de procura&#231;&#227;o nos autos, pelos membros do Minist&#233;rio P&#250;blico e pelos magistrados, sem preju&#237;zo da possibilidade de visualiza&#231;&#227;o nas secretarias dos &#243;rg&#227;os julgadores, &#224; exce&#231;&#227;o daqueles que tramitarem em segredo de justi&#231;a
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565924394837" ID="ID_532514050" MODIFIED="1565924406644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 7&#186; Os sistemas de informa&#231;&#245;es pertinentes a processos eletr&#244;nicos devem possibilitar que advogados, procuradores e membros do Minist&#233;rio P&#250;blico cadastrados, mas n&#227;o vinculados a processo previamente identificado, acessem automaticamente todos os atos e documentos processuais armazenados em meio eletr&#244;nico, desde que demonstrado interesse para fins apenas de registro, salvo nos casos de processos em segredo de justi&#231;a.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1564964785775" ID="ID_969475665" MODIFIED="1564970208607" POSITION="right">
 <richcontent TYPE="NODE"><html>

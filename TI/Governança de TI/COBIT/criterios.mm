@@ -10,8 +10,7 @@
       Crit&#233;rios de Informa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565525973376" ID="ID_666485575" MODIFIED="1565527301378" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -23,10 +22,9 @@
       Para o COBIT tais crit&#233;rios devem ser atendidos para que os objetivos<br />da organiza&#231;&#227;o sejam alcan&#231;ados:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1565526022425" ID="ID_1019387459" MODIFIED="1565530497090" POSITION="right">
+<node CREATED="1565526022425" ID="ID_1019387459" MODIFIED="1565917859294" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -48,13 +46,10 @@
         </td>
         <td valign="top" style="width: 90%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; </font><font color="#0005ff" size="2"><b>A informa&#231;&#227;o &#233; eficaz se atenter as necessidades do consumidor da informa&#231;&#227;o que a utiliza para uma tarefa espec&#237;fica. </b></font>
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; Se o consumidor da informa&#231;&#227;o puder realizar a tarefa com a informa&#231;&#227;o, ent&#227;o a informa&#231;&#227;o &#233; eficaz; </font>
+            <font color="#0005ff" size="2"><b>&gt;Informa&#231;&#227;o --&gt; &#233; EFICAZ --&gt; <u>atende necessidades do consumidor</u>&#160;--&gt; </b></font><b><font color="#ff0200" size="2">p/ um tarefa espec&#237;fica</font></b>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             
@@ -76,7 +71,7 @@
               <font size="2">interpretabilidade; </font>
             </li>
             <li>
-              <font size="2">objetividade</font>
+              <font color="#33cf31" size="2"><b>objetividade</b></font>
             </li>
           </ul>
           <p>
@@ -92,20 +87,13 @@
         </td>
         <td valign="top" style="width: 90%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; A efici&#234;ncia se refere ao processo de obten&#231;&#227;o e uso da informa&#231;&#227;o; </font>
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2"><br size="2" />
-            </font>
-          </p>
-          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font color="#ff0000" size="2"><b>&gt; Assim ela v&#234; a informa&#231;&#227;o como um servi&#231;o;</b></font>
+            <font color="#000bff" size="2">&gt; Informa&#231;&#227;o --&gt; &#233; EFICIENTE --&gt; <b><u>atende necessidades do consumidor</u></b></font><font color="#000bff"><br color="#000bff" /></font><font color="#000bff" size="2"><b>--&gt;</b></font><b><font size="2">&#160;</font><font color="#ff0000" size="2">for obtida e usada facilmente</font></b>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; Se a informa&#231;&#227;o que atende as necessidades do consumidor for obtida e usada facilmente, ent&#227;o o uso da informa&#231;&#227;o ser&#225; eficiente; </font>
+            <font size="2">&gt; A efici&#234;ncia se refere ao processo de obten&#231;&#227;o e uso da informa&#231;&#227;o; </font>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             
@@ -121,12 +109,15 @@
               <font size="2">acessibilidade; </font>
             </li>
             <li>
-              <font size="2">facilidade de opera&#231;&#227;o; </font>
+              <font size="2" color="#16be17"><b>facilidade de opera&#231;&#227;o;</b>&#160;</font>
             </li>
             <li>
               <font size="2">reputa&#231;&#227;o;</font>
             </li>
           </ul>
+          <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
+            <font color="#ff0000" size="2"><b>&gt; Assim ela v&#234; a informa&#231;&#227;o como um servi&#231;o;</b></font>
+          </p>
         </td>
       </tr>
       <tr>
@@ -137,7 +128,7 @@
         </td>
         <td valign="top" style="width: 90%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; Se a informa&#231;&#227;o tiver integridade, ent&#227;o ela ser&#225; exata e completa; </font>
+            <font color="#0009ff" size="2"><b>&gt; Informa&#231;&#227;o --&gt; &#233; &#205;NTEGRA --&gt;</b></font><b><font size="2">&#160; </font><font color="#ff0000" size="2"><u>Exata e Completa </u></font></b>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             
@@ -163,7 +154,7 @@
         </td>
         <td valign="top" style="width: 90%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; A informa&#231;&#227;o &#233; confi&#225;vel se ela for considerada verdadeira e confi&#225;vel; </font>
+            <font size="2" color="#0006ff"><b>&gt; Informa&#231;&#227;o --&gt; &#201; CONFI&#193;VEL --&gt; </b></font><b><font size="2" color="#ff0a00"><u>Verdadeira e Confi&#225;vel </u></font></b>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             
@@ -228,7 +219,7 @@
         </td>
         <td valign="top" style="width: 90%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2">&gt; A conformidade no sentido de que a informa&#231;&#227;o deve cumprir as especifica&#231;&#245;es &#233; coberta por qualquer uma das metas de qualidade da&#160; informa&#231;&#227;o, dependendo dos seus requisitos; </font>
+            <font size="2">&gt; A conformidade no sentido de que a informa&#231;&#227;o deve cumprir as especifica&#231;&#245;es &#233; coberta por qualquer uma das metas de qualidade da&#160;&#160;informa&#231;&#227;o, dependendo dos seus requisitos; </font>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             

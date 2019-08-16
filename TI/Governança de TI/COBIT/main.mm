@@ -127,9 +127,9 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#ff0000" CREATED="1564664247488" ID="ID_1656029288" MODIFIED="1565271925523" TEXT="Fique atento aos 05 Princ&#xed;pios e 07 Habilitadores">
+<node COLOR="#ff0000" CREATED="1564664247488" ID="ID_1656029288" MODIFIED="1565919473605" STYLE="bubble" TEXT="Fique atento aos 05 Princ&#xed;pios e 07 Habilitadores">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565271318846" ID="ID_1287715668" MODIFIED="1565271322112">
+<node CREATED="1565271318846" ID="ID_1287715668" MODIFIED="1565919473605">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -141,7 +141,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565271238833" ID="ID_614521538" MODIFIED="1565271266167">
+<node CREATED="1565271238833" ID="ID_614521538" MODIFIED="1565919473614">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -150,6 +150,34 @@
     <img src="habilitadores.png" />
   </body>
 </html></richcontent>
+</node>
+<node COLOR="#006699" CREATED="1565919390685" ID="ID_771415493" MODIFIED="1565919478674">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Perceba:</b>
+    </p>
+    <ul>
+      <li>
+        Informa&#231;&#227;o
+      </li>
+      <li>
+        Servi&#231;os, Infraestruturas e Aplicativos
+      </li>
+      <li>
+        Pessoas, Habilidades e Compet&#234;ncias
+      </li>
+    </ul>
+    <p>
+      <b><font color="#ba229f"><u>S&#227;o Recursos de TI</u></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
 </node>
@@ -184,8 +212,7 @@
       Crit&#233;rios de Informa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1565527416319" ID="ID_1399416000" LINK="ciclo_implementacao.mm" MODIFIED="1565527416320" POSITION="left" TEXT="Ciclo de Vida da Implementa&#xe7;&#xe3;o"/>

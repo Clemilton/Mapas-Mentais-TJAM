@@ -62,8 +62,7 @@
       DES - Data Encription Standart
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564957730982" ID="ID_1627691891" MODIFIED="1564958117917" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -349,7 +348,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564959443762" ID="ID_1247661790" MODIFIED="1565706151329">
+<node COLOR="#006699" CREATED="1564959443762" ID="ID_1247661790" MODIFIED="1565973532357">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -363,19 +362,13 @@
     </p>
     <ul>
       <li>
-        Foi desenvolvido para substituir o DES
-      </li>
-      <li>
-        Suporta tamanhos de chaves vari&#225;veis.
+        Subsitituiu -&gt; DES
       </li>
       <li>
         <b><font color="#ff2500">Cifra e decifra blocos fixos de 128bits;</font></b>&#160;
       </li>
       <li>
-        Chaves criptogr&#225;ficas de tamanho vari&#225;vel 128,192 e 256 bits;
-      </li>
-      <li>
-        Mesma chave para criptografia e decifragem;
+        Chaves vari&#225;veis -&gt; 128,192 e 256 bits;
       </li>
       <li>
         N&#227;o utiliza a rede de Feistel,usada no DES.

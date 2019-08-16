@@ -5,30 +5,30 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564482854846" ID="ID_537963289" MODIFIED="1564853544964" POSITION="right" STYLE="fork" TEXT="Defini&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564482867612" ID="ID_1875499951" MODIFIED="1564860140245" STYLE="bubble">
+<node COLOR="#0033ff" CREATED="1564482867612" ID="ID_1875499951" MODIFIED="1565920778583" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; Licen&#231;a &#233; a autoriza&#231;&#227;o do afastamento total do servi&#231;o em car&#225;ter tempor&#225;rio ao funcion&#225;rio ou ao servidor p&#250;blico.
+      &gt; Licen&#231;a --&gt; <u>afastamento total do servi&#231;o</u>&#160;--&gt; <b>car&#225;ter tempor&#225;rio</b>&#160;--&gt;<br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ao funcion&#225;rio/servidor p&#250;blico.
     </p>
     <p>
       
     </p>
     <p>
-      &gt; O servirdor <u>aguardar&#225; em exerc&#237;cio</u>&#160;a concess&#227;o da licen&#231;a
+      &gt; O servidor <u>aguardar&#225; em exerc&#237;cio</u>&#160;at&#233; que a licen&#231;a seja concedida;
     </p>
   </body>
 </html>
 </richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1564483003944" ID="ID_1015702875" MODIFIED="1564859907681" POSITION="right" TEXT="Tipos de Licen&#xe7;as">
 <edge WIDTH="1"/>
-<node COLOR="#0033ff" CREATED="1564483013503" FOLDED="true" ID="ID_1701275057" MODIFIED="1564860962124" TEXT="por MOTIVO DE SA&#xda;DE">
+<node COLOR="#0033ff" CREATED="1564483013503" ID="ID_1701275057" MODIFIED="1565920626271" TEXT="por MOTIVO DE SA&#xda;DE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564483487455" ID="ID_1176106122" MODIFIED="1564483524259" TEXT="Art 68"/>
 <node COLOR="#006699" CREATED="1564483491455" ID="ID_1811443835" MODIFIED="1564483524259" TEXT="Depende de Inspe&#xe7;&#xe3;o M&#xe9;dica"/>
@@ -61,7 +61,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1564483030959" FOLDED="true" HGAP="21" ID="ID_1867700610" MODIFIED="1564860980949" TEXT="por MOTIVO DE DOEN&#xc7;A EM PESSOA DA FAM&#xcd;LIA" VSHIFT="9">
+<node COLOR="#0033ff" CREATED="1564483030959" HGAP="21" ID="ID_1867700610" MODIFIED="1565920644387" TEXT="por MOTIVO DE DOEN&#xc7;A EM PESSOA DA FAM&#xcd;LIA" VSHIFT="9">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564483943276" ID="ID_328686495" MODIFIED="1564483969380" TEXT="Art 72">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -180,8 +180,7 @@
       A licen&#231;a ser&#225; concedida &#224; <u><b>vista de</b></u><b><br /><u>&#160;documento que prove a incorpora&#231;&#227;o</u></b><br />e da remunera&#231;&#227;o descontar-se-&#225; a<br />import&#226;ncia que o funcion&#225;rio<br />perceber pelo servi&#231;o militar.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564489773367" ID="ID_581305314" MODIFIED="1564860666135" STYLE="bubble" VSHIFT="18">
 <richcontent TYPE="NODE"><html>
@@ -201,8 +200,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1564489839405" ID="ID_1418344888" MODIFIED="1564860662686" STYLE="bubble" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
@@ -220,8 +218,7 @@
       <font color="#ff0024">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;p/ reassumir o exerc&#237;cio</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1564483147579" FOLDED="true" ID="ID_333432277" MODIFIED="1564860279263" TEXT="Especial">

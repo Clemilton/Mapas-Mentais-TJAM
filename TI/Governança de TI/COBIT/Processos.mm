@@ -40,7 +40,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1565039941062" ID="ID_630637590" MODIFIED="1565187878550" POSITION="right" TEXT="Processos de Governan&#xe7;a">
+<node CREATED="1565039941062" ID="ID_630637590" MODIFIED="1565919664408" POSITION="right" TEXT="Processos de Governan&#xe7;a">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565039980353" ID="ID_858920608" MODIFIED="1565453952399" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -113,8 +113,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -202,7 +201,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565040238919" FOLDED="true" HGAP="22" ID="ID_1074344543" MODIFIED="1565455405787" VSHIFT="15">
+<node COLOR="#006699" CREATED="1565040238919" HGAP="22" ID="ID_1074344543" MODIFIED="1565919670454" VSHIFT="15">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -245,7 +244,7 @@
 </node>
 <node CREATED="1565147909697" ID="ID_745227731" MODIFIED="1565271651222" POSITION="left" TEXT="Processos de Gest&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565147915091" ID="ID_1127561341" MODIFIED="1565454942893">
+<node COLOR="#006699" CREATED="1565147915091" ID="ID_1127561341" MODIFIED="1565828834681">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -259,7 +258,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1565149242451" ID="ID_1587108173" MODIFIED="1565454946895">
+<node COLOR="#006699" CREATED="1565149242451" ID="ID_1587108173" MODIFIED="1565836832885">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -306,7 +305,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#009999" CREATED="1565149663849" ID="ID_1753661680" MODIFIED="1565268903404">
+<node COLOR="#009999" CREATED="1565149663849" ID="ID_1753661680" MODIFIED="1565828946093">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -318,20 +317,6 @@
     <p>
       
     </p>
-    <p>
-      &gt; A estrat&#233;gia busca compreender:
-    </p>
-    <ul>
-      <li>
-        O lugar que estamos;
-      </li>
-      <li>
-        Onde queremos chegar(vis&#227;o);
-      </li>
-      <li>
-        O que &#233; necess&#225;rio fazer para chegar onde queremos;
-      </li>
-    </ul>
     <p>
       &gt;&#160;&#160;<u><font color="#ff1600"><b>Esclarece e mant&#233;m a miss&#227;o e vis&#227;o da governan&#231;a de TI da organiza&#231;&#227;o.</b></font></u>
     </p>
@@ -347,7 +332,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#009999" CREATED="1565149868976" ID="ID_914420922" MODIFIED="1565268903405">
+<node COLOR="#009999" CREATED="1565149868976" ID="ID_914420922" MODIFIED="1565828955961">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -366,8 +351,19 @@
       
     </p>
     <p>
-      
+      &gt; A estrat&#233;gia busca compreender:
     </p>
+    <ul>
+      <li>
+        O lugar que estamos;
+      </li>
+      <li>
+        Onde queremos chegar(vis&#227;o);
+      </li>
+      <li>
+        O que &#233; necess&#225;rio fazer para chegar onde queremos;
+      </li>
+    </ul>
     <p>
       &gt; Trata do ambiente atual, dire&#231;&#227;o futura, e as iniciativas necess&#225;rias para
     </p>
@@ -451,7 +447,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#009999" CREATED="1565188793501" ID="ID_1582196348" MODIFIED="1565268903407">
+<node COLOR="#009999" CREATED="1565188793501" ID="ID_1582196348" MODIFIED="1565829266506">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -464,19 +460,19 @@
       
     </p>
     <p>
+      &gt; executa as orienta&#231;&#245;es estrat&#233;gicas p/ investimentos alinhados com a<br />vis&#227;o de aquitetura corporativa considerando-se as restri&#231;&#7869;s de recursos<br />e or&#231;amento;
+    </p>
+    <p>
+      
+    </p>
+    <p>
       &gt; Avalia, prioriza programas e servi&#231;os
     </p>
     <p>
       
     </p>
     <p>
-      &gt; Gerencia demanda dentro das restri&#231;&#245;es de recursos e de or&#231;amento<br />com base no seu alinhamento com os objetivos estrat&#233;gicos e risco.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt;&#160;&#160;Move programas selecionados para o portf&#243;lio de servi&#231;os para execu&#231;&#227;o.
+      &gt;&#160;&#160;Monitora o Portif&#243;lio como um todp, propondo ajustes em fun&#231;&#227;o<br />do desempenho esperado
     </p>
     <p>
       
@@ -558,7 +554,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#009999" CREATED="1565189409267" ID="ID_1753314085" MODIFIED="1565268903408">
+<node COLOR="#009999" CREATED="1565189409267" ID="ID_1753314085" MODIFIED="1565919300019">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -571,7 +567,13 @@
       
     </p>
     <p>
-      &gt; Gerencia Relacionamento entre o neg&#243;cio e a TI
+      &gt; Gerencia Relacionamento entre o neg&#243;cio e a TI;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><u><font color="#ff0800">&gt; Integra&#231;&#227;o Corporativa; </font></u></b>
     </p>
     <p>
       
@@ -586,7 +588,8 @@
       &gt; Garantir o foco na realiza&#231;&#227;o dos objetivos;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node COLOR="#009999" CREATED="1565189492051" ID="ID_552829767" MODIFIED="1565268903408">
 <richcontent TYPE="NODE"><html>
@@ -635,7 +638,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#009999" CREATED="1565189648990" ID="ID_1481753950" MODIFIED="1565268903415">
+<node COLOR="#009999" CREATED="1565189648990" ID="ID_1481753950" MODIFIED="1565918915998">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -648,13 +651,16 @@
       
     </p>
     <p>
-      &gt; Gerencia servi&#231;os relacionados a TI prestados por todos os tipos de
+      &gt; Garantir --&gt; servi&#231;os relacionados a TI --&gt; atendam requisitos da<br />
     </p>
     <p>
-      fornecedores para atender &#224;s necessidades organizacionais incluindo:
+      organiza&#231;&#227;o;
     </p>
     <p>
       
+    </p>
+    <p>
+      &gt; inclusive:
     </p>
     <ul>
       <li>
@@ -667,13 +673,17 @@
         gest&#227;o de contratos e revis&#227;o;
       </li>
       <li>
-        monitoramento de desempenho de fornecedores para a efetividade e conformidade.
+        monitoramento --&gt; fornecedores
+      </li>
+      <li>
+        p/ efetividade e conformidade (leis, contratos etc...)
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node COLOR="#009999" CREATED="1565189761768" ID="ID_1593740374" MODIFIED="1565268903421">
+<node COLOR="#009999" CREATED="1565189761768" ID="ID_1593740374" MODIFIED="1565918601494">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -686,7 +696,7 @@
       
     </p>
     <p>
-      Define e comunica os requisitos de qualidade em todos os processos, como:
+      Define/comunica --&gt; <b><u>requisitos de qualidade</u></b>&#160;--&gt; nos processos:
     </p>
     <p>
       
@@ -701,7 +711,8 @@
       &gt; esfor&#231;os de efici&#234;ncia;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node COLOR="#009999" CREATED="1565189879066" ID="ID_417585998" MODIFIED="1565268903421">
 <richcontent TYPE="NODE"><html>
@@ -769,7 +780,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1565147933231" FOLDED="true" ID="ID_525923160" MODIFIED="1565454007046" STYLE="bubble">
+<node CREATED="1565147933231" ID="ID_525923160" MODIFIED="1565829449379" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -781,7 +792,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565149090160" ID="ID_535720557" MODIFIED="1565365292537" VSHIFT="26">
+<node COLOR="#006699" CREATED="1565149090160" ID="ID_535720557" MODIFIED="1565837989996" VSHIFT="26">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -996,7 +1007,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1565147974094" FOLDED="true" HGAP="21" ID="ID_957883997" MODIFIED="1565453916290" STYLE="bubble" TEXT="Entregar, Servi&#xe7;o e Suporte" VSHIFT="59">
+<node CREATED="1565147974094" HGAP="21" ID="ID_957883997" MODIFIED="1565836828763" STYLE="bubble" TEXT="Entregar, Servi&#xe7;o e Suporte" VSHIFT="59">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565149477042" ID="ID_90997897" MODIFIED="1565270319151">
 <richcontent TYPE="NODE"><html>
@@ -1024,6 +1035,27 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1565838032323" ID="ID_1781410071" MODIFIED="1565838405884">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>DSS02 - Requisitos de Servi&#231;os e Incidentes</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Define e mant&#233;m controles de processo de neg&#243;cio apropriados p/<br />assegurar que as informa&#231;&#245;es relacionadas e processadas satisfazem
+    </p>
+    <p>
+      todos os requisitos de controle de informa&#231;&#245;es relevantes;
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node COLOR="#338800" CREATED="1565270320344" ID="ID_313467063" MODIFIED="1565270559401">
 <richcontent TYPE="NODE"><html>
@@ -1039,7 +1071,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1565147980632" FOLDED="true" ID="ID_1692707099" MODIFIED="1565453917147" STYLE="bubble" TEXT="Monitorar, Avaliar e Analisar" VSHIFT="22">
+<node CREATED="1565147980632" ID="ID_1692707099" MODIFIED="1565829425234" STYLE="bubble" TEXT="Monitorar, Avaliar e Analisar" VSHIFT="22">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565149564648" ID="ID_294426892" MODIFIED="1565270434533">
 <richcontent TYPE="NODE"><html>
@@ -1058,6 +1090,81 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1565916367574" ID="ID_467156408" MODIFIED="1565916624457">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>MEA01 - Desempenho e Conformidade</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Coleta/Valida/Avalia -&gt; objetivos e metas -&gt; do processo de<br />&#160; neg&#243;cio e TI;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Monitora --&gt; processos --&gt; conforme --&gt; metas e m&#233;tricas<br />&#160; acordadas
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Fornece informa&#231;&#227;o --&gt; sistem&#225;tica e oportuna
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565916593281" ID="ID_751729546" MODIFIED="1565916780139">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>MEA02 - Sistema de Controle Interno</b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Monitora/Avalia&#160;&#160;--&gt; Ambiente de Controle
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Permite gerenciamento de identificar defici&#234;ncias de controle<br />e inefici&#234;ncias e iniciar a&#231;&#245;es de melhoria;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1565916788347" ID="ID_1676399059" MODIFIED="1565916988785">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>MEA03 - Conformidade com Requisitos Externos </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Avalia --&gt; processos --&gt; TI/Neg&#243;cios --&gt; conformidade com<br />Requisitos externos (leis, regulamentos, contratos)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node COLOR="#338800" CREATED="1565270437681" ID="ID_238051587" MODIFIED="1565270556593">
 <richcontent TYPE="NODE"><html>
