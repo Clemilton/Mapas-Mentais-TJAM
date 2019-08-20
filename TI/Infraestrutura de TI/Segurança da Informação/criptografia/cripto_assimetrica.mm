@@ -199,9 +199,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1565224303570" FOLDED="true" ID="ID_1735017930" MODIFIED="1565708294657" POSITION="left" TEXT="Diffie-Hellman - DH">
+<node CREATED="1565224303570" ID="ID_1735017930" MODIFIED="1566244357648" POSITION="left" TEXT="Diffie-Hellman - DH">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565224617165" ID="ID_1325570333" MODIFIED="1565224811117">
+<node COLOR="#006699" CREATED="1565224617165" ID="ID_1325570333" MODIFIED="1566244591917">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -235,10 +235,23 @@
       
     </p>
     <p>
-      &gt; <b><font color="#ff0000">A sua estrutura e robustez reside na complexidade e</font></b><br /><b><font color="#ff0000">problema do logaritmo discreto.</font></b>
+      &gt; <b><font color="#ff0000">A sua estrutura e robustez reside na complexidade e</font></b><br /><b><font color="#ff0000">problema do logaritmo discreto. </font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Atualmente --&gt; usado junto com <b><font color="#c62646">curva el&#237;ptica </font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#c62646">&gt; Os criadores da curva el&#237;ptica argumentam que a mesma</font></b><br /><b><font color="#c62646">pode ser mais r&#225;pida e usar chaves mais curtas que m&#233;to-</font></b><br /><b><font color="#c62646">dos antigos como RSA e proporcionar um n&#237;vel de </font></b><br /><b><font color="#c62646">seguran&#231;a equivalente;</font></b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1565224813556" HGAP="22" ID="ID_1585979602" MODIFIED="1565708292393" POSITION="left" VSHIFT="27">
@@ -299,8 +312,7 @@
       &gt; ao cifrar a mensagem, &#233; necess&#225;rio dividir a mensagem em blocos para<br />criptograf&#225;-los e esses blocos t&#234;m tamanho limitado de n bits.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565228113983" ID="ID_43236735" MODIFIED="1565228810729">
 <richcontent TYPE="NODE"><html>
@@ -369,5 +381,6 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1566245904008" ID="ID_1447763587" MODIFIED="1566245904008" POSITION="left" TEXT=""/>
 </node>
 </map>

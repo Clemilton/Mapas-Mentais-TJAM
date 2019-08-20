@@ -32,8 +32,7 @@
       &gt; &#201; compat&#237;vel com IPv4
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565002494918" FOLDED="true" ID="ID_584138220" MODIFIED="1565003949168" POSITION="right" TEXT="Endere&#xe7;amento" VSHIFT="14">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -268,9 +267,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1565003626126" FOLDED="true" ID="ID_441639895" MODIFIED="1565011606475" POSITION="right" TEXT="Cabe&#xe7;alho">
+<node CREATED="1565003626126" ID="ID_441639895" MODIFIED="1566248988576" POSITION="right" TEXT="Cabe&#xe7;alho">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565003635468" FOLDED="true" ID="ID_538203375" MODIFIED="1565010788908">
+<node COLOR="#006699" CREATED="1565003635468" ID="ID_538203375" MODIFIED="1566248991987">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -325,8 +324,7 @@
       Usado pelo roteador para identificar o protocolo do pacote;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565003851107" ID="ID_294188059" MODIFIED="1565010809421">
 <richcontent TYPE="NODE"><html>
@@ -350,8 +348,7 @@
       &gt; Equivalente ao ToS(Type of Service) do IPv4
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565003913434" ID="ID_420859591" MODIFIED="1565010788922">
 <richcontent TYPE="NODE"><html>
@@ -375,8 +372,7 @@
       &gt; Isso facilita a pr&#225;tica de QoS;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565010496087" ID="ID_1651862420" MODIFIED="1565010814274">
 <richcontent TYPE="NODE"><html>
@@ -400,8 +396,7 @@
       &gt; Os cabe&#231;alhos de extens&#227;o s&#227;o contabilizados neste c&#225;lculo.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565010577395" ID="ID_1373327788" MODIFIED="1565010822257">
 <richcontent TYPE="NODE"><html>
@@ -425,8 +420,7 @@
       &gt; Epecifica o tipo de informa&#231;&#227;o do pr&#243;ximo pacote;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565010669191" ID="ID_657972634" MODIFIED="1565010830588">
 <richcontent TYPE="NODE"><html>
@@ -447,8 +441,7 @@
       &gt; determina o tempo de vida ou limite de saltos do pacote na rede.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565010733309" ID="ID_1177748982" MODIFIED="1565010836527">
 <richcontent TYPE="NODE"><html>
@@ -469,8 +462,7 @@
       origem e destino dos pacotes IPv6.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565010865535" ID="ID_1122568567" MODIFIED="1565011009331" VSHIFT="22">
@@ -501,8 +493,7 @@
       &gt; N&#227;o h&#225; nem quantidade, nem tamanho fixo para estes cabe&#231;alhos.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565011147342" ID="ID_1713312733" MODIFIED="1565011379567">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -513,8 +504,7 @@
       <b><u>Hop-by-hop </u></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565011540277" ID="ID_1904088032" MODIFIED="1565011552625" TEXT="Router Alert -&gt; Protocolos Multicast"/>
 <node CREATED="1565011553041" ID="ID_947281308" MODIFIED="1565011566310" TEXT="Jumbogram -&gt; Super pacote( at&#xe9; 4 GB)"/>
 </node>
@@ -535,8 +525,7 @@
       Modelos de Transi&#231;&#227;o IPv4 -&gt; IPv6
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565011656118" ID="ID_1299571030" MODIFIED="1565011688306">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -559,8 +548,7 @@
       &gt; &#201; a t&#233;cnica mais utilizada atualmente considerando as redes IPv4 com o devido suporte a redes IPv6.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565011689272" ID="ID_237342526" MODIFIED="1565011803329">
 <richcontent TYPE="NODE"><html>
@@ -584,8 +572,7 @@
       &gt; Os pacotes IPv6 s&#227;o trafegados dentro de um t&#250;nel na rede IPv4.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565011804420" ID="ID_67499632" MODIFIED="1565011988816">
 <richcontent TYPE="NODE"><html>
@@ -621,8 +608,7 @@
       &gt; Foi reservado a faixa de endere&#231;os 192.88.99.0/24 para tal aspecto, conforme RFC 3068.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

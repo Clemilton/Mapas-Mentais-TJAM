@@ -24,8 +24,7 @@
       &gt;&#160;&#160;observados os princ&#237;pios constitucionais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565962595936" ID="ID_712001627" MODIFIED="1565962795006" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -61,10 +60,9 @@
       &gt; Para <u>assegurar o cumprimento e a execu&#231;&#227;o dos seus atos e decis&#245;es</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565722106291" FOLDED="true" ID="ID_848592433" MODIFIED="1565962094639" POSITION="right">
+<node COLOR="#006699" CREATED="1565722106291" ID="ID_848592433" MODIFIED="1566161271229" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -115,8 +113,7 @@
       <b><font color="#ff0000">&gt; CODJ trata dos requisitos de altera&#231;&#227;o;</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1565722383938" ID="ID_14552330" MODIFIED="1565722593850">
 <richcontent TYPE="NODE"><html>
@@ -462,14 +459,14 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#990099" CREATED="1565724894668" ID="ID_408380543" MODIFIED="1565725195924">
+<node COLOR="#990099" CREATED="1565724894668" ID="ID_408380543" MODIFIED="1566161358322">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; Manter&#225; registro de todas as Comarcas, Termos e Distritos;
+      <b><font color="#0000ff">&gt; Manter&#225; registro de todas as Comarcas, Termos e Distritos;</font></b>
     </p>
     <p>
       
@@ -501,7 +498,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#0009ff" CREATED="1565724224217" ID="ID_1830588629" MODIFIED="1565962146181" POSITION="right">

@@ -29,7 +29,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565808197822" ID="ID_211775145" MODIFIED="1565809982205" POSITION="right">
+<node COLOR="#006699" CREATED="1565808197822" ID="ID_211775145" MODIFIED="1566142504990" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -54,14 +54,14 @@
       
     </p>
     <p>
-      <b><font color="#ff0000">&gt; Uma m&#233;trica de sw &#233; uma medi&#231;&#227;o que se refere a um SW,</font></b><br /><b><font color="#ff0000">processo ou documenta&#231;&#227;o</font></b>
+      <b><font color="#ff0000">&gt; A m&#233;trica de SW n&#227;o se restringe&#160;&#160;ao SW; Tamb&#233;m</font></b><br /><b><font color="#ff0000">&#160;mede<u>&#160; processo ou documenta&#231;&#227;o</u></font></b>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565808365297" ID="ID_659769479" MODIFIED="1565808375521" POSITION="right" TEXT="Classifica&#xe7;&#xe3;o">
+<node CREATED="1565808365297" ID="ID_659769479" MODIFIED="1566160798738" POSITION="right" TEXT="Classifica&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1565808378287" ID="ID_85662726" MODIFIED="1565812768228">
+<node COLOR="#0033ff" CREATED="1565808378287" FOLDED="true" ID="ID_85662726" MODIFIED="1566160825944">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -73,7 +73,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006633" CREATED="1565808518311" ID="ID_1984887112" MODIFIED="1565883069790">
+<node COLOR="#006633" CREATED="1565808518311" ID="ID_1984887112" MODIFIED="1566142566894">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -98,16 +98,15 @@
       
     </p>
     <p>
-      &gt; Ex: esfor&#231;o m&#233;dio e tempo necess&#225;rio
+      <font color="#6118a7"><b>&gt; Ex: esfor&#231;o m&#233;dio e tempo necess&#225;rio </b></font>
     </p>
     <p>
-      para reparar os defeitos reportados.
+      <font color="#6118a7"><b>para reparar os defeitos reportados.</b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006633" CREATED="1565808598963" ID="ID_260559356" MODIFIED="1565883141609">
+<node COLOR="#006633" CREATED="1565808598963" ID="ID_260559356" MODIFIED="1566142615395">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -135,12 +134,11 @@
       
     </p>
     <p>
-      &gt; Ex:&#160;&#160;complexidade de um m&#243;dulo ou a extens&#227;o m&#233;dia dos<br />identificadores em um programa.
+      <b><font color="#702494">&gt; Ex:&#160;&#160;complexidade de um m&#243;dulo ou a extens&#227;o m&#233;dia dos<br color="#702494" />identificadores em um programa.</font></b>
     </p>
   </body>
-</html>
-</richcontent>
-<node COLOR="#006699" CREATED="1565808789011" ID="ID_486715532" MODIFIED="1565808822870">
+</html></richcontent>
+<node COLOR="#006699" CREATED="1565808789011" FOLDED="true" ID="ID_486715532" MODIFIED="1566160823560">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -185,8 +183,7 @@
       <b><font color="#0009ff"><u>&gt; sem a necessidade da execu&#231;&#227;o dos programas.</u></font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#cc3300" CREATED="1565883553961" ID="ID_1022888577" MODIFIED="1565883698614">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -197,8 +194,7 @@
       Permite avaliar o sistema
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006633" CREATED="1565883591303" ID="ID_538993968" MODIFIED="1565883707198" TEXT="Mensurar Complexidade"/>
 <node COLOR="#006633" CREATED="1565883605634" ID="ID_1179889144" MODIFIED="1565883707198" TEXT="Facilidade de Compreens&#xe3;o"/>
@@ -212,8 +208,7 @@
       Manuten&#231;&#227;o&#160;do sistema de SW;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006633" CREATED="1565883664214" ID="ID_432165523" MODIFIED="1565883707196" TEXT="medir qualidade">
 <node COLOR="#990000" CREATED="1565883679432" ID="ID_77098375" MODIFIED="1565883712945" TEXT="artefatos"/>
@@ -249,13 +244,12 @@
       &gt; Quase sempre est&#227;o relacionadas com atributos da qualidade de software.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1565808396378" ID="ID_1419050880" MODIFIED="1565812703749">
+<node COLOR="#0033ff" CREATED="1565808396378" FOLDED="true" ID="ID_1419050880" MODIFIED="1566160833632">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -318,7 +312,7 @@
 <icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1565808422482" ID="ID_11252228" MODIFIED="1565884887944">
+<node COLOR="#0033ff" CREATED="1565808422482" FOLDED="true" ID="ID_11252228" MODIFIED="1566160839296">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -385,7 +379,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1565808457479" ID="ID_552052197" MODIFIED="1565884985371">
+<node COLOR="#0033ff" CREATED="1565808457479" FOLDED="true" ID="ID_552052197" MODIFIED="1566160802616">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -446,7 +440,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1565808476766" ID="ID_341185834" MODIFIED="1565884992962">
+<node COLOR="#0033ff" CREATED="1565808476766" FOLDED="true" ID="ID_341185834" MODIFIED="1566160860640">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -458,14 +452,14 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565810493717" ID="ID_607614030" MODIFIED="1565810885240">
+<node COLOR="#338800" CREATED="1565810493717" ID="ID_607614030" MODIFIED="1566009125221">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>M&#233;tricas para o Modelo de An&#225;lise:</b>
+      <b><u>M&#233;tricas para o Modelo de An&#225;lise:</u></b>
     </p>
     <p>
       
@@ -485,20 +479,20 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565810844070" ID="ID_1777227826" MODIFIED="1565810877480">
+<node COLOR="#338800" CREATED="1565810844070" ID="ID_1777227826" MODIFIED="1566009178945">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>M&#233;tricas para o Modelo de Projeto:</b>
+      <b><u>M&#233;tricas para o Modelo de Projeto:</u></b>
     </p>
     <p>
       
     </p>
     <p>
-      &gt;&#160;&#160;quantificam atributos do projeto
+      &gt;&#160;<b><font color="#ff0000">&#160;quantificam atributos do projeto</font></b>
     </p>
     <p>
       
@@ -510,7 +504,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1565808500108" ID="ID_5293849" MODIFIED="1565885016915">
+<node COLOR="#0033ff" CREATED="1565808500108" ID="ID_5293849" MODIFIED="1566160861273">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -522,14 +516,14 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565810907883" ID="ID_1726056834" MODIFIED="1565811162130">
+<node COLOR="#338800" CREATED="1565810907883" ID="ID_1726056834" MODIFIED="1566009218943">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>M&#233;tricas de Produtividade:</b>
+      <b><u>M&#233;tricas de Produtividade:</u></b>
     </p>
     <p>
       
@@ -549,14 +543,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565810921058" ID="ID_1508284645" MODIFIED="1565811408628">
+<node COLOR="#338800" CREATED="1565810921058" ID="ID_1508284645" MODIFIED="1566009224368">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>M&#233;tricas de Qualidade:</b>&#160;
+      <b><u>M&#233;tricas de Qualidade:</u></b><u>&#160;</u>
     </p>
     <p>
       
@@ -582,14 +576,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565810949531" ID="ID_22101018" MODIFIED="1565810968269">
+<node COLOR="#338800" CREATED="1565810949531" ID="ID_22101018" MODIFIED="1566009231249">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>M&#233;tricas T&#233;cnicas:</b>&#160;
+      <b><u>M&#233;tricas T&#233;cnicas:</u></b><u>&#160;</u>
     </p>
     <p>
       
@@ -605,52 +599,60 @@
 </node>
 </node>
 </node>
-<node CREATED="1565811971663" ID="ID_1382962138" MODIFIED="1565811975940" POSITION="left" TEXT="Exemplos de M&#xe9;tricas">
-<node CREATED="1565811977479" ID="ID_562651205" MODIFIED="1565811994842" TEXT="Fan-in/Fan-out">
-<node COLOR="#006699" CREATED="1565885134443" ID="ID_322349299" MODIFIED="1565885592018">
+<node COLOR="#0033ff" CREATED="1565811971663" ID="ID_1382962138" MODIFIED="1566160867706" POSITION="left" TEXT="Exemplos de M&#xe9;tricas">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1565811977479" FOLDED="true" ID="ID_562651205" MODIFIED="1566160870048" TEXT="Fan-in/Fan-out">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1565885134443" ID="ID_322349299" MODIFIED="1566009287234">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Fan/IN: </b>n&#250;mero de fun&#231;&#245;es ou m&#233;todos que chamam<br />alguma outra fun&#231;&#227;o X
+      <b>Fan/IN: </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>&gt; </b>n&#250;mero de fun&#231;&#245;es ou m&#233;todos que chamam uma fun&#231;&#227;o X
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565885506840" ID="ID_143669557" MODIFIED="1565885591567">
+<node COLOR="#338800" CREATED="1565885506840" ID="ID_143669557" MODIFIED="1566143272777">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Fan/out:</b>&#160;o n&#250;mero de fun&#231;&#245;es chamadas
+      <b>Fan/out:</b>&#160;
     </p>
     <p>
-      pela fun&#231;&#227;o X.
+      
+    </p>
+    <p>
+      &gt; O n&#250;mero de fun&#231;&#245;es chamadas dentro fun&#231;&#227;o X;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565885551902" ID="ID_727396710" MODIFIED="1565885589732">
+<node COLOR="#338800" CREATED="1565885551902" ID="ID_727396710" MODIFIED="1566009366193">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      Um<b><u>&#160;valor alto para fan-in</u></b>&#160;significa que X est&#225;<b><u>&#160; firmemente<br />&#160;acoplado</u></b>&#160;com o resto do projeto, e mudan&#231;as em X<br />&#160;ter&#227;o grande impacto.
+      <font color="#f18b0a"><u>Um&#160;valor alto para fan-in&#160;</u></font>significa que X est&#225;<b><font color="#0014ff">&#160; firmemente<br color="#0014ff" />&#160;acoplado</font></b>&#160;com o resto do projeto, e mudan&#231;as em X<br />&#160;ter&#227;o grande impacto.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565811995192" ID="ID_364518460" MODIFIED="1565812001955">
+<node COLOR="#006699" CREATED="1565811995192" FOLDED="true" ID="ID_364518460" MODIFIED="1566160871624">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -661,7 +663,8 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1565885603427" ID="ID_1293824620" MODIFIED="1565885632037">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1565885603427" ID="ID_1293824620" MODIFIED="1566009254608">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -677,11 +680,10 @@
       &gt; uma das m&#233;tricas mais confi&#225;veis de previs&#227;o de propens&#227;o<br />a erros em componentes.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565812002314" ID="ID_967054722" MODIFIED="1565812010594">
+<node COLOR="#006699" CREATED="1565812002314" ID="ID_967054722" MODIFIED="1566143286927">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -692,7 +694,8 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1565885635174" ID="ID_1950305075" MODIFIED="1565885747911">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1565885635174" ID="ID_1950305075" MODIFIED="1566009254605">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -723,11 +726,10 @@
       P -&gt; Quantidade de componentes conectados;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565812014126" ID="ID_983352533" MODIFIED="1565812020557">
+<node COLOR="#006699" CREATED="1565812014126" FOLDED="true" ID="ID_983352533" MODIFIED="1566009456623">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -738,7 +740,8 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1565885770025" ID="ID_563256486" MODIFIED="1565886047002">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1565885770025" ID="ID_563256486" MODIFIED="1566009254603">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -754,11 +757,10 @@
       &gt; Quanto maior o tamanho do nome da vari&#225;vel, maior o seu<br />significado;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565812021023" ID="ID_1314467901" MODIFIED="1565886061089">
+<node COLOR="#006699" CREATED="1565812021023" FOLDED="true" ID="ID_1314467901" MODIFIED="1566009457247">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -768,9 +770,9 @@
       Profundidade e Aninhamento de<br />&#160;Declara&#231;&#245;es Concidicionais
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1565886063397" ID="ID_1217582257" MODIFIED="1565886119968">
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1565886063397" ID="ID_1217582257" MODIFIED="1566009254600">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -789,12 +791,12 @@
       e mais propensos a erros;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1565812042578" ID="ID_1961179843" MODIFIED="1565812049791" TEXT="Ind&#xed;ce de Fog">
-<node CREATED="1565886131189" ID="ID_625519907" MODIFIED="1565886155214">
+<node COLOR="#006699" CREATED="1565812042578" FOLDED="true" ID="ID_1961179843" MODIFIED="1566009458135" TEXT="Ind&#xed;ce de Fog">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1565886131189" ID="ID_625519907" MODIFIED="1566009254598">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -813,8 +815,7 @@
       mais dif&#237;cil ser&#225; a compreens&#227;o de documentos.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

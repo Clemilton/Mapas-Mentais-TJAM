@@ -118,6 +118,19 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1566245348143" ID="ID_455989540" MODIFIED="1566245421937">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; O DES utiliza o conceito de S-BOXES em procesos de substitui&#231;&#227;o<br />de bits;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1564958121561" HGAP="25" ID="ID_1408392658" MODIFIED="1564961370749" POSITION="left" TEXT="3DES" VSHIFT="55">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -378,8 +391,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1565230507859" ID="ID_542582826" MODIFIED="1565230539844">
 <richcontent TYPE="NODE"><html>

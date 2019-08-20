@@ -12,7 +12,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564964729239" ID="ID_1719357874" MODIFIED="1565284204414" POSITION="right" STYLE="bubble">
+<node CREATED="1564964729239" FOLDED="true" ID="ID_1719357874" MODIFIED="1566313414633" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -78,7 +78,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1564964511053" HGAP="23" ID="ID_621461263" MODIFIED="1565803186516" TEXT="Conceitos Iniciais" VSHIFT="19">
+<node CREATED="1564964511053" FOLDED="true" HGAP="23" ID="ID_621461263" MODIFIED="1566313413153" TEXT="Conceitos Iniciais" VSHIFT="19">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1564964518534" ID="ID_794199241" MODIFIED="1564971060089">
 <richcontent TYPE="NODE"><html>
@@ -136,7 +136,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node COLOR="#006699" CREATED="1564964548788" ID="ID_945268604" MODIFIED="1565231249022" VSHIFT="21">
+<node COLOR="#006699" CREATED="1564964548788" ID="ID_945268604" MODIFIED="1566313336204" VSHIFT="21">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -149,7 +149,7 @@
       
     </p>
     <p>
-      S&#227;o assinaturas eletr&#244;nicas as seguintes formas de<br />identifica&#231;&#227;o <u>inequ&#237;voca</u>* do signat&#225;rio:
+      S&#227;o assinaturas eletr&#244;nicas as seguintes formas de<br /><b><font color="#ff0700">identifica&#231;&#227;o <u>inequ&#237;voca</u>*</font></b>&#160;do signat&#225;rio:
     </p>
     <ul>
       <li>
@@ -163,11 +163,12 @@
       <font color="#a92db2" size="2">*Obs: Garante a autoria e Integridade(identifica&#231;&#227;o de documento alterado) do documento assinado</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1564967737079" ID="ID_1599005030" MODIFIED="1565233741209" VSHIFT="16">
+<node COLOR="#006699" CREATED="1564967737079" FOLDED="true" ID="ID_1599005030" MODIFIED="1566313411369" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -187,7 +188,8 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1564967788086" ID="ID_759648508" MODIFIED="1564969855231">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#006699" CREATED="1564967788086" FOLDED="true" ID="ID_759648508" MODIFIED="1566313410793">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -216,7 +218,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#990000" CREATED="1564967930442" ID="ID_1336213751" MODIFIED="1564969899691">
+<node COLOR="#990000" CREATED="1564967930442" FOLDED="true" ID="ID_1336213751" MODIFIED="1566313410178">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -321,7 +323,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564964745772" ID="ID_1500942632" MODIFIED="1565284215042" POSITION="right">
+<node CREATED="1564964745772" FOLDED="true" ID="ID_1500942632" MODIFIED="1566313774728" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -335,7 +337,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1564970241676" ID="ID_1069957298" MODIFIED="1565803549146">
+<node COLOR="#006699" CREATED="1564970241676" ID="ID_1069957298" MODIFIED="1566313442353">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -375,14 +377,17 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1565231773816" ID="ID_338362927" MODIFIED="1565232476991">
+<node COLOR="#006699" CREATED="1565231773816" ID="ID_338362927" MODIFIED="1566313511580">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif" size="13.3333px"><b>&#167;&#160;1&#186; </b></font><b>Os sites e os conte&#250;dos das publica&#231;&#245;es dever&#227;o ser:</b>
+      <font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif" size="5"><b>&#167;&#160;1&#186;</b></font><b><font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif">&#160; </font></b>
+    </p>
+    <p>
+      <b>Os sites e os conte&#250;dos das publica&#231;&#245;es dever&#227;o ser:</b>
     </p>
     <p>
       
@@ -397,7 +402,8 @@
       &gt; Por um certificado emitido por&#160;&#160;<b><font color="#ff0000">Autoridade Certificadora</font></b>&#160;creden-<br />ciada na forma da lei;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565231891605" ID="ID_1853732904" MODIFIED="1565232476988">
 <richcontent TYPE="NODE"><html>
@@ -423,14 +429,17 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565232100607" ID="ID_1258625316" MODIFIED="1565806365864">
+<node COLOR="#006699" CREATED="1565232100607" ID="ID_1258625316" MODIFIED="1566313503947">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif"><b>&#167;&#160;3&#186; Considera-se como <u>data da publica&#231;&#227;o:</u>&#160; </b></font>
+      <font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif" size="5"><b>&#167;&#160;3&#186; </b></font>
+    </p>
+    <p>
+      <font color="rgb(0, 0, 0)" face="Arial, Helvetica, sans-serif"><b>Considera-se como <u>data da publica&#231;&#227;o:</u>&#160; </b></font>
     </p>
     <p>
       
@@ -439,7 +448,8 @@
       &gt; O<b><font color="#ff0000">&#160;primeiro dia &#250;til seguinte</font></b>&#160;ao da <u>disponibiliza&#231;&#227;o da informa&#231;&#227;o</u><br />no Di&#225;rio de Justi&#231;a Eletr&#244;nico;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 <node COLOR="#006699" CREATED="1565232213319" ID="ID_1240940535" MODIFIED="1565806370231">
@@ -487,7 +497,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565233693507" ID="ID_1908792221" MODIFIED="1565234979631">
+<node COLOR="#006699" CREATED="1565233693507" ID="ID_1908792221" MODIFIED="1566313546314">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -633,7 +643,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565234704403" ID="ID_981283579" MODIFIED="1565234985881">
+<node COLOR="#006699" CREATED="1565234704403" ID="ID_981283579" MODIFIED="1566313717102">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -660,7 +670,8 @@
       &gt; O ato processual dever&#225; ser realizado por <b><font color="#0009ff">outro meio que atinja a sua finalidade</font></b>, conforme determinado pelo juiz.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565234856329" ID="ID_1287519007" MODIFIED="1565234985879">
 <richcontent TYPE="NODE"><html>
@@ -702,8 +713,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565234906480" ID="ID_654921084" MODIFIED="1565804593116">
 <richcontent TYPE="NODE"><html>
@@ -737,14 +747,20 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565235179362" ID="ID_510532619" MODIFIED="1565235353258">
+<node COLOR="#006699" CREATED="1565235179362" ID="ID_510532619" MODIFIED="1566313434468">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Art 7&#186; Ser&#227;o feitas <b><font color="#0500ff">preferentemente</font></b>&#160;por meio eletr&#244;nico:
+      <b><u>Art 7&#186; </u></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Ser&#227;o feitas <b><font color="#0500ff">preferentemente</font></b>&#160;por meio eletr&#244;nico:
     </p>
     <p>
       
@@ -771,10 +787,11 @@
       &gt; E dos dos demais Poderes;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1564964764917" ID="ID_343085080" MODIFIED="1564970208605" POSITION="right">
+<node CREATED="1564964764917" ID="ID_343085080" MODIFIED="1566313776057" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -788,7 +805,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1565804199283" ID="ID_984907784" MODIFIED="1565922512468">
+<node COLOR="#006699" CREATED="1565804199283" ID="ID_984907784" MODIFIED="1566313817788">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -801,7 +818,7 @@
       
     </p>
     <p>
-      &gt; Os &#243;rg&#227;os --&gt; Judici&#225;rio --&gt; <b>poder&#227;o</b><font color="#c51eae">(pode ou n&#227;o pode)</font>&#160;desenvolver sistemas eletr&#244;nicos;
+      &gt; Os &#243;rg&#227;os --&gt; Judici&#225;rio --&gt;<u><font size="5">&#160;<b>poder&#227;o</b></font></u><font color="#c51eae">(pode ou n&#227;o pode)</font>&#160;desenvolver sistemas eletr&#244;nicos;
     </p>
     <p>
       
@@ -831,7 +848,7 @@
 </html>
 </richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565804492138" ID="ID_1666407815" MODIFIED="1565922423493">
+<node COLOR="#006699" CREATED="1565804492138" ID="ID_1666407815" MODIFIED="1566313915116">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -853,8 +870,7 @@
       &gt;&#160;&#160;inclusive da Fazenda P&#250;blica;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#990099" CREATED="1565804997743" ID="ID_348370471" MODIFIED="1565805171567">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -873,7 +889,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#990099" CREATED="1565805053264" ID="ID_1548609606" MODIFIED="1565805234984">
+<node COLOR="#990099" CREATED="1565805053264" ID="ID_1548609606" MODIFIED="1566314102283">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -886,25 +902,26 @@
       
     </p>
     <p>
-      &gt; Quando for invi&#225;vel o uso do meio eletr&#244;nico
+      &gt; Quando --&gt;&#160;&#160;invi&#225;vel --&gt; meio eletr&#244;nico
     </p>
     <p>
       
     </p>
     <p>
-      &gt; Os atos processuais poder&#227;o ser praticados segundo as regras ordin&#225;rias;
+      &gt; Os atos processuais poder&#227;o ser praticados segundo as <b><font color="#0000ff">regras ordin&#225;rias; </font></b>
     </p>
     <p>
       
     </p>
     <p>
-      &gt;&#160;&#160;Digitalizando-se o documento f&#237;sico, que dever&#225; ser posteriormente<br />destru&#237;do.
+      &gt;&#160;&#160;<b><font color="#0005ff">Digitalizando-se o documento f&#237;sico</font></b>, que dever&#225; ser <b><font color="#ff0700">posteriormente destru&#237;do.</font></b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node COLOR="#009999" CREATED="1565805338917" ID="ID_1848552110" MODIFIED="1565923029712">
+<node COLOR="#006699" CREATED="1565805338917" HGAP="21" ID="ID_1848552110" MODIFIED="1566314191446" VSHIFT="15">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -915,7 +932,7 @@
     </p>
     <ul>
       <li>
-        peti&#231;&#227;o inicial e a juntada da contesta&#231;&#227;o, dos recursos e das peti&#231;&#245;es em geral, todos em formato digital, nos autos de processo eletr&#244;nico,
+        peti&#231;&#227;o inicial e a juntada da contesta&#231;&#227;o, dos recursos e das peti&#231;&#245;es em geral;
       </li>
     </ul>
     <p>
@@ -937,19 +954,26 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1565805538389" ID="ID_1327911211" MODIFIED="1565923164555">
+<node COLOR="#990099" CREATED="1565805538389" ID="ID_1327911211" MODIFIED="1566314301953">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#167; 1&#186; O ato processual ser&#225;&#160; <b><font color="#ff0000">tempestivo</font></b>&#160;&#160;os efetivados at&#233;<br />as <b><font color="#ff0000">24 (vinte e quatro) horas do &#250;ltimo dia.</font></b>
+      &#167; 1&#186; Quando h&#225; prazos a serem cumpridos:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; O ato processual ser&#225;&#160; <b><font color="#0005ff">tempestivo</font></b>&#160;&#160;os efetivados at&#233;<br />as <b><font color="#ff0000">24 (vinte e quatro) horas do &#250;ltimo dia.</font></b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node COLOR="#990099" CREATED="1565805615132" ID="ID_1373608143" MODIFIED="1565923164554">
+<node COLOR="#990099" CREATED="1565805615132" ID="ID_1373608143" MODIFIED="1566314241616">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -965,13 +989,13 @@
       
     </p>
     <p>
-      &gt; Ent&#227;o -&gt; Prazo prorrogado -&gt; at&#233; 1&#186; dia &#250;til seguinte &#224; resolu&#231;&#227;o do problema
+      &gt; Ent&#227;o -&gt; <b><font color="#217c1f">Prazo prorrogado</font></b>&#160;-&gt; at&#233; <b><font color="#0007ff">1&#186; dia &#250;til seguinte</font></b>&#160;&#224; resolu&#231;&#227;o do problema
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node COLOR="#990099" CREATED="1565805755725" ID="ID_904857973" MODIFIED="1565923164552">
+<node COLOR="#990099" CREATED="1565805755725" ID="ID_904857973" MODIFIED="1566314364634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -993,26 +1017,27 @@
       
     </p>
     <p>
-      &#224; disposi&#231;&#227;o dos interessados p/ distribui&#231;&#227;o de pe&#231;as processuais.
+      <b><font color="#0300ff">&#224; disposi&#231;&#227;o dos interessados</font></b>&#160;p/ distribui&#231;&#227;o de pe&#231;as processuais.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1565923234920" ID="ID_1896482023" MODIFIED="1565926036239" VSHIFT="19">
+<node COLOR="#006699" CREATED="1565923234920" ID="ID_1896482023" MODIFIED="1566317548382" VSHIFT="19">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Art 10&#186; </b>
+      <b>Art 11&#186; </b>
     </p>
     <p>
       
     </p>
     <p>
-      &gt; Documentos eletr&#244;nicos -&gt;&#160;&#160;com garantia da origem e de seu signat&#225;rio-&gt;
+      &gt; Documentos eletr&#244;nicos -&gt;&#160;&#160;com <u><font color="#0600ff">garantia da origem e de seu signat&#225;rio</font></u>-&gt;
     </p>
     <p>
       
@@ -1023,7 +1048,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1565923290478" ID="ID_398332480" MODIFIED="1565926934266">
+<node COLOR="#990099" CREATED="1565923290478" ID="ID_398332480" MODIFIED="1566314779811">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1034,10 +1059,10 @@
     </p>
     <ul>
       <li>
-        Os extratos digitais e
+        Os <b><font color="#0002ff">extratos digitais</font></b>&#160;e
       </li>
       <li>
-        &#160;os documentos digitalizados e juntados aos autos pelos &#243;rg&#227;os:
+        &#160;os <b><font color="#0c00ff">documentos digitalizados</font></b>&#160;e <b><font color="#25a123">juntados aos autos</font></b>&#160;pelos &#243;rg&#227;os:
 
         <ul>
           <li>
@@ -1062,7 +1087,7 @@
       </li>
     </ul>
     <p>
-      &gt; <b><font color="#ff0000">t&#234;m a mesma for&#231;a probante dos originais; </font></b>
+      &gt; <b><font color="#ff0000"><u>t&#234;m a mesma for&#231;a probante(prova) dos originais; </u></font></b>
     </p>
     <p>
       
@@ -1074,48 +1099,51 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1565923292765" ID="ID_998427603" MODIFIED="1565926963012">
+<node COLOR="#990099" CREATED="1565923292765" ID="ID_998427603" MODIFIED="1566314946825">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#167; 2&#186; A arg&#252;i&#231;&#227;o de falsidade do documento&#160;original:
+      &#167; 2&#186; A <b><font color="#ff0000">arg&#252;i&#231;&#227;o de falsidade</font></b>&#160;do documento&#160;original:
     </p>
     <p>
       
     </p>
     <p>
-      &gt; ser&#225; processada eletronicamente;
+      &gt; <b><font color="#000dff">ser&#225; processada eletronicamente;</font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565923315071" ID="ID_655217694" MODIFIED="1565927128637">
+<node COLOR="#990099" CREATED="1565923315071" ID="ID_655217694" MODIFIED="1566315021799">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#167; 3&#186; Os originais dos documentos digitalizados, mencionados no &#167; 2&#186; deste<br />artigo, dever&#227;o ser preservados pelo seu detentor at&#233;
+      &#167; 3&#186; Documentos originais ---&gt; <b><font color="#0016ff">preservados</font></b>&#160; --&gt;&#160;&#160;at&#233;:
     </p>
     <p>
       
     </p>
     <p>
-      &gt;&#160;&#160;o tr&#226;nsito em julgado da senten&#231;a; ou
+      &gt;&#160;&#160;o<b><font color="#ff1800">&#160;tr&#226;nsito em julgado da senten&#231;a</font></b>; ou
     </p>
     <p>
-      &gt; quando admitida, at&#233; o final do prazo para interposi&#231;&#227;o de a&#231;&#227;o<br />&#160;rescis&#243;ria.
+      
+    </p>
+    <p>
+      &gt; quando admitida, at&#233; o <b><font color="#ff0000">final do prazo para</font></b>&#160; interposi&#231;&#227;o de <b><font color="#ff0000">a&#231;&#227;o<br color="#ff0000" />&#160;rescis&#243;ria;</font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565923941407" ID="ID_717146819" MODIFIED="1565923956368">
+<node COLOR="#990099" CREATED="1565923941407" ID="ID_717146819" MODIFIED="1566314946823">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1125,47 +1153,486 @@
       &#167; 4&#186; (VETADO)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1565923957560" ID="ID_870914209" MODIFIED="1565923970096">
+<node COLOR="#990099" CREATED="1565923957560" ID="ID_870914209" MODIFIED="1566315641060">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#167; 5&#186; Os documentos cuja digitaliza&#231;&#227;o seja tecnicamente invi&#225;vel devido ao grande volume ou por motivo de ilegibilidade dever&#227;o ser apresentados ao cart&#243;rio ou secretaria no prazo de 10 (dez) dias contados do envio de peti&#231;&#227;o eletr&#244;nica comunicando o fato, os quais ser&#227;o devolvidos &#224; parte ap&#243;s o tr&#226;nsito em julgado.
+      <br />
+      &#167; 5&#186; Caso --&gt; documentos --&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;digitaliza&#231;&#227;o --&gt; invi&#225;vel
+    </p>
+    <p>
+      <br />
+    </p>
+  </body>
+</html>
+</richcontent>
+<node BACKGROUND_COLOR="#4ac94c" CREATED="1566315610427" ID="ID_1242558933" MODIFIED="1566315868562">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <br />
+      <font color="#fefefe"><b>&gt; Apresentar documentos ao<br color="#fefefe" />&#160;cart&#243;rio ou secretaria</b></font><br /><br />
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565923977982" ID="ID_574363618" MODIFIED="1565924391344">
+<node BACKGROUND_COLOR="#4ac94c" CREATED="1566315659220" ID="ID_1290014801" MODIFIED="1566315859402">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <br />
+      <font color="#fefefe"><b>&gt; Prazo --&gt; 10 dias contados do<br color="#fefefe" />&#160;envio de peti&#231;&#227;o eletr&#244;nica<br color="#fefefe" />comunicando o fato</b></font><br /><br />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#ff1200" CREATED="1566315669692" ID="ID_648608889" MODIFIED="1566315744955">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <font color="#fefefe"><br color="#fefefe" />
+      <b>&gt; Documento devolvidos<br color="#fefefe" />ap&#243;s o tr&#226;nsito julgado</b><br color="#fefefe" /><br color="#fefefe" /></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#0033ff" CREATED="1566315370484" ID="ID_1944691919" MODIFIED="1566315537785" TEXT="Motivos de inviabilidade">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#009cff" COLOR="#006699" CREATED="1566315386067" ID="ID_1345254046" MODIFIED="1566315520506">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <font color="#fefefe" size="4"><b>Devido ao grande<br color="#fefefe" size="4" />volume do document</b></font><b><font color="#fefefe">o</font></b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node BACKGROUND_COLOR="#009cff" COLOR="#006699" CREATED="1566315402000" ID="ID_1298776443" MODIFIED="1566315532642">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font size="4" color="#fefefe">Motivo de<br size="4" color="#fefefe" />ilegibilidade</font></b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node COLOR="#990099" CREATED="1565923977982" ID="ID_574363618" MODIFIED="1566316367035">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#167; 6&#186; Os documentos digitalizados juntados em processo eletr&#244;nico estar&#227;o dispon&#237;veis para acesso por meio da rede externa pelas respectivas partes processuais, pelos advogados, independentemente de procura&#231;&#227;o nos autos, pelos membros do Minist&#233;rio P&#250;blico e pelos magistrados, sem preju&#237;zo da possibilidade de visualiza&#231;&#227;o nas secretarias dos &#243;rg&#227;os julgadores, &#224; exce&#231;&#227;o daqueles que tramitarem em segredo de justi&#231;a
+      
+    </p>
+    <p style="text-align: center">
+      &#167; 6&#186; Os documentos digitalizados<br />estar&#227;o dispon&#237;veis
+    </p>
+    <p style="text-align: center">
+      
+    </p>
+    <p style="text-align: center">
+      &gt; Por meio de rede externa
+    </p>
+    <p style="text-align: center">
+      
+    </p>
+    <p style="text-align: center">
+      &gt; Sem preju&#237;zo de possibilidade de<br />visualiza&#231;&#227;o na secretaria dos<br />&#243;rg&#227;os julgadores
+    </p>
+    <p style="text-align: center">
+      
+    </p>
+    <p style="text-align: center">
+      &gt; <b><font color="#ff0500">Exceto aqueles que tramitarem em<br color="#ff0500" />segredo de justi&#231;a</font></b>
+    </p>
+    <p style="text-align: center">
+      
     </p>
   </body>
 </html>
 </richcontent>
-</node>
-<node CREATED="1565924394837" ID="ID_532514050" MODIFIED="1565924406644">
+<node COLOR="#006633" CREATED="1566316046836" ID="ID_382234343" MODIFIED="1566316354628">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#167; 7&#186; Os sistemas de informa&#231;&#245;es pertinentes a processos eletr&#244;nicos devem possibilitar que advogados, procuradores e membros do Minist&#233;rio P&#250;blico cadastrados, mas n&#227;o vinculados a processo previamente identificado, acessem automaticamente todos os atos e documentos processuais armazenados em meio eletr&#244;nico, desde que demonstrado interesse para fins apenas de registro, salvo nos casos de processos em segredo de justi&#231;a.
+      Pelas partes processuais
     </p>
   </body>
 </html>
 </richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006633" CREATED="1566316077603" ID="ID_1926440662" MODIFIED="1566316354628">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pelos Advogados
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#0033ff" CREATED="1566316096104" ID="ID_646664304" MODIFIED="1566316349032">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Independentemente de<br />&#160;procura&#231;&#227;o nos autos
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#006633" CREATED="1566316131962" ID="ID_1614905352" MODIFIED="1566316354628">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pelos Membros do Minist&#233;rio P&#250;blico
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#006633" CREATED="1566316145041" ID="ID_1358429797" MODIFIED="1566316354627">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pelos Magistrados
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990099" CREATED="1565924394837" ID="ID_532514050" MODIFIED="1566316884535">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p style="text-align: center">
+      &#167; 7&#186; Os Sistemas de informa&#231;&#245;es<br />de processos eletr&#244;nicos<br /><br /><br />
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#51c553" COLOR="#669900" CREATED="1566316526254" ID="ID_685511558" MODIFIED="1566316764211">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <font color="#fefefe">Deve<br color="#fefefe" />possibilitar</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#669900" CREATED="1566316480519" ID="ID_470375227" MODIFIED="1566316716340">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Aos advogados;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Procuradores;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Membros do minist&#233;rio p&#250;blico
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#464ac8" CREATED="1566316538070" ID="ID_1988169734" MODIFIED="1566316791076">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <font color="#fefefe">acesso </font>
+    </p>
+    <p style="text-align: center">
+      <font color="#fefefe">autom&#225;tico</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#0033ff" CREATED="1566316564866" ID="ID_1863797861" MODIFIED="1566316869707">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; todos os atos e documentos processuais
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; armazendos em meio eletr&#244;nico
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#0033ff" CREATED="1566316595806" ID="ID_50591301" MODIFIED="1566316875860">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Desde que --&gt; demonstre interesse p/ fins de registro
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Exceto no caso de segredo de justi&#231;a
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#dd2516" CREATED="1566316642943" ID="ID_12367358" MODIFIED="1566316861731">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#fefefe" size="4">Exceto no caso de<br size="4" color="#fefefe" />&#160;segredo de justi&#231;a</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#006699" CREATED="1566316937306" ID="ID_1759534981" MODIFIED="1566317290796">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Art 12&#186;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Conserva&#231;&#227;o dos autos do processo
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#1dbb25" CREATED="1566317021755" ID="ID_1515824551" MODIFIED="1566317327146">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#fefefe">poder&#225; ser<br color="#fefefe" />&#160;efetuada</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#338800" CREATED="1566317032861" ID="ID_1472197580" MODIFIED="1566317344960">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; total; ou
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#338800" CREATED="1566317040250" ID="ID_1228590485" MODIFIED="1566317349598">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; parcialmente;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#0033ff" CREATED="1566317044646" ID="ID_1983831" MODIFIED="1566317353940" TEXT="por meio eletr&#xf4;nico">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#8e8cf5" CREATED="1566317083396" FOLDED="true" ID="ID_493988294" MODIFIED="1566317521043">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <font color="#fefefe">Os autos do<br color="#fefefe" />&#160;processo</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1566317123651" ID="ID_486402919" MODIFIED="1566317427918">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#167; 1&#186; devem
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1566317127311" ID="ID_1818718963" MODIFIED="1566317434817">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ser protegidos por sistemas
+    </p>
+    <p>
+      de seguran&#231;a de acesso
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1566317161065" FOLDED="true" ID="ID_1415289624" MODIFIED="1566317444068">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      ser armazenados em meios
+    </p>
+    <p style="text-align: center">
+      que garantam:
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1566317204920" ID="ID_1640620806" MODIFIED="1566317238333">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Preserva&#231;&#227;o
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Integridade
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1566317239064" ID="ID_1552842745" MODIFIED="1566317249185" TEXT="dos Dados"/>
+</node>
+<node CREATED="1566317258497" ID="ID_1681437160" MODIFIED="1566317278098">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Dispensado&#160;a forma&#231;&#227;o de autos suplementares
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 </node>
 </node>

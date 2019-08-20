@@ -44,6 +44,36 @@
   </body>
 </html></richcontent>
 </node>
+<node COLOR="#006699" CREATED="1566248565352" ID="ID_1963405326" MODIFIED="1566248699612">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; N&#227;o h&#225; garantia de entrega de pacotes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; nem de crit&#233;rios relacionados &#224; n&#227;o duplica&#231;&#227;o, adultera&#231;&#227;o<br />dos dados ou sequenciamento dos datagramas;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Por essa raz&#227;o o IP n&#227;o apresenta um desempenho determin&#237;stico;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      (Prof. Andr&#233; Castro - TEC Concursos)
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1565127331714" ID="ID_445331668" LINK="Cabecalho%20IPv4.mm" MODIFIED="1565787526052" POSITION="right" TEXT="Cabe&#xe7;alho IPv4">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -141,8 +171,7 @@
       &gt; Classe E - 1111( Uso no futuro)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565278432548" ID="ID_966624467" MODIFIED="1565278629476">
 <richcontent TYPE="NODE"><html>
@@ -215,41 +244,18 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565278994306" ID="ID_1842723044" MODIFIED="1565279518196">
+<node COLOR="#006699" CREATED="1565278994306" ID="ID_1842723044" MODIFIED="1566253874630">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &gt; No exemplo, tem-se uma rede padr&#227;o de classe C<br />(M&#225;scara sub-rede: 255.255.255.0)
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; Nesse caso, permite ter 256 endere&#231;os no total
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; Pegou-se tr&#234;s bits de host, para usar como subredes
-    </p>
-    <p>
-      (Foram marcados com &quot;x&quot;);
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; Com isso pode-se criar 8 subredes com 32 endere&#231;os cada;
-    </p>
-    <p>
-      
+      z
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -264,8 +270,7 @@
       <b>VLSM e CIDR</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1565788923964" ID="ID_96589590" MODIFIED="1565789057533">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -288,8 +293,7 @@
       &gt; Isso reduz o n&#250;mero de endere&#231;os IP n&#227;o usados.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565789068351" ID="ID_746209772" MODIFIED="1565789317125">
 <richcontent TYPE="NODE"><html>
@@ -322,8 +326,7 @@
       <b><u><font color="#ff0000">Endere&#231;o IP + M&#225;scara de Rede Superior + Interface de Sa&#237;da.</font></u></b><br />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565789058222" ID="ID_247760220" MODIFIED="1565789058222" TEXT=""/>
 </node>
@@ -358,8 +361,7 @@
       &gt; Para&#160;&#160;reconstru&#231;&#227;o do pacote foram criados campos que atuem<br />nesse sentido;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565790021483" ID="ID_783118186" MODIFIED="1565790039567">
 <richcontent TYPE="NODE"><html>
@@ -371,8 +373,7 @@
       Campos que est&#227;o relacionados &#224; fragmenta&#231;&#227;o.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565790042604" ID="ID_553518221" MODIFIED="1565790055610">
 <richcontent TYPE="NODE"><html>
@@ -384,8 +385,7 @@
       Total Length
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565790056155" ID="ID_237306266" MODIFIED="1565790065566">
 <richcontent TYPE="NODE"><html>
@@ -397,8 +397,7 @@
       Identification
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565790066015" ID="ID_926884336" MODIFIED="1565790068005" TEXT="Flags"/>
 <node CREATED="1565790068666" ID="ID_775336544" MODIFIED="1565790076466" TEXT="Fragment Offset"/>
