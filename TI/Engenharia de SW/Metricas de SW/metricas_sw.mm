@@ -29,7 +29,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565808197822" ID="ID_211775145" MODIFIED="1566142504990" POSITION="right">
+<node COLOR="#006699" CREATED="1565808197822" ID="ID_211775145" MODIFIED="1566382330391" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -57,11 +57,12 @@
       <b><font color="#ff0000">&gt; A m&#233;trica de SW n&#227;o se restringe&#160;&#160;ao SW; Tamb&#233;m</font></b><br /><b><font color="#ff0000">&#160;mede<u>&#160; processo ou documenta&#231;&#227;o</u></font></b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1565808365297" ID="ID_659769479" MODIFIED="1566160798738" POSITION="right" TEXT="Classifica&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1565808378287" FOLDED="true" ID="ID_85662726" MODIFIED="1566160825944">
+<node COLOR="#0033ff" CREATED="1565808378287" FOLDED="true" ID="ID_85662726" MODIFIED="1566382328141">
 <richcontent TYPE="NODE"><html>
   <head>
     
