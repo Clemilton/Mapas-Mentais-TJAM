@@ -1,20 +1,19 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#5d5d5d" CREATED="1564858435173" ID="ID_74375404" MODIFIED="1566525243112" STYLE="bubble">
+<node CREATED="1564858435173" ID="ID_74375404" MODIFIED="1566519673534" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#fefefe" face="Roboto" size="5"><b>Regime Disciplinar </b></font>
+      Regime Disciplinar
     </p>
     <p style="text-align: center">
-      <font color="#fefefe" face="Roboto" size="5"><b>Art 144 &#224; 172</b></font>
+      Art 144 &#224; 172
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ffff00" COLOR="#343434" CREATED="1564858556232" ID="ID_1777962483" MODIFIED="1566519839791" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -47,7 +46,7 @@
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 </node>
-<node COLOR="#4646ff" CREATED="1564858702096" FOLDED="true" ID="ID_625457295" MODIFIED="1566525530065" POSITION="right" TEXT="1. Acumula&#xe7;&#xe3;o dos Cargos">
+<node COLOR="#4646ff" CREATED="1564858702096" ID="ID_625457295" MODIFIED="1566524697410" POSITION="right" TEXT="1. Acumula&#xe7;&#xe3;o dos Cargos">
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564858714360" ID="ID_1101730088" MODIFIED="1566519846218" STYLE="bubble">
@@ -106,10 +105,8 @@
 <node COLOR="#0033ff" CREATED="1564858950015" HGAP="19" ID="ID_1284628520" MODIFIED="1566519768327" STYLE="bubble" TEXT="exceto, quando houver compatibilidade de hor&#xe1;rios:" VSHIFT="16">
 <edge STYLE="sharp_linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
-<node COLOR="#006633" CREATED="1564858974562" ID="ID_592731081" MODIFIED="1566525124828" TEXT="Dois cargos/empregos de professor">
-<font NAME="SansSerif" SIZE="10"/>
-</node>
-<node COLOR="#006633" CREATED="1564859011697" ID="ID_82768053" MODIFIED="1566525124826">
+<node COLOR="#006633" CREATED="1564858974562" ID="ID_592731081" MODIFIED="1564859551977" TEXT="Dois cargos/empregos de professor"/>
+<node COLOR="#006633" CREATED="1564859011697" ID="ID_82768053" MODIFIED="1564859551976">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -120,9 +117,8 @@
     </p>
   </body>
 </html></richcontent>
-<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#006633" CREATED="1564859044682" ID="ID_972011438" MODIFIED="1566525124824">
+<node COLOR="#006633" CREATED="1564859044682" ID="ID_972011438" MODIFIED="1564859551974">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -133,7 +129,6 @@
     </p>
   </body>
 </html></richcontent>
-<font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
@@ -159,16 +154,16 @@
 <node COLOR="#0033ff" CREATED="1564859390867" ID="ID_1561187995" MODIFIED="1566519768328" STYLE="bubble" TEXT="ressalvadas a hip&#xf3;teses:">
 <edge STYLE="sharp_linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
-<node COLOR="#006633" CREATED="1564859425333" ID="ID_45395496" MODIFIED="1566525129898" TEXT="acumula&#xe7;&#xe3;o permitida na atividade">
-<font NAME="SansSerif" SIZE="10"/>
+<node COLOR="#006633" CREATED="1564859425333" ID="ID_45395496" MODIFIED="1566519768327" TEXT="acumula&#xe7;&#xe3;o permitida na atividade">
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006633" CREATED="1564859438371" ID="ID_1818676815" MODIFIED="1566525129898" TEXT="exerc&#xed;cio de mandado eletivo">
-<font NAME="SansSerif" SIZE="10"/>
+<node COLOR="#006633" CREATED="1564859438371" ID="ID_1818676815" MODIFIED="1566519768327" TEXT="exerc&#xed;cio de mandado eletivo">
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006633" CREATED="1564859446297" ID="ID_873922830" MODIFIED="1566525129898" TEXT="cargo em comiss&#xe3;o">
-<font NAME="SansSerif" SIZE="10"/>
+<node COLOR="#006633" CREATED="1564859446297" ID="ID_873922830" MODIFIED="1566519768327" TEXT="cargo em comiss&#xe3;o">
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#006633" CREATED="1564859451677" ID="ID_884121861" MODIFIED="1566525129896">
+<node COLOR="#006633" CREATED="1564859451677" ID="ID_884121861" MODIFIED="1566519768327">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -179,12 +174,12 @@
     </p>
   </body>
 </html></richcontent>
-<font NAME="SansSerif" SIZE="10"/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#9b01c1" CREATED="1565029912957" FOLDED="true" ID="ID_870555816" MODIFIED="1566525549800" POSITION="right" TEXT="2. Deveres dos Servidores">
+<node COLOR="#9b01c1" CREATED="1565029912957" ID="ID_870555816" MODIFIED="1566524698878" POSITION="right" TEXT="2. Deveres dos Servidores">
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565029924779" ID="ID_1556300775" MODIFIED="1566520475906" STYLE="bubble">
@@ -416,7 +411,7 @@
 <edge COLOR="#b000ff" STYLE="sharp_linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1565030295994" ID="ID_1434255304" MODIFIED="1566525551078" POSITION="right" TEXT="3. Proibi&#xe7;&#xf5;es aos servidores">
+<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1565030295994" ID="ID_1434255304" MODIFIED="1566524668455" POSITION="right" TEXT="3. Proibi&#xe7;&#xf5;es aos servidores">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="1"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1565030401966" ID="ID_1166776551" MODIFIED="1566521796349">
@@ -778,18 +773,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#feab2a" CREATED="1565031460203" FOLDED="true" ID="ID_917513384" MODIFIED="1566525261938" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: center">
-      4. Responsabilidades<br />dos servidores
-    </p>
-  </body>
-</html>
-</richcontent>
+<node COLOR="#feab2a" CREATED="1565031460203" ID="ID_917513384" MODIFIED="1566524675028" POSITION="left" TEXT="4. Responsabilidades dos servidores">
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1565031471988" ID="ID_1564909206" MODIFIED="1566524573918" STYLE="bubble">
@@ -927,7 +911,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0e9302" CREATED="1565033837012" FOLDED="true" ID="ID_287055030" MODIFIED="1566525106592" POSITION="left" TEXT="5. Penas Disciplinares">
+<node COLOR="#0e9302" CREATED="1565033837012" ID="ID_287055030" MODIFIED="1566524670902" POSITION="left" TEXT="5. Penas Disciplinares">
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1565204277279" ID="ID_95495728" MODIFIED="1566524661917" STYLE="bubble">
@@ -1256,7 +1240,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#fefefe" COLOR="#2d6060" CREATED="1565033816052" FOLDED="true" ID="ID_1087728369" MODIFIED="1566525109072" POSITION="left" TEXT="6. Prescri&#xe7;&#xe3;o da Punibilidade">
+<node BACKGROUND_COLOR="#fefefe" COLOR="#2d6060" CREATED="1565033816052" ID="ID_1087728369" MODIFIED="1566524630291" POSITION="left" TEXT="6. Prescri&#xe7;&#xe3;o da Punibilidade">
 <edge COLOR="#969696" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1565207017711" ID="ID_1598227361" MODIFIED="1566524627944" STYLE="bubble">

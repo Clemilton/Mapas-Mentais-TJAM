@@ -18,8 +18,7 @@
       &gt; Objetivo --&gt; pr&#237;ncipios de <b><font color="#ff0000">integridade e autenticidade</font></b>, na troca<br />de mensagens entre dois usu&#225;rios;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565969306571" ID="ID_275440379" MODIFIED="1565969402676">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -168,8 +167,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565971592625" ID="ID_961241316" MODIFIED="1566231202764">
 <richcontent TYPE="NODE"><html>
@@ -195,8 +193,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1566245703219" ID="ID_616317439" MODIFIED="1566245814559">
 <richcontent TYPE="NODE"><html>
@@ -220,8 +217,7 @@
       &gt; A quest&#227;o de autentica&#231;&#227;o entre autoridades cria uma s&#233;rie de<br />cadeias de confian&#231;a, onde uma autoridade mais importante pode<br />confiar em outras autoridades de menor porte, que por sua vez<br />confiam em outras, e assim sucessivamente.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1565971745194" ID="ID_1623863777" MODIFIED="1565971803311">
 <richcontent TYPE="NODE"><html>
@@ -257,8 +253,7 @@
       <b>ICP - Infraestrutura de Chaves P&#250;blicas - PKI </b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1566237869522" ID="ID_1256531758" MODIFIED="1566238572739">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -275,8 +270,7 @@
       &gt; Tem 4 componentes listados a seguir:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1566237954184" ID="ID_1927779311" MODIFIED="1566238577297">
 <richcontent TYPE="NODE"><html>
@@ -288,8 +282,7 @@
       Autoridade Certificadora
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1566238008180" ID="ID_816488710" MODIFIED="1566238593150">
 <richcontent TYPE="NODE"><html>
@@ -301,8 +294,7 @@
       &gt; Emite Certificados Digitais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1566238118661" ID="ID_664600518" MODIFIED="1566238593149">
 <richcontent TYPE="NODE"><html>
@@ -362,8 +354,7 @@
       &gt; Respons&#225;vel&#160;pela manuten&#231;&#227;o<br />&#160;e gerenciamento da<br />&#160;Lista de Certificados Revogados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1566238306913" ID="ID_467012102" MODIFIED="1566238593147">
 <richcontent TYPE="NODE"><html>
@@ -375,11 +366,10 @@
       &gt; Responde &#224;s requisi&#231;&#245;es de<br />consultas de verifica&#231;&#227;o de<br />certificados geradas pelo<br />cliente
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1566237974465" ID="ID_997645037" MODIFIED="1566238643376">
+<node COLOR="#006699" CREATED="1566237974465" HGAP="25" ID="ID_997645037" MODIFIED="1566423837401" VSHIFT="23">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -389,8 +379,7 @@
       Autoridade Registradora
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1566238430837" ID="ID_880972830" MODIFIED="1566238748315">
 <richcontent TYPE="NODE"><html>
@@ -414,8 +403,7 @@
       <font color="#ff0000"><b>&gt; A.R n&#227;o possui permiss&#227;o e capacidade de<br color="#ff0000" />EMITIR CERTIFICADOS</b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1566238754088" ID="ID_1908365796" MODIFIED="1566238847666">
 <richcontent TYPE="NODE"><html>
@@ -438,8 +426,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1566238807001" ID="ID_1914541573" MODIFIED="1566238844135">
 <richcontent TYPE="NODE"><html>
@@ -451,8 +438,7 @@
       N&#227;o &#233; uma entidade obrigat&#243;ria no PKI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -471,8 +457,7 @@
       certificado digital
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566238888886" ID="ID_122710692" MODIFIED="1566238955007">
 <richcontent TYPE="NODE"><html>
@@ -482,8 +467,7 @@
   <body>
     <img src="certificado_ex.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -500,8 +484,7 @@
       Revogados - CRL
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#990099" CREATED="1566241059794" ID="ID_1445103869" MODIFIED="1566245252773">
 <richcontent TYPE="NODE"><html>
@@ -530,8 +513,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -546,10 +528,9 @@
       ICP - Brasil (AC Raiz)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1566242163977" ID="ID_697458212" MODIFIED="1566243259462">
+<node COLOR="#006699" CREATED="1566242163977" ID="ID_697458212" MODIFIED="1566422718352">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -562,13 +543,19 @@
       
     </p>
     <p>
-      &gt; compete &#224; AC-Raiz emitir, expedir, distribuir, revogar e<br />gerenciar os certificados das autoridades certificadoras<br />de n&#237;vel imediatamente subsequente ao seu
+      &gt; Respons&#225;vel por <i>emitir,distribuir,revogar e gerenciar</i><br />certificados digitais;
     </p>
     <p>
       
     </p>
     <p>
-      &gt; A AC-Raiz tamb&#233;m est&#225; encarregada de emitir a lista de<br />certificados revogados (LCR)
+      &gt; Verifica se o titular do certificado possui chave privada que<br />corresponde &#224; chave p&#250;blica que faz parte do certificado.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Emite lista de certificados revogados;
     </p>
   </body>
 </html>
@@ -585,8 +572,7 @@
       Tipos de Certificados Digitais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566243482148" ID="ID_1398134812" MODIFIED="1566243522798">
 <richcontent TYPE="NODE"><html>
@@ -601,8 +587,7 @@
       (A1,A2,A3,A4)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1566243524705" ID="ID_724065553" MODIFIED="1566243623624">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -613,8 +598,7 @@
       &gt; Certificados usados p/ confirma&#231;&#227;o de identidade web,<br />correio eletr&#244;nico, transa&#231;&#245;es online, redes privadas virtuais,<br />transa&#231;&#245;es eletr&#244;nicas;<br />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1566243625778" ID="ID_1387914907" MODIFIED="1566243644617">
@@ -630,8 +614,7 @@
       (S1,S2,S3,S4)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1566243645603" ID="ID_1663187017" MODIFIED="1566243675338">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -645,9 +628,52 @@
       mensagens e outras informa&#231;&#245;es eletr&#244;nicas;
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1566422125621" ID="ID_1146710044" MODIFIED="1566422131635" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Protocolo TLS</b>
+    </p>
+  </body>
 </html>
 </richcontent>
-</node>
+<node CREATED="1566422132513" ID="ID_1815030980" MODIFIED="1566422234433">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Foi concebido como sucessor do SSL
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; RSA e AES podem ser usandos em conjunto com TLS
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Suporta modo bilateral de conex&#227;o:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Ambos os lados s&#227;o autenticados t&#234;m certeza com quem<br />est&#227;o falando;
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>

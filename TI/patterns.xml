@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patterns>
+    <pattern name="Full Gray">
+        <pattern_node_background_color value="#606060"/>
+        <pattern_node_color value="#fefefe"/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Gray"/>
+    </pattern>
+    <pattern name="Normal">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#000000"/>
+        <pattern_node_style/>
+    </pattern>
+    <pattern name="Full Green">
+        <pattern_node_background_color value="#0ea001"/>
+        <pattern_node_color value="#fefefe"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Green"/>
+    </pattern>
+    <pattern name="Full Yellow">
+        <pattern_node_background_color value="#ffff00"/>
+        <pattern_node_color value="#343434"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Yellow"/>
+    </pattern>
+    <pattern name="Full Red">
+        <pattern_node_background_color value="#ff4e4e"/>
+        <pattern_node_color value="#fefefe"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Red"/>
+    </pattern>
+    <pattern name="Full Purple">
+        <pattern_node_background_color value="#9b01c1"/>
+        <pattern_node_color value="#fefefe"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Purple"/>
+    </pattern>
+    <pattern name="Full Blue">
+        <pattern_node_background_color value="#8181fd"/>
+        <pattern_node_color value="#fefefe"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Blue"/>
+    </pattern>
+    <pattern name="Full Orange">
+        <pattern_node_background_color value="#feab2a"/>
+        <pattern_node_color value="#fefefe"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Orange"/>
+    </pattern>
+    <pattern name="Full Aqua">
+        <pattern_node_background_color value="#00ffff"/>
+        <pattern_node_color value="#010101"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="16"/>
+        <pattern_edge_color value="#969696"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Aqua"/>
+    </pattern>
+    <pattern name="Gray">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#606060"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Gray Child 1"/>
+    </pattern>
+    <pattern name="Detail">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#999999"/>
+        <pattern_node_style/>
+        <pattern_node_font_name/>
+        <pattern_node_font_bold/>
+        <pattern_node_font_italic/>
+        <pattern_node_font_size value="10"/>
+    </pattern>
+    <pattern name="Green">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#0e9302"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Green Child 1"/>
+    </pattern>
+    <pattern name="Yellow">
+        <pattern_node_background_color value="#ffffff"/>
+        <pattern_node_color value="#303030"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Yellow Child 1"/>
+    </pattern>
+    <pattern name="Red">
+        <pattern_node_background_color value="#ffffff"/>
+        <pattern_node_color value="#f31515"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Red Child 1"/>
+    </pattern>
+    <pattern name="Purple">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#9b01c1"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Purple Child 1"/>
+    </pattern>
+    <pattern name="Blue">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#4646ff"/>
+        <pattern_node_style/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Blue Child 1"/>
+    </pattern>
+    <pattern name="Orange">
+        <pattern_node_background_color/>
+        <pattern_node_color value="#feab2a"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Orange Child 1"/>
+    </pattern>
+    <pattern name="Aqua">
+        <pattern_node_background_color value="#fefefe"/>
+        <pattern_node_color value="#2d6060"/>
+        <pattern_node_style/>
+        <pattern_node_font_name value="Roboto"/>
+        <pattern_node_font_bold value="true"/>
+        <pattern_node_font_size value="14"/>
+        <pattern_edge_width value="thin"/>
+        <pattern_child value="Aqua Child 1"/>
+    </pattern>
+    <pattern name="Gray Child 1">
+        <pattern_node_background_color value="#dcdcdc"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#606060"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Gray Child 2"/>
+    </pattern>
+    <pattern name="Green Child 1">
+        <pattern_node_background_color value="#ddfedd"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#0e9302"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Green Child 2"/>
+    </pattern>
+    <pattern name="Yellow Child 1">
+        <pattern_node_background_color value="#fefeb9"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#ffff00"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Yellow Child 2"/>
+    </pattern>
+    <pattern name="Red Child 1">
+        <pattern_node_background_color value="#fdc2c2"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#fe4f4f"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Red Child 2"/>
+    </pattern>
+    <pattern name="Purple Child 1">
+        <pattern_node_background_color value="#f5d1fe"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#b000ff"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Purple Child 2"/>
+    </pattern>
+    <pattern name="Blue Child 1">
+        <pattern_node_background_color value="#cacafd"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_style value="bubble"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#4a4aff"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Blue Child 2"/>
+    </pattern>
+    <pattern name="Orange Child 1">
+        <pattern_node_background_color value="#fdc978"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#ffb300"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Orange Child 2"/>
+    </pattern>
+    <pattern name="Aqua Child 1">
+        <pattern_node_background_color value="#d9ffff"/>
+        <pattern_node_color value="#535353"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="12"/>
+        <pattern_edge_color value="#00ffff"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="2"/>
+        <pattern_child value="Aqua Child 2"/>
+    </pattern>
+    <pattern name="Gray Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+    <pattern name="Green Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+    <pattern name="Yellow Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+    <pattern name="Red Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+    <pattern name="Purple Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+    <pattern name="Blue Child 2">
+        <pattern_node_style value="bubble"/>
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="thin"/>
+    </pattern>
+    <pattern name="Orange Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+    <pattern name="Aqua Child 2">
+        <pattern_node_font_name value="SansSerif"/>
+        <pattern_node_font_size value="10"/>
+        <pattern_edge_style value="linear"/>
+        <pattern_edge_width value="1"/>
+    </pattern>
+</patterns>
