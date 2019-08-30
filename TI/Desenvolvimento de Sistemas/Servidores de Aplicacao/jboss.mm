@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node BACKGROUND_COLOR="#0f00ff" CREATED="1566334243707" ID="ID_569365446" MODIFIED="1566334724460" POSITION="right">
+<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566334243707" ID="ID_569365446" MODIFIED="1566678388000" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -28,8 +28,9 @@
     </p>
   </body>
 </html></richcontent>
-<edge COLOR="#7377ff"/>
-<node COLOR="#006699" CREATED="1566334304852" ID="ID_968635661" MODIFIED="1566334732539">
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node COLOR="#4646ff" CREATED="1566334304852" ID="ID_968635661" MODIFIED="1566678388138">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -46,8 +47,10 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566334338423" ID="ID_1163133926" MODIFIED="1566334736090">
+<node COLOR="#4646ff" CREATED="1566334338423" ID="ID_1163133926" MODIFIED="1566678388147">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -58,8 +61,9 @@
     </p>
   </body>
 </html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1566334390082" ID="ID_617485672" MODIFIED="1566334741353">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1566334390082" ID="ID_617485672" MODIFIED="1566678388153" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -70,8 +74,10 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
-<node COLOR="#999999" CREATED="1566334408985" ID="ID_173826564" MODIFIED="1566334746768">
+<node COLOR="#999999" CREATED="1566334408985" ID="ID_173826564" MODIFIED="1566678388154" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -82,9 +88,10 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#999999" CREATED="1566334414523" ID="ID_1675741702" MODIFIED="1566334746764">
+<node COLOR="#999999" CREATED="1566334414523" ID="ID_1675741702" MODIFIED="1566678388155" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -95,9 +102,10 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#999999" CREATED="1566334449009" ID="ID_1709584407" MODIFIED="1566334746762">
+<node COLOR="#999999" CREATED="1566334449009" ID="ID_1709584407" MODIFIED="1566678388155" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -108,10 +116,11 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1566334401815" ID="ID_1736208838" MODIFIED="1566334741352">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1566334401815" ID="ID_1736208838" MODIFIED="1566678388161" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -122,7 +131,9 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#999999" CREATED="1566334469203" ID="ID_1449939136" MODIFIED="1566334746759">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#999999" CREATED="1566334469203" ID="ID_1449939136" MODIFIED="1566678388162" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -133,9 +144,10 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#999999" CREATED="1566334508681" ID="ID_1492787459" MODIFIED="1566334746755">
+<node COLOR="#999999" CREATED="1566334508681" ID="ID_1492787459" MODIFIED="1566678388163" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -146,15 +158,17 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#999999" CREATED="1566334530114" ID="ID_191985832" MODIFIED="1566334746753" TEXT="possui suporte Inicial">
+<node COLOR="#999999" CREATED="1566334530114" ID="ID_191985832" MODIFIED="1566678388163" STYLE="bubble" TEXT="possui suporte Inicial">
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#d02e20" CREATED="1566334798674" ID="ID_1913059455" MODIFIED="1566334859317" POSITION="right">
+<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1566334798674" ID="ID_1913059455" MODIFIED="1566678395761" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -165,10 +179,12 @@
     </p>
   </body>
 </html></richcontent>
-<edge COLOR="#fd5858"/>
-<node COLOR="#338800" CREATED="1566334842407" ID="ID_1881756906" MODIFIED="1566334942025" TEXT="Figura">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1566334869018" ID="ID_651140412" MODIFIED="1566334911380">
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#ffffff" COLOR="#f31515" CREATED="1566334842407" ID="ID_1881756906" MODIFIED="1566678395763" TEXT="Figura">
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1566334869018" ID="ID_651140412" MODIFIED="1566678395779">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -177,6 +193,7 @@
     <img src="arquitetura_jboss.png" />
   </body>
 </html></richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
 </node>
@@ -190,8 +207,7 @@
       Estrutura de Diret&#243;rios
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566428099782" ID="ID_1422247754" MODIFIED="1566428138556">
 <richcontent TYPE="NODE"><html>
@@ -201,8 +217,7 @@
   <body>
     <img src="diretorios_jboss.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1566428210597" ID="ID_412232338" MODIFIED="1566428216688" POSITION="right" TEXT="Arquivos de Configura&#xe7;&#xe3;o">
@@ -215,11 +230,10 @@
   <body>
     <img src="config_jboss.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#009999" CREATED="1566335086371" FOLDED="true" ID="ID_90510014" MODIFIED="1566426921331" POSITION="left">
+<node COLOR="#009999" CREATED="1566335086371" FOLDED="true" ID="ID_90510014" MODIFIED="1566678727900" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -324,7 +338,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff6666" CREATED="1566426923515" ID="ID_363938305" MODIFIED="1566427977190" POSITION="left">
+<node COLOR="#feab2a" CREATED="1566426923515" ID="ID_363938305" MODIFIED="1566678718846" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -334,10 +348,10 @@
       Modos de Opera&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1566426930408" ID="ID_1637211396" MODIFIED="1566427996029">
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1566426930408" ID="ID_1637211396" MODIFIED="1566678718848">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -347,10 +361,10 @@
       Standalone Mode
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1566427009342" ID="ID_1886714565" MODIFIED="1566428009380">
+<node COLOR="#990099" CREATED="1566427009342" ID="ID_1886714565" MODIFIED="1566678718851">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -360,10 +374,11 @@
       &gt; Modo tradicional (um &#250;nico servidor/inst&#226;ncia)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990099" CREATED="1566427085082" ID="ID_1633640258" MODIFIED="1566428009379">
+<node COLOR="#990099" CREATED="1566427085082" ID="ID_1633640258" MODIFIED="1566678718855">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -373,10 +388,11 @@
       &gt; Caracter&#237;sticas de Gerenciamento de uma JVM
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990099" CREATED="1566427095046" ID="ID_1678197196" MODIFIED="1566428009377">
+<node COLOR="#990099" CREATED="1566427095046" ID="ID_1678197196" MODIFIED="1566678718857">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -386,10 +402,11 @@
       &gt; Sem controle de ciclo de vida via gerenciamento
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990099" CREATED="1566427116398" ID="ID_1227795762" MODIFIED="1566428009370">
+<node COLOR="#990099" CREATED="1566427116398" ID="ID_1227795762" MODIFIED="1566678718863">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -417,11 +434,12 @@
       BOSS_HOME/standalone.bat
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1566427146679" ID="ID_227591048" MODIFIED="1566428027118" VSHIFT="26">
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1566427146679" ID="ID_227591048" MODIFIED="1566678718867" VSHIFT="26">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -431,9 +449,9 @@
       <b>Domain Mode</b>
     </p>
   </body>
-</html>
-</richcontent>
-<node COLOR="#338800" CREATED="1566427158051" ID="ID_1339743004" MODIFIED="1566428030298">
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<node COLOR="#338800" CREATED="1566427158051" ID="ID_1339743004" MODIFIED="1566678718869">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -443,10 +461,11 @@
       &gt; Permite iniciar v&#225;rias inst&#226;ncias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#338800" CREATED="1566427176131" ID="ID_103622014" MODIFIED="1566428030297">
+<node COLOR="#338800" CREATED="1566427176131" ID="ID_103622014" MODIFIED="1566678718873">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -456,10 +475,11 @@
       &gt; oferece uma maneira centralizada de gerenciamento<br />&#160;dos recursos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#338800" CREATED="1566427203835" ID="ID_1867410607" MODIFIED="1566428030296">
+<node COLOR="#338800" CREATED="1566427203835" ID="ID_1867410607" MODIFIED="1566678718875">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -469,10 +489,11 @@
       &gt; pode ser visto como uma unidade de inst&#226;ncias que<br />&#160;compartilham recursos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1566427432639" FOLDED="true" ID="ID_1379775212" MODIFIED="1566427974696">
+<node CREATED="1566427432639" FOLDED="true" ID="ID_1379775212" MODIFIED="1566678718881">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -482,8 +503,9 @@
       <b><font color="#000fff"><u>&gt;&#160;S&#227;o administradas por um processo chamado</u></font></b><br /><b><font color="#000fff"><u>&#160;Domain Controller.</u></font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 <node COLOR="#338800" CREATED="1566427468869" ID="ID_863585903" MODIFIED="1566427483757" TEXT="Imagem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566427484721" ID="ID_745510092" MODIFIED="1566427566763">
@@ -494,12 +516,11 @@
   <body>
     <img src="domain_mode.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1566427580568" ID="ID_1708929616" MODIFIED="1566428032484">
+<node COLOR="#338800" CREATED="1566427580568" ID="ID_1708929616" MODIFIED="1566678718885">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -527,8 +548,9 @@
       JBOSS_HOME/domain.bat
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
@@ -545,8 +567,7 @@
       Faz o deploy de uma aplica&#231;&#227;o&#160;designada
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1566427857107" ID="ID_1114487062" MODIFIED="1566427876602">
 <richcontent TYPE="NODE"><html>
@@ -558,8 +579,7 @@
       Se for Executado sem argumentos lista deploy's<br />existentes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

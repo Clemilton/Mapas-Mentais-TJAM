@@ -239,13 +239,13 @@
       &gt; O sequenciamento depende do campo OFFSET.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1565126357097" ID="ID_1725710460" MODIFIED="1565788359498" POSITION="right" TEXT="Flags (3 bits):" VSHIFT="39">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565127370793" ID="ID_140154176" MODIFIED="1565127469871">
+<node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1565126357097" ID="ID_1725710460" MODIFIED="1566663155169" POSITION="right" TEXT="Flags (3 bits):" VSHIFT="39">
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node COLOR="#9b01c1" CREATED="1565127370793" ID="ID_140154176" MODIFIED="1566663155169">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -256,8 +256,10 @@
     </p>
   </body>
 </html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
-<node COLOR="#006699" CREATED="1565127397890" ID="ID_1426159425" MODIFIED="1565127495541" VSHIFT="17">
+<node COLOR="#4646ff" CREATED="1565127397890" ID="ID_1426159425" MODIFIED="1566663162013" VSHIFT="17">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -269,19 +271,48 @@
     <p>
       
     </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1566663072714" ID="ID_1652078669" MODIFIED="1566663162019" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       &gt; Caso este bit esteja <u>habilitado</u>, indica que o<b>&#160;pacote n&#227;o deve ser fragmentado ao longo do percurso.</b>
     </p>
     <p>
       
     </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1566663078676" ID="ID_1144654451" MODIFIED="1566663162023" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       &gt; Caso n&#227;o seja poss&#237;vel transmitir sem desfragmentar, o roteador dever&#225; descartar o pacote e enviar uma notifica&#231;&#227;o &#224; origem.
     </p>
+    <p>
+      
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#006699" CREATED="1565127437065" ID="ID_235950877" MODIFIED="1565127511154" VSHIFT="13">
+</node>
+</node>
+<node COLOR="#0e9302" CREATED="1565127437065" ID="ID_235950877" MODIFIED="1566663166888" VSHIFT="13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -304,6 +335,9 @@
     </p>
   </body>
 </html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node CREATED="1566663168668" ID="ID_447655490" MODIFIED="1566663168668" TEXT=""/>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1565126362567" HGAP="21" ID="ID_906146922" MODIFIED="1565787984489" POSITION="right" TEXT="Fragment Offset (13 bits):" VSHIFT="33">
@@ -330,8 +364,7 @@
       &gt; Ele representa um n&#250;mero m&#250;ltiplo de 8 de bytes. Ou seja, se o<br />valor for 185, temos indicado que a posi&#231;&#227;o de in&#237;cio ser&#225; 8 x 185 = 1480 bytes.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1565126375578" ID="ID_1825642096" MODIFIED="1565788410198" POSITION="right" TEXT="Time to Live - TTL (8 bits):" VSHIFT="16">
@@ -376,8 +409,7 @@
       &gt; Quando o n&#243; &#233; descartado utiliza-se o protocolo ICMP para enviar uma<br />mensagem de &quot;time exceed&quot; p/ o n&#243; de origem;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1565126383856" HGAP="23" ID="ID_1965970561" MODIFIED="1565788492829" POSITION="right" TEXT="Protocol (8 bits):" VSHIFT="20">
@@ -437,11 +469,11 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1565126398558" FOLDED="true" ID="ID_1312225063" MODIFIED="1565787922825" POSITION="right" TEXT="Source and Destination Address (32 bits):">
+<node COLOR="#990000" CREATED="1565126398558" ID="ID_1312225063" MODIFIED="1566663062533" POSITION="right" TEXT="Source and Destination Address (32 bits):">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565134715694" ID="ID_1877947918" MODIFIED="1565134725476" TEXT="&gt; Campo destinado a armazenar a informa&#xe7;&#xe3;o do endere&#xe7;o IP em sua vers&#xe3;o 4 de origem e destino, respectivamente dos endpoints da comunica&#xe7;&#xe3;o."/>
 </node>
-<node COLOR="#990000" CREATED="1565126407474" FOLDED="true" ID="ID_334192197" MODIFIED="1565787923369" POSITION="right" TEXT="Options and Padding (Tamanho Vari&#xe1;vel):">
+<node COLOR="#990000" CREATED="1565126407474" ID="ID_334192197" MODIFIED="1566663063683" POSITION="right" TEXT="Options and Padding (Tamanho Vari&#xe1;vel):">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1565134727135" ID="ID_1392274222" MODIFIED="1565134743346">
 <richcontent TYPE="NODE"><html>

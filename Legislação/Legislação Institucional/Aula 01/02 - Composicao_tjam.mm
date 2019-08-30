@@ -29,7 +29,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1566161853133" FOLDED="true" ID="ID_131723511" MODIFIED="1566397434264" POSITION="right">
+<node COLOR="#0033ff" CREATED="1566161853133" ID="ID_131723511" MODIFIED="1566853725074" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -59,7 +59,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1566162106094" ID="ID_929181015" MODIFIED="1566397310602">
+<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1566162106094" ID="ID_929181015" MODIFIED="1567018256376">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -70,8 +70,9 @@
     </p>
   </body>
 </html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1566162129486" ID="ID_1731367181" MODIFIED="1566175120375">
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1566162129486" ID="ID_1731367181" MODIFIED="1567018309026">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -80,16 +81,27 @@
     <p>
       <b>Tribunal Pleno</b>
     </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; &#201; composto pela <b><u>TOTALIDADE</u></b>&#160;dos Desembargadores (26 membros)<br />e presidido pelo Presidente do TJ.
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1567018267067" ID="ID_50236644" MODIFIED="1567018309027">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      &gt; &#201; composto pela <b><u>TOTALIDADE</u></b>&#160;dos<br />&#160;Desembargadores (26 membros)<br />&#160;e presidido pelo Presidente do TJ.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
 </node>
-<node COLOR="#990099" CREATED="1566162173934" ID="ID_1184616530" MODIFIED="1566175120375">
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1566162173934" ID="ID_1184616530" MODIFIED="1567018317061">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -98,6 +110,17 @@
     <p>
       <b>C&#226;maras Isoladas</b>
     </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1567018296568" ID="ID_1543428590" MODIFIED="1567018317062" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       
     </p>
@@ -111,9 +134,13 @@
       &gt;&#160;&#160;Organizado pelo Regimento Interno;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#990099" CREATED="1566162224815" ID="ID_1316372105" MODIFIED="1566175120374">
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1566162224815" ID="ID_1316372105" MODIFIED="1567018331974">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -122,14 +149,22 @@
     <p>
       <b>C&#226;maras Reunidas</b>
     </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567018327126" ID="ID_949385482" MODIFIED="1567018347347">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      
+      &gt; As C&#226;maras Reunidas s&#227;o integradas pelos
     </p>
     <p>
-      &gt; As C&#226;maras Reunidas s&#227;o integradas pelos membros das respectivas
-    </p>
-    <p>
-      C&#226;maras Isoladas.
+      &#160;membros das respectivas C&#226;maras Isoladas.
     </p>
     <p>
       
@@ -141,12 +176,15 @@
       
     </p>
     <p>
-      &gt;<font color="#ff0000">&#160;<b>O Presidente e o Corregedor-Geral n&#227;o a integram</b></font>
+      &gt;<font color="#ff0000">&#160;<b>O Presidente e o Corregedor-Geral</b></font><br /><font color="#ff0000"><b>n&#227;o a integram</b></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
-<node COLOR="#990099" CREATED="1566162277406" ID="ID_290492043" MODIFIED="1566175120372">
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#feab2a" CREATED="1566162277406" ID="ID_290492043" MODIFIED="1567018366731">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -155,9 +193,17 @@
     <p>
       <b>Conselho de Magistratura</b>
     </p>
-    <p>
-      
-    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567018361038" ID="ID_1037971167" MODIFIED="1567018366734">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       &gt; O Conselho da Magistratura &#233; o <font color="#ff0000"><b>&#243;rg&#227;o m&#225;ximo de disciplina, </b></font>
     </p>
@@ -174,10 +220,16 @@
       &gt; tem sede na capital e jurisdi&#231;&#227;o em todo o Estado do Amazonas;
     </p>
   </body>
-</html></richcontent>
-<node COLOR="#0033ff" CREATED="1566162408492" ID="ID_1179466038" MODIFIED="1566162534842" TEXT="Tem 05 Membros">
+</html>
+</richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1566162408492" ID="ID_1179466038" MODIFIED="1567018366735" TEXT="Tem 05 Membros">
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1566162423422" ID="ID_1681520348" MODIFIED="1566162541625" TEXT="Membros Natos">
+<node COLOR="#0033ff" CREATED="1566162423422" ID="ID_1681520348" MODIFIED="1567018256404" TEXT="Membros Natos">
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 <node COLOR="#006699" CREATED="1566162436837" ID="ID_250252157" MODIFIED="1566175142369">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -204,7 +256,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1566162431152" ID="ID_992442978" MODIFIED="1566162541623">
+<node COLOR="#0033ff" CREATED="1566162431152" ID="ID_992442978" MODIFIED="1567018256405">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -215,6 +267,8 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 <node COLOR="#006699" CREATED="1566162474936" ID="ID_1240228313" MODIFIED="1566175142368">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -236,7 +290,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#999999" CREATED="1566162559037" ID="ID_304294122" MODIFIED="1566175137192">
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1566162559037" ID="ID_304294122" MODIFIED="1567018366735">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -250,7 +304,8 @@
     </p>
   </body>
 </html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </node>
@@ -400,8 +455,7 @@
       &gt; salvo recusa expressa ou t&#225;cita;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#0004ff" CREATED="1566164411278" ID="ID_495110562" MODIFIED="1566397435157" POSITION="right">
@@ -604,7 +658,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#ff0000" CREATED="1566172895160" ID="ID_202022449" MODIFIED="1566174200836" STYLE="bubble">
+<node COLOR="#ff0000" CREATED="1566172895160" ID="ID_202022449" MODIFIED="1567020197654" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -626,7 +680,7 @@
     </ul>
   </body>
 </html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 <node COLOR="#cc6600" CREATED="1566172845570" ID="ID_1497377481" MODIFIED="1566173328855">
@@ -732,6 +786,48 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567020011520" ID="ID_25088967" MODIFIED="1567020134493">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Se processo/juiz &lt; 600
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; e n&#227;o for proposto o aumento de desembargadores;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>&gt; o ac&#250;mulo de servi&#231;o n&#227;o excluir&#225; a aplica&#231;&#227;o de </b>
+    </p>
+    <p>
+      <b>san&#231;&#245;es previstas</b>
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567020148923" ID="ID_636784372" MODIFIED="1567020201143">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      n&#227;o ser&#227;o computados o Presidente e Corregedor<br />Geral de Justi&#231;a nesse c&#225;lculo de 600
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
 </node>
 </node>
 </node>

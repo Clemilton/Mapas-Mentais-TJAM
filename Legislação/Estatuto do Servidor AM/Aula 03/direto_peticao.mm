@@ -57,8 +57,7 @@
       &gt; &#201; cab&#237;vel para defesa de direito<br />ou de interesse leg&#237;timo.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="sharp_linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1566517804138" HGAP="45" ID="ID_1177384444" MODIFIED="1566517822223" STYLE="bubble" VSHIFT="12">
@@ -71,8 +70,7 @@
       &gt; Nada mais do que um pedido
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="sharp_linear" WIDTH="2"/>
 </node>
 </node>
@@ -89,8 +87,7 @@
       &#201; cab&#237;vel contra abuso de autoridade ou desvio de poder.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffb300" STYLE="sharp_linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -104,8 +101,7 @@
       Encaminhada pela via Hier&#225;rquica.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffb300" STYLE="sharp_linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -119,8 +115,7 @@
       Ser&#225; <u>obrigatoriamente</u>&#160;apreciada pela autoridade<br />&#160;superior &#224;quela contra a qual &#233; interposta
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffb300" STYLE="sharp_linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -135,8 +130,7 @@
       Pedido de<br />Reconsidera&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1564691183317" ID="ID_1574622318" MODIFIED="1566518289310">
@@ -149,8 +143,7 @@
       Dirigido &#224; autoridade que tiver expedido o ato<br />&#160;ou proferido a primeira decis&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="sharp_linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -164,8 +157,7 @@
       Quando tiver novos argumentos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="sharp_linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -179,16 +171,15 @@
       <b><u>Prazo de 15 dias</u></b>, a contar da ci&#234;ncia do ato,<br />&#160;da decis&#227;o, ou da publica&#231;&#227;o oficial
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="sharp_linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#0e9302" CREATED="1564691438362" ID="ID_1089536894" MODIFIED="1566518421720" POSITION="right" TEXT="Recursos">
+<node COLOR="#4646ff" CREATED="1564691438362" ID="ID_1089536894" MODIFIED="1566663218590" POSITION="right" STYLE="bubble" TEXT="Recursos">
 <edge COLOR="#969696" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564691446372" ID="ID_1549448490" MODIFIED="1566518421722">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564691446372" ID="ID_1549448490" MODIFIED="1566663218587" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -198,11 +189,10 @@
       O estatuto estabelece a possibilidade de recurso
     </p>
   </body>
-</html>
-</richcontent>
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="2"/>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566517656708" ID="ID_2346007" MODIFIED="1566518421724">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566517656708" ID="ID_2346007" MODIFIED="1566663218582" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -212,12 +202,11 @@
       Contra o indeferimento do pedido de reconsidera&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="1"/>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566517692163" ID="ID_95649243" MODIFIED="1566518421725">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566517692163" ID="ID_95649243" MODIFIED="1566663218580" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -227,29 +216,28 @@
       Contra a decis&#227;o sobre os recursos sucessivamente interpostos
     </p>
   </body>
-</html>
-</richcontent>
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="1"/>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564691844045" HGAP="21" ID="ID_1774149159" MODIFIED="1566518421730" TEXT="&gt; O Recurso ser&#xe1; dirigido &#xe0; autoridade diretamente&#xa;superior &#xe0; que tiver expedido o ato ou proferido a &#xa;decis&#xe3;o ou  proferido a decis&#xe3;o, que poder&#xe1; " VSHIFT="17">
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="2"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564691844045" HGAP="21" ID="ID_1774149159" MODIFIED="1566663218572" STYLE="bubble" TEXT="&gt; O Recurso ser&#xe1; dirigido &#xe0; autoridade diretamente&#xa;superior &#xe0; que tiver expedido o ato ou proferido a &#xa;decis&#xe3;o ou  proferido a decis&#xe3;o, que poder&#xe1; " VSHIFT="17">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692084211" ID="ID_43219831" MODIFIED="1566518421731" TEXT="Reconsiderar a decis&#xe3;o">
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="1"/>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692084211" ID="ID_43219831" MODIFIED="1566663218555" STYLE="bubble" TEXT="Reconsiderar a decis&#xe3;o">
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692099456" ID="ID_1430104647" MODIFIED="1566518421731" TEXT="Manter a decis&#xe3;o">
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="1"/>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692099456" ID="ID_1430104647" MODIFIED="1566663218555" STYLE="bubble" TEXT="Manter a decis&#xe3;o">
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692103280" ID="ID_665424097" MODIFIED="1566518421731" TEXT="Encaminh&#xe1;-la a autoridade superior">
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="1"/>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692103280" ID="ID_665424097" MODIFIED="1566663218554" STYLE="bubble" TEXT="Encaminh&#xe1;-la a autoridade superior">
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1564692436161" ID="ID_588293673" MODIFIED="1566518421734">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564692436161" ID="ID_588293673" MODIFIED="1566663218552" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -260,7 +248,7 @@
     </p>
   </body>
 </html></richcontent>
-<edge COLOR="#0e9302" STYLE="sharp_linear" WIDTH="2"/>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -274,8 +262,7 @@
       Prescri&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1564692585881" HGAP="30" ID="ID_1099266251" MODIFIED="1566518369602" STYLE="bubble" VSHIFT="11">

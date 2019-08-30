@@ -28,8 +28,7 @@
       INICIAIS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1566397844883" ID="ID_771668205" MODIFIED="1566515835470" STYLE="bubble">
@@ -382,7 +381,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#077701" CREATED="1566399557518" FOLDED="true" ID="ID_81845074" MODIFIED="1566511155550">
+<node BACKGROUND_COLOR="#077701" CREATED="1566399557518" ID="ID_81845074" MODIFIED="1567018039259">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -397,7 +396,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1566399791568" FOLDED="true" ID="ID_1712115189" MODIFIED="1566491710973" TEXT="Parte01">
+<node COLOR="#338800" CREATED="1566399791568" ID="ID_1712115189" MODIFIED="1567018583588" TEXT="Parte01">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566399795557" ID="ID_1389860288" MODIFIED="1566399798190">
 <richcontent TYPE="NODE"><html>
@@ -410,7 +409,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1566399800892" FOLDED="true" ID="ID_734747433" MODIFIED="1566491710973" TEXT="Parte02">
+<node COLOR="#338800" CREATED="1566399800892" FOLDED="true" ID="ID_734747433" MODIFIED="1567018064932" TEXT="Parte02">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566399805314" ID="ID_95868262" MODIFIED="1566399809446">
 <richcontent TYPE="NODE"><html>
@@ -423,7 +422,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1566399811552" FOLDED="true" ID="ID_395844062" MODIFIED="1566491710973" TEXT="Parte03">
+<node COLOR="#338800" CREATED="1566399811552" FOLDED="true" ID="ID_395844062" MODIFIED="1567018554466" TEXT="Parte03">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566399835821" ID="ID_603751693" MODIFIED="1566399838069">
 <richcontent TYPE="NODE"><html>
@@ -449,7 +448,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1566399816169" ID="ID_239475082" MODIFIED="1566492738636" TEXT="Parte05">
+<node COLOR="#338800" CREATED="1566399816169" ID="ID_239475082" MODIFIED="1567018555830" TEXT="Parte05">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566399856157" ID="ID_1328280993" MODIFIED="1566399858798">
 <richcontent TYPE="NODE"><html>
@@ -462,7 +461,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1566399819726" FOLDED="true" ID="ID_1444255456" MODIFIED="1566492736535" TEXT="Parte06">
+<node COLOR="#338800" CREATED="1566399819726" FOLDED="true" ID="ID_1444255456" MODIFIED="1567018075268" TEXT="Parte06">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566399867725" ID="ID_1359157009" MODIFIED="1566399870269">
 <richcontent TYPE="NODE"><html>
@@ -489,19 +488,21 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1566400204401" ID="ID_188451027" MODIFIED="1566511155551">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#2d6060" CREATED="1566400204401" ID="ID_188451027" MODIFIED="1567018143379">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Principais Pontos
+      Principais Pontos<br />das Atribui&#231;&#245;es
     </p>
   </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1566400352201" ID="ID_1050639368" MODIFIED="1566511155551">
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1566400352201" ID="ID_1050639368" MODIFIED="1567018143380">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -521,21 +522,27 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#990099" CREATED="1566400476873" ID="ID_1070455071" MODIFIED="1566511155551">
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1566400476873" ID="ID_1070455071" MODIFIED="1567018537779">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <b><u>Visita a cadeias p&#250;blicas ou </u></b><br /><b><u>estabelecimentos prisionais</u></b>
+    <p style="text-align: center">
+      <b>Visita a cadeias p&#250;blicas </b>
+    </p>
+    <p style="text-align: center">
+      <b>&#160;ou </b><br /><b>estabelecimentos prisionais</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1566491774381" ID="ID_458769453" MODIFIED="1566511155551">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1566491774381" ID="ID_458769453" MODIFIED="1567018166130">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -552,7 +559,9 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1566491840316" ID="ID_1079302061" MODIFIED="1566511155551">
+<edge STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566491840316" ID="ID_1079302061" MODIFIED="1567018166131">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -563,7 +572,8 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#999999" CREATED="1566491920603" ID="ID_1864890727" MODIFIED="1566511155551">
+<edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
+<node COLOR="#999999" CREATED="1566491920603" ID="ID_1864890727" MODIFIED="1567018166131">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -574,10 +584,11 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1566491912215" ID="ID_1942988334" MODIFIED="1566511155551">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566491912215" ID="ID_1942988334" MODIFIED="1567018166132">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -588,7 +599,8 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#999999" CREATED="1566491970915" ID="ID_438179100" MODIFIED="1566511155552">
+<edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
+<node COLOR="#999999" CREATED="1566491970915" ID="ID_438179100" MODIFIED="1567018166132">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -599,10 +611,11 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1566492002637" ID="ID_196980587" MODIFIED="1566511155552">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566492002637" ID="ID_196980587" MODIFIED="1567018166134">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -624,7 +637,8 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1566492114861" ID="ID_1036042181" MODIFIED="1566511155552">
+<edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
+<node CREATED="1566492114861" ID="ID_1036042181" MODIFIED="1567018166137">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -635,6 +649,8 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 <node COLOR="#999999" CREATED="1566492134842" ID="ID_1045923467" MODIFIED="1566511155552">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -678,33 +694,38 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1566400907740" ID="ID_1139777759" MODIFIED="1566511155553">
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1566400907740" ID="ID_1139777759" MODIFIED="1567018523960">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <b><u>Receber, processar e decidir as reclama&#231;&#245;es contra serventu&#225;rios da justi&#231;a</u></b>
+    <p style="text-align: center">
+      <b>Receber, processar e decidir as </b><br /><b>reclama&#231;&#245;es contra serventu&#225;rios</b><br /><b>&#160;da justi&#231;a</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#990099" CREATED="1566400922727" ID="ID_1755395901" MODIFIED="1566511155553">
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1566400922727" ID="ID_1755395901" MODIFIED="1567018520019">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <b><u>Propor ao Tribunal declara&#231;&#227;o de regime de exce&#231;&#227;o de qualquer Comarca</u></b>
+    <p style="text-align: center">
+      <b>Propor ao Tribunal declara&#231;&#227;o de </b><br /><b>regime de exce&#231;&#227;o de qualquer</b><br /><b>&#160;Comarca</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#8600b9" COLOR="#990099" CREATED="1566400511870" ID="ID_1777439859" MODIFIED="1566511155553">
+</node>
+<node BACKGROUND_COLOR="#8600b9" COLOR="#990099" CREATED="1566400511870" ID="ID_1777439859" MODIFIED="1567018809403">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -717,7 +738,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#7779f8" COLOR="#0033ff" CREATED="1566400580400" ID="ID_1145533508" MODIFIED="1566511155553">
+<node BACKGROUND_COLOR="#7779f8" COLOR="#0033ff" CREATED="1566400580400" ID="ID_1145533508" MODIFIED="1567018842011">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -732,7 +753,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node COLOR="#0033ff" CREATED="1566400697359" ID="ID_1660354191" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400697359" ID="ID_1660354191" MODIFIED="1567018842010">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -745,7 +766,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566400747605" ID="ID_713258198" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400747605" ID="ID_713258198" MODIFIED="1567018842009">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -758,7 +779,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566400756053" ID="ID_80951290" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400756053" ID="ID_80951290" MODIFIED="1567018842007">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -771,7 +792,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566400763868" ID="ID_1533401511" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400763868" ID="ID_1533401511" MODIFIED="1567018842006">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -784,7 +805,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566400780061" ID="ID_1686009081" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400780061" ID="ID_1686009081" MODIFIED="1567018842005">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -800,7 +821,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566400787100" ID="ID_1637549456" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400787100" ID="ID_1637549456" MODIFIED="1567018842005">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -813,7 +834,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1566400813388" ID="ID_451200957" MODIFIED="1566511155553">
+<node COLOR="#0033ff" CREATED="1566400813388" ID="ID_451200957" MODIFIED="1567018842004">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1326,7 +1347,7 @@
 </html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491504025" FOLDED="true" ID="ID_1510138809" MODIFIED="1566516637685">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491504025" FOLDED="true" ID="ID_1510138809" MODIFIED="1567018854173">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1443,7 +1464,6 @@
     <img src="prazos_correicao.png" />
   </body>
 </html></richcontent>
-</node>
 </node>
 </node>
 </node>
