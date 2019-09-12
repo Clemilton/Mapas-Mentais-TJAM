@@ -12,61 +12,6 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566928691058" ID="ID_1068400332" MODIFIED="1566932064362" POSITION="right" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Conceitos Iniciais
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#969696" WIDTH="2"/>
-<font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node CREATED="1567088174549" ID="ID_1324851471" MODIFIED="1567088174549" TEXT="">
-<node CREATED="1567088178175" ID="ID_1961680929" MODIFIED="1567088266001">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &gt; As metas do Judici&#225;rio p/ 2019 foram estabelecidas durante o<br />XII Encontro Nacional do Poder Judici&#225;rio, em Foz do Igua&#231;u nos<br />dias 03 e 04 de dezembro de 2018
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; O objetivo das metas &#233; promover a Efici&#234;ncia da Justi&#231;a
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566928696084" ID="ID_1745184368" MODIFIED="1567088172879">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &gt; CNJ &#201; um org&#227;o do Poder Judici&#225;rio;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; Expede atos regulamentares para o aperfei&#231;oamento do<br />Sistema Judicial Brasileiro
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
 <node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1566932186031" ID="ID_1857413336" MODIFIED="1566932247189" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -586,7 +531,60 @@
 </html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1566930591641" ID="ID_656829254" MODIFIED="1566934060531" VSHIFT="-13">
+<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566928691058" FOLDED="true" ID="ID_1068400332" MODIFIED="1568312209227" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conceitos Iniciais
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1567088178175" ID="ID_1961680929" MODIFIED="1568312188666">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; As metas do Judici&#225;rio p/ 2019 foram estabelecidas durante o<br />XII Encontro Nacional do Poder Judici&#225;rio, em Foz do Igua&#231;u nos<br />dias 03 e 04 de dezembro de 2018
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; <b>O objetivo das metas &#233; promover a Efici&#234;ncia da Justi&#231;a</b>
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566928696084" ID="ID_1745184368" MODIFIED="1567088172879">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; CNJ &#201; um org&#227;o do Poder Judici&#225;rio;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Expede atos regulamentares para o aperfei&#231;oamento do<br />Sistema Judicial Brasileiro
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1566930591641" FOLDED="true" ID="ID_656829254" MODIFIED="1568312207964" VSHIFT="-13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -622,8 +620,7 @@
       &gt;<b><font color="#0107c1">&#160;Julgar quantidade maior de processos</font></b>&#160;de<br />conhecimento <b><font color="#0107c1">do que os distribu&#237;dos</font></b>, exclu&#237;dos os<br />suspensos e sobrestados no ano corrente
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -657,14 +654,13 @@
       A meta &#233; portanto julgar mais processos do que<br />processos novos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566930647043" HGAP="23" ID="ID_1094839393" MODIFIED="1566934064403" VSHIFT="-20">
+<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566930647043" FOLDED="true" HGAP="23" ID="ID_1094839393" MODIFIED="1568312207300" VSHIFT="-20">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -763,8 +759,7 @@
       e Turmas Recursais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1566930774193" ID="ID_484833378" MODIFIED="1566931600539" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -802,7 +797,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1566930801086" HGAP="21" ID="ID_141117656" MODIFIED="1566934066618" VSHIFT="-21">
+<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1566930801086" FOLDED="true" HGAP="21" ID="ID_141117656" MODIFIED="1568312206420" VSHIFT="-21">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -866,7 +861,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#feab2a" COLOR="#fefefe" CREATED="1566930897197" HGAP="19" ID="ID_713741836" MODIFIED="1566934068818" VSHIFT="-19">
+<node BACKGROUND_COLOR="#feab2a" COLOR="#fefefe" CREATED="1566930897197" FOLDED="true" HGAP="19" ID="ID_713741836" MODIFIED="1568312205603" VSHIFT="-19">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -926,8 +921,7 @@
       distribu&#237;das at&#233; 31/12/2016
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
 <node CREATED="1566933696310" ID="ID_1321338658" MODIFIED="1567088580947" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -957,7 +951,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#606060" COLOR="#fefefe" CREATED="1566931056019" HGAP="22" ID="ID_1107991648" MODIFIED="1566934073099" VSHIFT="-20">
+<node BACKGROUND_COLOR="#606060" COLOR="#fefefe" CREATED="1566931056019" FOLDED="true" HGAP="22" ID="ID_1107991648" MODIFIED="1568312204844" VSHIFT="-20">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1026,7 +1020,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1566931072768" ID="ID_1581975965" MODIFIED="1566934075267" VSHIFT="-30">
+<node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1566931072768" FOLDED="true" ID="ID_1581975965" MODIFIED="1568312203836" VSHIFT="-30">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1089,8 +1083,7 @@
       31/12/2016
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1113,15 +1106,14 @@
       31/12/2017
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffff00" COLOR="#343434" CREATED="1566931523366" HGAP="23" ID="ID_244352824" MODIFIED="1566934077483" VSHIFT="-31">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#343434" CREATED="1566931523366" FOLDED="true" HGAP="23" ID="ID_244352824" MODIFIED="1568312202812" VSHIFT="-31">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1203,7 +1195,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#00ffff" COLOR="#010101" CREATED="1566931199065" ID="ID_1802717767" MODIFIED="1566933981890">
+<node BACKGROUND_COLOR="#00ffff" COLOR="#010101" CREATED="1566931199065" FOLDED="true" ID="ID_1802717767" MODIFIED="1568312201670">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1284,8 +1276,7 @@
       ao feminic&#237;dio distribu&#237;dos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1305,8 +1296,7 @@
       &#224; viol&#234;ncia dom&#233;stica e<br />familiar contra a mulher
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
