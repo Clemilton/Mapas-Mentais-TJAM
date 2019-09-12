@@ -250,8 +250,7 @@
       <b><font color="#c62646">&gt; Os criadores da curva el&#237;ptica argumentam que a mesma</font></b><br /><b><font color="#c62646">pode ser mais r&#225;pida e usar chaves mais curtas que m&#233;to-</font></b><br /><b><font color="#c62646">dos antigos como RSA e proporcionar um n&#237;vel de </font></b><br /><b><font color="#c62646">seguran&#231;a equivalente;</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565224813556" HGAP="22" ID="ID_1585979602" MODIFIED="1565708292393" POSITION="left" VSHIFT="27">
@@ -313,6 +312,49 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567464453781" ID="ID_1335400025" MODIFIED="1567464490916">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ataque de Wiener
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567464462585" ID="ID_851065136" MODIFIED="1567464490921">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      as chaves privadas do RSA poder&#227;o ser descobertas caso os<br />par&#226;metros utilizados na defini&#231;&#227;o da chave privada<br />&#160;forem pequenos
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567464510993" ID="ID_833885314" MODIFIED="1567464532865">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      algoritmo baseado na express&#227;o de um n&#250;mero racional<br />por meio de fra&#231;&#245;es continuas, que permite recuperar<br />a chave privada.
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
 </node>
 <node CREATED="1565228113983" ID="ID_43236735" MODIFIED="1565228810729">
 <richcontent TYPE="NODE"><html>

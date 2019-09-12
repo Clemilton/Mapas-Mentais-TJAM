@@ -221,48 +221,48 @@
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955445355" ID="ID_808117676" MODIFIED="1567181321492" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955445355" ID="ID_808117676" MODIFIED="1567989495962" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      a) Definir Escopo do SGSI
+      a) Definir Escopo e limites do SGSI
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955474078" ID="ID_896893708" MODIFIED="1567181321493" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955474078" ID="ID_896893708" MODIFIED="1567989352227" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      b) Definir uma pol&#237;tica do SGSI nos termos das caracter&#237;sticas
-    </p>
-    <p>
-      do neg&#243;cio
+      b) Definir uma pol&#237;tica do SGSI
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955499629" ID="ID_815364900" MODIFIED="1567181321493" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955499629" ID="ID_815364900" MODIFIED="1567989372724" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      c)&#160;Definir uma abordagem de an&#225;lise/avalia&#231;&#227;o<br />&#160;de risco da organiza&#231;&#227;o
+      c)&#160;Definir uma abordagem de an&#225;lise/avalia&#231;&#227;o<br />de riscos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -311,17 +311,18 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955706243" FOLDED="true" ID="ID_126990514" MODIFIED="1567181321494" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955706243" FOLDED="true" ID="ID_126990514" MODIFIED="1567989418830" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      f) identificar e avaliar as op&#231;&#245;es de tratamento de risco
+      f) Identificar e avaliar as op&#231;&#245;es<br />de tratamento de risco
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567023180526" ID="ID_737756254" MODIFIED="1567181321494" STYLE="bubble">
@@ -357,45 +358,48 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567113191561" ID="ID_215276078" MODIFIED="1567181321495" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567113191561" ID="ID_215276078" MODIFIED="1567989424078" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      g) selecionar objetivos de controle e controles para tratamento de riscos
+      g) Selecionar objetivos de controle e<br />controles para tratamento de riscos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955738478" ID="ID_1130732325" MODIFIED="1567181321495" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955738478" ID="ID_1130732325" MODIFIED="1567989435787" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      h) Obter aprova&#231;&#227;o da dire&#231;&#227;o sobre os riscos residuais propostos
+      h) Obter aprova&#231;&#227;o da dire&#231;&#227;o sobre<br />os riscos residuais propostos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955782361" ID="ID_410475520" MODIFIED="1567181321495" STYLE="fork">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1566955782361" ID="ID_410475520" MODIFIED="1567989440446" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      i) obter autoriza&#231;&#227;o da dire&#231;&#227;o para implementar e operar a SGSI
+      i) obter autoriza&#231;&#227;o da dire&#231;&#227;o para<br />implementar e operar a SGSI
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -454,8 +458,7 @@
       que identifique a a&#231;&#227;o de gest&#227;o apropriada
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
@@ -948,19 +951,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1567180708009" ID="ID_420310336" MODIFIED="1567180712454" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Conceitos Gerais
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1567113999606" FOLDED="true" ID="ID_1953297274" MODIFIED="1567180735413" POSITION="left">
+<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1567113999606" ID="ID_1953297274" MODIFIED="1567629421015" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     

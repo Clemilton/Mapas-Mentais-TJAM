@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1565721670082" ID="ID_968946503" MODIFIED="1565726727646" STYLE="bubble" TEXT="Divis&#xe3;o Judici&#xe1;ria ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1565721810146" ID="ID_539502576" MODIFIED="1567017425624" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1565721810146" FOLDED="true" ID="ID_539502576" MODIFIED="1567603819752" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12,8 +12,7 @@
       <b><font color="#0002ff">Esse c&#243;digo </font></b><br /><b><font color="#0002ff">disp&#245;e sobre </font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1567017385173" ID="ID_301704452" MODIFIED="1567017523253">
@@ -26,8 +25,7 @@
       &gt;&#160;&#160;o regime jur&#237;dico da Magistratura
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -41,8 +39,7 @@
       &gt; a organiza&#231;&#227;o dos servi&#231;os auxiliares da Justi&#231;a
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -56,8 +53,7 @@
       &gt;&#160;&#160;observados os princ&#237;pios constitucionais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -71,13 +67,12 @@
       &gt; divis&#227;o e organiza&#231;&#227;o judici&#225;ria do<br />estado o Amazonas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567017553669" ID="ID_244710581" MODIFIED="1567017695771" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567017553669" FOLDED="true" ID="ID_244710581" MODIFIED="1567603819120" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -87,11 +82,10 @@
       Artigos Iniciais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567017592512" ID="ID_1457912408" MODIFIED="1567017679020">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567017592512" ID="ID_1457912408" MODIFIED="1567192605373">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -107,8 +101,7 @@
       da for&#231;a p&#250;blica
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567017567201" ID="ID_185689635" MODIFIED="1567017669686">
 <richcontent TYPE="NODE"><html>
@@ -120,8 +113,7 @@
       &gt;&#160;&#160;devendo a autoridade a quem for dirigido o pedido prest&#225;-lo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -135,8 +127,7 @@
       &gt; sob pena de responder por <b><font color="#ff0d00">crime de desobedi&#234;ncia</font></b>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -150,13 +141,12 @@
       &gt; Para <u>assegurar o cumprimento e a execu&#231;&#227;o dos seus atos e decis&#245;es</u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1565722106291" ID="ID_848592433" MODIFIED="1567017739097">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1565722106291" FOLDED="true" ID="ID_848592433" MODIFIED="1567603818264">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -166,8 +156,7 @@
       Art. 5&#186; - A <b><u>divis&#227;o judici&#225;ria</u></b>&#160;compreende<br />a <b><font color="#ff0000">cria&#231;&#227;o</font></b>, <font color="#0800ff"><b>altera&#231;&#227;o</b></font>&#160;e a <font color="#6a3c50"><b>extin&#231;&#227;o</b></font>&#160;de <b>unidades</b><br /><b>&#160;judici&#225;rias</b>, <font color="#c58601"><b>sua classifica&#231;&#227;o e agrupamento. </b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node COLOR="#990099" CREATED="1565722286881" ID="ID_1648446002" MODIFIED="1567017720220">
 <richcontent TYPE="NODE"><html>
@@ -306,7 +295,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1565722649343" ID="ID_1972152502" MODIFIED="1567017784161" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1565722649343" FOLDED="true" HGAP="21" ID="ID_1972152502" MODIFIED="1567603824008" POSITION="right" STYLE="bubble" VSHIFT="30">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -316,11 +305,10 @@
       Art 6&#186; Divis&#227;o Judici&#225;ria<br />do Amazonas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565722702250" ID="ID_1283289776" MODIFIED="1567017784164" STYLE="bubble">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565722702250" FOLDED="true" ID="ID_1283289776" MODIFIED="1567603823320" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -342,7 +330,8 @@
 </html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1565723173477" ID="ID_1375502324" MODIFIED="1567017784166">
+<icon BUILTIN="full-1"/>
+<node COLOR="#010101" CREATED="1565723173477" ID="ID_1375502324" MODIFIED="1567193003750">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -365,7 +354,7 @@
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990099" CREATED="1565723390852" ID="ID_540378188" MODIFIED="1567017784170">
+<node COLOR="#010101" CREATED="1565723390852" ID="ID_540378188" MODIFIED="1567193003749">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -386,7 +375,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565722721307" ID="ID_743109156" MODIFIED="1567019482909" STYLE="bubble">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565722721307" FOLDED="true" ID="ID_743109156" MODIFIED="1567603822936" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -405,7 +394,8 @@
 </html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1565724061882" ID="ID_376309828" MODIFIED="1567019609134">
+<icon BUILTIN="full-2"/>
+<node COLOR="#010101" CREATED="1565724061882" ID="ID_376309828" MODIFIED="1567193003748">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -427,13 +417,12 @@
       &gt; Os servi&#231;os judiciais dos Termos Judici&#225;rios ficam afetos ao Ju&#237;zo<br />da Comarca &#224; qual est&#227;o vinculados.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565722734927" ID="ID_1785685917" MODIFIED="1567019492005" STYLE="bubble">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1565722734927" FOLDED="true" ID="ID_1785685917" MODIFIED="1567603822192" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -452,7 +441,8 @@
 </html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#990099" CREATED="1565724134170" ID="ID_1885144942" MODIFIED="1567019495105">
+<icon BUILTIN="full-3"/>
+<node COLOR="#010101" CREATED="1565724134170" ID="ID_1885144942" MODIFIED="1567603776840">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -479,8 +469,9 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
+<icon BUILTIN="idea"/>
 </node>
-<node COLOR="#990000" CREATED="1565724420106" ID="ID_734385662" MODIFIED="1567019519681">
+<node COLOR="#990000" CREATED="1565724420106" ID="ID_734385662" MODIFIED="1567192986412">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -493,7 +484,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990000" CREATED="1565724440175" ID="ID_932589913" MODIFIED="1567019519680">
+<node COLOR="#990000" CREATED="1565724440175" ID="ID_932589913" MODIFIED="1567192986412">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -506,7 +497,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990000" CREATED="1565724476653" ID="ID_1895711901" MODIFIED="1567019519679">
+<node COLOR="#990000" CREATED="1565724476653" ID="ID_1895711901" MODIFIED="1567192986411">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -522,7 +513,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#cc3300" CREATED="1565724637472" ID="ID_141008205" MODIFIED="1567019554334">
+<node COLOR="#cc3300" CREATED="1565724637472" ID="ID_141008205" MODIFIED="1567192986410">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -564,13 +555,12 @@
       &gt; a Justi&#231;a de Paz ser&#225; exercida por <b><u>Juiz de Paz eleito</u></b>,<br />para <b><u><font color="#9621dd">mandato de&#160; quatro anos</font></u></b>, pelo voto direto,<br />universal e secreto do eleitorado do Munic&#237;pio respectivo,<br /><b><font color="#ff0000">permitida uma reelei&#231;&#227;o</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1565724869359" ID="ID_1529040719" MODIFIED="1567017874252" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1565724869359" FOLDED="true" ID="ID_1529040719" MODIFIED="1567603845528" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -580,8 +570,7 @@
       <b>Art 7&#186; Secretaria Geral</b><br /><b>do Tribunal de Justi&#231;a </b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1565724894668" ID="ID_408380543" MODIFIED="1567017894234">
@@ -594,12 +583,11 @@
       <b><font color="#010101">&gt; Manter&#225; registro de todas</font></b><br /><b><font color="#010101">as Comarcas, Termos e Distritos;</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1567017810939" ID="ID_720382330" MODIFIED="1567017874256">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1567017810939" FOLDED="true" ID="ID_720382330" MODIFIED="1567603844320">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -609,8 +597,7 @@
       &gt;&#160;&#160;com a indica&#231;&#227;o de:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567017814497" ID="ID_1337567343" MODIFIED="1567017874257">
 <richcontent TYPE="NODE"><html>
@@ -622,8 +609,7 @@
       da extens&#227;o territorial;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -637,8 +623,7 @@
       n&#250;mero de habitantes;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -652,8 +637,7 @@
       n&#250;mero de eleitores;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -667,8 +651,7 @@
       dist&#226;ncia em rela&#231;&#227;o &#224; Capital e cidades vizinhas;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -682,8 +665,7 @@
       vias de comunica&#231;&#227;o;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -697,8 +679,7 @@
       receita tribut&#225;ria;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -712,14 +693,13 @@
       n&#250;meros e esp&#233;cie de feitos distribu&#237;dos e julgados em cada ano.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0009ff" CREATED="1565724224217" ID="ID_1830588629" MODIFIED="1567017904586" POSITION="right">
+<node BACKGROUND_COLOR="#0009ff" CREATED="1565724224217" ID="ID_1830588629" MODIFIED="1567603846354" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -861,7 +841,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1565725978628" FOLDED="true" ID="ID_1314653986" MODIFIED="1566397206088">
+<node COLOR="#006699" CREATED="1565725978628" ID="ID_1314653986" MODIFIED="1567193343636">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -909,7 +889,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565726414075" ID="ID_1979692137" MODIFIED="1567019147963" POSITION="right">
+<node COLOR="#006699" CREATED="1565726414075" HGAP="22" ID="ID_1979692137" MODIFIED="1567193273098" POSITION="right" VSHIFT="33">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -987,8 +967,7 @@
       &gt; Em caso de&#160;<b>regress&#227;o ou extin&#231;&#227;o das </b><br /><b>condi&#231;&#245;es necess&#225;rias </b>e essenciais para<br />o seu funcionamento;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#990099" CREATED="1567019036802" ID="ID_967209133" MODIFIED="1567019084219">
 <richcontent TYPE="NODE"><html>
@@ -1000,8 +979,7 @@
       &gt; maioria dos membros do Tribunal;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1567019085256" ID="ID_683581668" MODIFIED="1567019097346">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1012,13 +990,12 @@
       definir&#225; o aproveitamento dos serventu&#225;rios<br />&#160;alocados na Comarca rebaixada.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0009ff" COLOR="#6c7dfd" CREATED="1565727017109" ID="ID_882028342" MODIFIED="1567018446674" POSITION="left" STYLE="bubble">
+<node BACKGROUND_COLOR="#0009ff" COLOR="#6c7dfd" CREATED="1565727017109" ID="ID_882028342" MODIFIED="1567603790067" POSITION="left" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1043,8 +1020,7 @@
       <b><font color="#ff0000">2&#186; Inst&#226;cia</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1565727098756" ID="ID_1252626633" MODIFIED="1567018420348">
 <richcontent TYPE="NODE"><html>
@@ -1114,8 +1090,7 @@
       VIII - Ju&#237;zes de Paz.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>

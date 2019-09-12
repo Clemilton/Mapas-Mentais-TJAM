@@ -194,8 +194,7 @@
       &#160;de oportunidades de melhoria&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -502,7 +501,7 @@
 </html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node CREATED="1567014511510" ID="ID_540332544" MODIFIED="1567014899469">
+<node CREATED="1567014511510" ID="ID_540332544" MODIFIED="1568149347057">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -529,8 +528,18 @@
     <p>
       &gt; Documentam etapas de configura&#231;&#227;o;
     </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Representam estados futuros a partir de pressupostos de metas
+    </p>
+    <p>
+      ou riscos do processo
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -723,8 +732,7 @@
       Modelagem de Processos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567093060203" ID="ID_383868669" MODIFIED="1567093080162">
@@ -737,8 +745,7 @@
       Cadeia de Valor
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567093109600" ID="ID_1166429565" MODIFIED="1567093371364" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -756,8 +763,7 @@
       entregue ao cliente
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -774,8 +780,7 @@
       processos de neg&#243;cio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -790,8 +795,7 @@
       SIPOC
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567093223811" ID="ID_639265545" MODIFIED="1567093371362" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -803,8 +807,7 @@
       Supplier, Input, Process, Output and Customer
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font ITALIC="true" NAME="SansSerif" SIZE="10"/>
 </node>
@@ -821,8 +824,7 @@
       Lean Six Sigma
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -836,8 +838,7 @@
       Enfatiza as fontes de entradas (<i>suppliers</i>) e<br />alvo das sa&#237;das (<i>customer</i>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -852,8 +853,7 @@
       Din&#226;mica de Sistemas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567093312164" ID="ID_420243838" MODIFIED="1567093371360" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -868,8 +868,7 @@
       de sistemas de neg&#243;cio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>

@@ -179,10 +179,35 @@
       &gt; A pol&#237;tica de seguran&#231;a deve contar com o apoio e comprometimento<br />da alta dire&#231;&#227;o da organiza&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1566949448861" ID="ID_233063924" MODIFIED="1566949448861" POSITION="right" TEXT=""/>
 <node CREATED="1566949642760" ID="ID_702148559" LINK="ISO%2027001.mm" MODIFIED="1566949642761" POSITION="right" TEXT="ISO 27001"/>
+<node CREATED="1567546088786" ID="ID_97998855" LINK="Plano%20de%20Continuidade%20do%20Negocio.mm" MODIFIED="1567546120329" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Plano de Continuidade de Neg&#243;cios
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1567546181553" ID="ID_494244243" LINK="Gestao%20de%20Continuidade%20de%20Negocios.mm" MODIFIED="1567546193161" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Gest&#227;o de Continuidade de Neg&#243;cios
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>

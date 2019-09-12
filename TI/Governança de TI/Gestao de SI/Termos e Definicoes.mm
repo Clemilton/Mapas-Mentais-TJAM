@@ -14,7 +14,7 @@
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <icon BUILTIN="full-3"/>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1566952619809" FOLDED="true" ID="ID_759390418" MODIFIED="1567180516976" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1566952619809" ID="ID_759390418" MODIFIED="1567989015732" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -24,8 +24,7 @@
       3.1 - Ativos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1566952952638" ID="ID_898227540" MODIFIED="1567180506365">
@@ -43,7 +42,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179295861" FOLDED="true" ID="ID_376975203" MODIFIED="1567180517456" POSITION="right" TEXT="3.2 - Disponibilidade">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179295861" ID="ID_376975203" MODIFIED="1567989017318" POSITION="right" TEXT="3.2 - Disponibilidade">
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179304853" ID="ID_797662815" MODIFIED="1567180506365">
@@ -56,13 +55,12 @@
       Propriedade de estar acess&#237;vel e utiliz&#225;vel sob demanda<br />por uma entidade autorizada
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179346140" FOLDED="true" ID="ID_332192249" MODIFIED="1567180517888" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179346140" ID="ID_332192249" MODIFIED="1567989021610" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -72,8 +70,7 @@
       3.3 - Confidencialidade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179352347" ID="ID_1115816297" MODIFIED="1567180506364">
@@ -89,13 +86,12 @@
       revelada a indiv&#237;duos, entidades ou processos n&#227;o autorizados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1566952625943" FOLDED="true" ID="ID_895881526" MODIFIED="1567180519536" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1566952625943" ID="ID_895881526" MODIFIED="1567989027801" POSITION="right" VSHIFT="9">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -105,8 +101,7 @@
       3.4 - Seguran&#231;a da Informa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1566952971208" ID="ID_1621668906" MODIFIED="1567180506362">
@@ -155,7 +150,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179406820" FOLDED="true" ID="ID_696949166" MODIFIED="1567180506361" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179406820" ID="ID_696949166" MODIFIED="1567989030774" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -165,8 +160,7 @@
       3.5 - Evento de SI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179469455" ID="ID_967316672" MODIFIED="1567180506361">
@@ -179,8 +173,7 @@
       &#160;uma ocorr&#234;ncia identificada de
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567179488988" ID="ID_904919994" MODIFIED="1567180506361" STYLE="bubble">
@@ -193,8 +186,7 @@
       um sistema
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -208,8 +200,7 @@
       um servi&#231;o; ou
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -223,8 +214,7 @@
       uma rede
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -239,8 +229,7 @@
       indicando
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567179554120" ID="ID_233263171" MODIFIED="1567180506361" STYLE="bubble">
@@ -253,8 +242,7 @@
       &#160;uma poss&#237;vel viola&#231;&#227;o da pol&#237;tica de S.I.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 <icon BUILTIN="messagebox_warning"/>
@@ -269,8 +257,7 @@
       falha de controles
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -287,8 +274,7 @@
       que possa ser relevante p/ a S.I.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -304,8 +290,7 @@
       3.6 - incidente de S.I
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179687476" ID="ID_1279198867" MODIFIED="1567180506360">
@@ -321,8 +306,7 @@
       inesperados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -339,13 +323,12 @@
       do neg&#243;cio e amea&#231;ar a S.I.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179783225" FOLDED="true" ID="ID_801865599" MODIFIED="1567180506360" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179783225" ID="ID_801865599" MODIFIED="1567989057085" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -358,8 +341,7 @@
       de SI (SGSI)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179808777" ID="ID_1931230952" MODIFIED="1567180506360">
@@ -372,8 +354,7 @@
       Faz parte do sistema de gest&#227;o global
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179852673" ID="ID_595983492" MODIFIED="1567180506360">
@@ -386,8 +367,7 @@
       Baseado nos riscos do neg&#243;cio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179870315" ID="ID_1822475604" MODIFIED="1567180506360">
@@ -400,12 +380,11 @@
       estabelece, implementa, opera, monitora,<br />analisa criticamente, mant&#234;m e melhora a S.I
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179921453" FOLDED="true" ID="ID_56709606" MODIFIED="1567180506359" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179921453" ID="ID_56709606" MODIFIED="1567989068613" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -415,18 +394,17 @@
       3.8 - Integridade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179932424" ID="ID_1254918516" MODIFIED="1567180506359">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567179932424" ID="ID_1254918516" MODIFIED="1567989077130">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      propriadade de salvaguarda da exatid&#227;o e completeza de ativos
+      propriedade de salvaguarda da exatid&#227;o e completeza de ativos
     </p>
   </body>
 </html>
@@ -434,7 +412,7 @@
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179988456" FOLDED="true" ID="ID_1172014921" MODIFIED="1567180514424" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567179988456" ID="ID_1172014921" MODIFIED="1567989079786" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -461,7 +439,7 @@
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180030101" FOLDED="true" ID="ID_806630344" MODIFIED="1567180514832" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180030101" ID="ID_806630344" MODIFIED="1567989083807" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -488,7 +466,7 @@
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180042478" FOLDED="true" ID="ID_635828307" MODIFIED="1567180513704" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180042478" ID="ID_635828307" MODIFIED="1567989085370" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -515,7 +493,7 @@
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180050413" FOLDED="true" ID="ID_1884436504" MODIFIED="1567180513320" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180050413" ID="ID_1884436504" MODIFIED="1567989087124" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -528,21 +506,22 @@
 </html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567180155023" ID="ID_1684820445" MODIFIED="1567180506348">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567180155023" ID="ID_1684820445" MODIFIED="1567989092443">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      processo completo de an&#225;lise e avalia&#231;&#227;o de riscos
+      processo completo de an&#225;lise<br />&#160;e avalia&#231;&#227;o de riscos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180061009" FOLDED="true" ID="ID_490440139" MODIFIED="1567180512488" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180061009" ID="ID_490440139" MODIFIED="1567989093457" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -572,7 +551,7 @@
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180080928" FOLDED="true" ID="ID_1165895404" MODIFIED="1567180512016" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180080928" ID="ID_1165895404" MODIFIED="1567989116136" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -602,7 +581,7 @@
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180092613" FOLDED="true" ID="ID_293036927" MODIFIED="1567180511416" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567180092613" ID="ID_293036927" MODIFIED="1567989219853" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -625,8 +604,7 @@
       processo de sele&#231;&#227;o e implementa&#231;&#227;o de medidas<br />&#160;para modificar um risco
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
@@ -656,8 +634,7 @@
       ao SGSI da organiza&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>

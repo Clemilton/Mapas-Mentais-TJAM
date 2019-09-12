@@ -13,7 +13,7 @@
 </html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567094402288" ID="ID_235350864" MODIFIED="1567099480400" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567094402288" FOLDED="true" ID="ID_235350864" MODIFIED="1567619535883" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -45,7 +45,7 @@
 </html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567094406044" MODIFIED="1567097668665">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567094406044" ID="ID_1313492178" MODIFIED="1567097668665">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -67,7 +67,7 @@
 </html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567094462473" MODIFIED="1567097668670">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567094462473" ID="ID_1484523916" MODIFIED="1567097668670">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -86,7 +86,7 @@
 </html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567094495518" MODIFIED="1567099481622">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567094495518" FOLDED="true" ID="ID_1054822650" MODIFIED="1567619534531">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -113,7 +113,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#feab2a" CREATED="1567094297264" FOLDED="true" ID="ID_137007252" MODIFIED="1567183191515" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#feab2a" CREATED="1567094297264" ID="ID_137007252" MODIFIED="1568301436981" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -151,7 +151,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
-<node CREATED="1567097761425" MODIFIED="1567099350950">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1567097761425" ID="ID_583434610" MODIFIED="1568301915704">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -162,10 +162,214 @@
     </p>
   </body>
 </html></richcontent>
-<edge STYLE="linear" WIDTH="1"/>
+<edge STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568301567879" ID="ID_1787088002" MODIFIED="1568301915705">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Tarefa &#233; caracterizada como
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568301639555" ID="ID_1038224932" MODIFIED="1568301915706">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;uma atividade cont&#237;nua;
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1567097765230" MODIFIED="1567099350953">
+<node CREATED="1568301645605" ID="ID_1574600706" MODIFIED="1568301915707">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;executada por uma mesma equipe;
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568301651354" ID="ID_208610172" MODIFIED="1568301915707">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      com in&#237;cio e fim definidos no tempo
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568301755517" ID="ID_1081034101" MODIFIED="1568301915708">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      As vincula&#231;&#245;es entre duas tarefas
+    </p>
+    <p style="text-align: center">
+      podem ser
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568301775826" ID="ID_99453928" MODIFIED="1568301921777">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      T&#233;rmino-In&#237;cio
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568301812579" ID="ID_43651674" MODIFIED="1568301930448" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Uma tarefa s&#243; inicia quando sua antecessora &#233;
+    </p>
+    <p>
+      conclu&#237;da
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568301782086" ID="ID_357810483" MODIFIED="1568301921776">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      In&#237;cio-In&#237;cio
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568301829978" ID="ID_1323272300" MODIFIED="1568301930448" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Uma tarefa s&#243; pode iniciar quando outra vinculada
+    </p>
+    <p>
+      a ela se inicia
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568301789481" ID="ID_84597161" MODIFIED="1568301921776">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      T&#233;rmino-In&#237;cio/retardado
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568301862173" ID="ID_585153999" MODIFIED="1568301930447" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Uma tarefa s&#243; inicia ap&#243;s X intervalos de tempo do
+    </p>
+    <p>
+      t&#233;rmino de outra tarefa
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568301799715" ID="ID_1820807559" MODIFIED="1568301921775">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      In&#237;cio-in&#237;cio/retardado
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568301890026" ID="ID_1800193877" MODIFIED="1568301930446" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Uma tarefa s&#243; inicia ap&#243;s X intervalos de tempo
+    </p>
+    <p>
+      do in&#237;cio de outra tarefa
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1567097765230" ID="ID_878195034" MODIFIED="1567099350953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -178,7 +382,7 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
-<node CREATED="1567099403851" MODIFIED="1567099431441" STYLE="bubble">
+<node CREATED="1567099403851" ID="ID_1517984796" MODIFIED="1567099431441" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -193,7 +397,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567097788822" MODIFIED="1567182744779">
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567097788822" ID="ID_666842071" MODIFIED="1568301444053">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -209,7 +413,7 @@
 </html></richcontent>
 <edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="12"/>
-<node CREATED="1567098780024" MODIFIED="1567182823080" VSHIFT="25">
+<node CREATED="1567098780024" ID="ID_1909489103" MODIFIED="1567182823080" VSHIFT="25">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -222,14 +426,14 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1567098818313" MODIFIED="1567099363834" STYLE="bubble">
+<node CREATED="1567098818313" ID="ID_1049508160" MODIFIED="1567390201786" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#201; um conjunto de atividades, logicamente
+      &#201; um <b>conjunto de atividades</b>, logicamente
     </p>
     <p>
       relacionadas.
@@ -252,7 +456,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567098783540" MODIFIED="1567182770194">
+<node CREATED="1567098783540" HGAP="23" ID="ID_932456608" MODIFIED="1567390117954" VSHIFT="13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -278,7 +482,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1567098911817" MODIFIED="1567099363830" STYLE="bubble">
+<node CREATED="1567098911817" ID="ID_625737039" MODIFIED="1567099363830" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -291,7 +495,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1567098931558" MODIFIED="1567099363829" STYLE="bubble">
+<node CREATED="1567098931558" ID="ID_766737274" MODIFIED="1567099363829" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -307,7 +511,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1567098971128" MODIFIED="1567099363827" STYLE="bubble">
+<node CREATED="1567098971128" ID="ID_1771598697" MODIFIED="1567099363827" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -321,7 +525,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567098804577" MODIFIED="1567182819851">
+<node CREATED="1567098804577" ID="ID_1032919068" MODIFIED="1567552177502" VSHIFT="10">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -334,7 +538,7 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1567099088368" MODIFIED="1567099363825" STYLE="bubble">
+<node CREATED="1567099088368" ID="ID_224630428" MODIFIED="1567099363825" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -351,7 +555,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567099129029" HGAP="23" MODIFIED="1567182813543" STYLE="fork" VSHIFT="37">
+<node CREATED="1567099129029" HGAP="23" ID="ID_1927949551" MODIFIED="1568303833323" STYLE="fork" VSHIFT="37">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -364,7 +568,7 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1567099140905" MODIFIED="1567099376344" STYLE="fork">
+<node CREATED="1567099140905" ID="ID_1558180629" MODIFIED="1567099376344" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -377,7 +581,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567099547342" MODIFIED="1567182916151">
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567099547342" ID="ID_1251522075" MODIFIED="1567618874028">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -393,7 +597,7 @@
 </html></richcontent>
 <edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
 <font NAME="Roboto" SIZE="12"/>
-<node CREATED="1567182868118" MODIFIED="1567182875233" STYLE="bubble">
+<node CREATED="1567182868118" ID="ID_392255438" MODIFIED="1567182875233" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -410,7 +614,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567099672979" FOLDED="true" MODIFIED="1567182992713">
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1567099672979" ID="ID_308656476" MODIFIED="1568303847441">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -438,7 +642,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1567099711223" MODIFIED="1567099751977" STYLE="bubble">
+<node CREATED="1567099711223" ID="ID_1809348801" MODIFIED="1567099751977" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -459,7 +663,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1567100662178" MODIFIED="1567100684227" STYLE="bubble">
+<node CREATED="1567100662178" ID="ID_1870310116" MODIFIED="1567100684227" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -471,7 +675,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1567099756868" MODIFIED="1567100331185">
+<node CREATED="1567099756868" ID="ID_186415244" MODIFIED="1567100331185">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -512,7 +716,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567099770362" MODIFIED="1567100334609">
+<node CREATED="1567099770362" ID="ID_982461800" MODIFIED="1567100334609">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -547,7 +751,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567099779524" MODIFIED="1567100337481">
+<node CREATED="1567099779524" ID="ID_1074396838" MODIFIED="1567100337481">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -594,7 +798,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="full-4"/>
-<node CREATED="1567099993261" MODIFIED="1567100309325" STYLE="bubble">
+<node CREATED="1567099993261" ID="ID_409857785" MODIFIED="1567100309325" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -614,7 +818,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567099787729" MODIFIED="1567100342033">
+<node CREATED="1567099787729" ID="ID_472458459" MODIFIED="1567100342033">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -626,7 +830,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="full-5"/>
-<node CREATED="1567100056658" MODIFIED="1567100309324" STYLE="bubble">
+<node CREATED="1567100056658" ID="ID_569137095" MODIFIED="1567100309324" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -649,7 +853,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1567099793681" MODIFIED="1567100343977">
+<node CREATED="1567099793681" ID="ID_1513356750" MODIFIED="1567100343977">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -661,7 +865,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="full-6"/>
-<node CREATED="1567100184579" MODIFIED="1567100309323" STYLE="bubble">
+<node CREATED="1567100184579" ID="ID_683992141" MODIFIED="1567100309323" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -717,7 +921,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567100486132" MODIFIED="1567182994063">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567100486132" ID="ID_516753225" MODIFIED="1568303945051">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -730,7 +934,7 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567100802676" MODIFIED="1567101084754">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567100802676" ID="ID_194349555" MODIFIED="1567101084754">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -746,7 +950,7 @@
 </html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567100885827" HGAP="23" MODIFIED="1567183064386" VSHIFT="13">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567100885827" HGAP="23" ID="ID_1273001961" MODIFIED="1567183064386" VSHIFT="13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -771,7 +975,7 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
-<node CREATED="1567100910706" MODIFIED="1567101084754" STYLE="bubble">
+<node CREATED="1567100910706" ID="ID_443107264" MODIFIED="1567101084754" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -784,7 +988,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1567100937235" MODIFIED="1567101084754" STYLE="bubble">
+<node CREATED="1567100937235" ID="ID_510218904" MODIFIED="1567101084754" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -811,7 +1015,7 @@
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
-<node CREATED="1567100965545" MODIFIED="1567183051705" STYLE="bubble" VSHIFT="1">
+<node CREATED="1567100965545" ID="ID_1331549341" MODIFIED="1567183051705" STYLE="bubble" VSHIFT="1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -824,7 +1028,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1567100984404" MODIFIED="1567183054227" STYLE="bubble" VSHIFT="12">
+<node CREATED="1567100984404" ID="ID_1952451288" MODIFIED="1567183054227" STYLE="bubble" VSHIFT="12">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -839,7 +1043,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567101059205" MODIFIED="1567101092163">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567101059205" ID="ID_1196325452" MODIFIED="1568303851265">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -852,7 +1056,7 @@
 </html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1567101181387" MODIFIED="1567101188085">
+<node CREATED="1567101181387" ID="ID_978199610" MODIFIED="1567101188085">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -862,7 +1066,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1567101202749" MODIFIED="1567101365817" STYLE="bubble">
+<node CREATED="1567101202749" ID="ID_1236159675" MODIFIED="1567101365817" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -876,8 +1080,178 @@
 </node>
 </node>
 </node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1568303945546" ID="ID_1328451501" MODIFIED="1568304167883">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Atributos Especiais
+    </p>
+    <p style="text-align: center">
+      (Marcadores)
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568303950408" ID="ID_1648858720" MODIFIED="1568304167884">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Looping
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568304054567" ID="ID_1844902679" MODIFIED="1568304167885">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A tarefa ou subprocesso &#233; repetida(o);
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1567094305672" ID="ID_1603099806" MODIFIED="1567183229030" POSITION="right">
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568303989052" ID="ID_1616843784" MODIFIED="1568304167887">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ad Hoc
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568304073520" ID="ID_1749038050" MODIFIED="1568304167888">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cont&#233;m tarefas que n&#227;o possuem um Fluxo Espec&#237;fico
+    </p>
+    <p>
+      (ou ordem de ocorr&#234;ncia)
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568304105635" ID="ID_1028837848" MODIFIED="1568304167890">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      N&#227;o podem ser conectadas com fluxos de sequ&#234;ncia
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568303992460" ID="ID_203088493" MODIFIED="1568304167893">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Inst&#226;ncias m&#250;ltiplas
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568304126466" ID="ID_34843785" MODIFIED="1568304167896">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ser&#227;o criadas inst&#226;ncias m&#250;ltiplas da tarefa
+    </p>
+    <p>
+      ou subprocesso
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568304002776" ID="ID_1437746868" MODIFIED="1568304167897">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Compensa&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568304145760" ID="ID_540812307" MODIFIED="1568304167898">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Representa uma tarefa ou subprocesso de
+    </p>
+    <p>
+      compensa&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568304006242" ID="ID_1803887695" MODIFIED="1568304174240" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="marcadores_processos.png" />
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1567094305672" FOLDED="true" ID="ID_1603099806" MODIFIED="1567619528283" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -903,42 +1277,10 @@
       neg&#243;cio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
-<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1567183328522" ID="ID_146333741" MODIFIED="1567183425151">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Afetam o fluxo do processo e geralmente tem uma causa(<b>gatilho</b>)
-    </p>
-    <p>
-      ou impacto(<b>resultado</b>)
-    </p>
-  </body>
-</html>
-</richcontent>
-<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
-</node>
-<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1567183377055" ID="ID_1578142603" MODIFIED="1567183425152">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      S&#227;o representados por c&#237;rculos vazados p/ emitir sinaliza&#231;&#227;o<br />que identificar&#227;o os gatilhos ou resultados
-    </p>
-  </body>
-</html>
-</richcontent>
-<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
-</node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567183319349" ID="ID_1831022954" MODIFIED="1567183647309">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567183319349" FOLDED="true" ID="ID_1831022954" MODIFIED="1567619527555">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -954,8 +1296,7 @@
       EVENTOS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567183456529" ID="ID_1414196049" MODIFIED="1567183647310" STYLE="fork">
@@ -968,8 +1309,7 @@
       eventos de in&#237;cio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -983,8 +1323,7 @@
       eventos intermedi&#225;rios
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -998,12 +1337,11 @@
       eventos de fim
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567183528328" ID="ID_559345060" MODIFIED="1567183647311">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567183528328" FOLDED="true" ID="ID_559345060" MODIFIED="1567619526979">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1013,8 +1351,7 @@
       Imagem
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567183572643" ID="ID_839135039" MODIFIED="1567183647317">
@@ -1025,28 +1362,32 @@
   <body>
     <img src="eventos_tipos.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567183690850" ID="ID_719979767" MODIFIED="1567183696115">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567183690850" FOLDED="true" ID="ID_719979767" MODIFIED="1567619521028">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Gatilhos
+      <b>Gatilhos </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Especifica uma causa do processo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
-<font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183697050" ID="ID_1429325139" MODIFIED="1567184263771">
+<font NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183697050" ID="ID_1429325139" MODIFIED="1567187917129">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1056,8 +1397,7 @@
       Abstrato ou simples
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567183804621" ID="ID_634733296" MODIFIED="1567184282550" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1069,8 +1409,7 @@
       o evento n&#227;o possui um gatilho definido
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1082,13 +1421,12 @@
   <body>
     <img src="gatilho01.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183704385" ID="ID_1281656031" MODIFIED="1567184263774">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183704385" ID="ID_1281656031" MODIFIED="1567187918673">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1098,8 +1436,7 @@
       Mensagem
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567183814598" ID="ID_1826176098" MODIFIED="1567184282547" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1114,8 +1451,7 @@
       in&#237;cio do processo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1127,13 +1463,12 @@
   <body>
     <img src="gatilho02.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183707229" ID="ID_937956443" MODIFIED="1567184263778">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183707229" ID="ID_937956443" MODIFIED="1567187920073">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1143,8 +1478,7 @@
       Temporizador
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567183834782" ID="ID_1745528277" MODIFIED="1567184282544" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1162,8 +1496,7 @@
       (ex: toda segunda &#224;s 9:00h)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1175,13 +1508,12 @@
   <body>
     <img src="gatilho03.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183713259" ID="ID_43913076" MODIFIED="1567184263781">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183713259" ID="ID_43913076" MODIFIED="1567187921786">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1191,8 +1523,7 @@
       Condicional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567183886237" ID="ID_852871319" MODIFIED="1567184282541" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1213,8 +1544,7 @@
       (ex: &quot;temperatura acima de 300&#186; C&quot;)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1226,13 +1556,12 @@
   <body>
     <img src="gatilho04.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183716410" ID="ID_1294099324" MODIFIED="1567184263786">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183716410" ID="ID_1294099324" MODIFIED="1567187923435">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1242,8 +1571,7 @@
       Sinal
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567183987103" ID="ID_881992019" MODIFIED="1567184282537" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1255,8 +1583,7 @@
       um sinal transmitido por outro processo dispara o in&#237;cio do<br />processo recebedor do sinal
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1268,13 +1595,12 @@
   <body>
     <img src="gatilho05.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183721062" ID="ID_986673586" MODIFIED="1567184263789">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183721062" ID="ID_986673586" MODIFIED="1567187925732">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1284,8 +1610,7 @@
       M&#250;ltiplo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567184013482" ID="ID_1520826166" MODIFIED="1567184282535" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1297,8 +1622,7 @@
       v&#225;rias formas podem disparar o in&#237;cio do processo, mas apenas<br />uma delas &#233; requerida
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1310,13 +1634,12 @@
   <body>
     <img src="gatilho06.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183728174" ID="ID_747128341" MODIFIED="1567184263794">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567183728174" ID="ID_747128341" MODIFIED="1567187928453">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1326,8 +1649,7 @@
       M&#250;ltiplo paralelo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567184047225" ID="ID_1841576726" MODIFIED="1567184282533" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1339,8 +1661,7 @@
       isso significa&#160;&#160;que existem v&#225;rios gatilhos REQUERIDOS antes<br />que o processo possa ser instanciado
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1352,10 +1673,618 @@
   <body>
     <img src="gatilho07.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#2d6060" CREATED="1567189301614" FOLDED="true" ID="ID_607514022" MODIFIED="1567619519427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Combina&#231;&#245;es de<br />Eventos/Gatilhos
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1567189371310" ID="ID_1692186775" MODIFIED="1567189457799">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="matriz_gatilhos.png" />
+  </body>
+</html></richcontent>
+<edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567189554002" ID="ID_1804236387" MODIFIED="1567424382923" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Gateways (Desvios)
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189655543" ID="ID_285180549" MODIFIED="1567424382925">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#201; usado p/ dividir ou juntar fluxos de processos
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189683806" ID="ID_802187668" MODIFIED="1567424382928">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Permite representar divis&#227;o em alternativas<br />ou em caminhos paralelos
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node CREATED="1567428284565" ID="ID_1872721558" MODIFIED="1567552313107">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="resumo_gateways.png" />
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1567189716493" ID="ID_423134931" MODIFIED="1567425475639" TEXT="TIpos">
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189719558" ID="ID_1656661045" MODIFIED="1567619665026" TEXT="Exclusivo">
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567189759801" ID="ID_855350628" MODIFIED="1567425475642">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      cria caminhos alternativos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567189769268" ID="ID_1441055246" MODIFIED="1567425475643">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      apenas um dos caminhos pode ser usado
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567424429495" ID="ID_744713789" MODIFIED="1567425475644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Representa&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567424485087" ID="ID_240818637" MODIFIED="1567424499863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_exclusivo.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189778494" HGAP="19" ID="ID_1647589812" MODIFIED="1567553950199" VSHIFT="18">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      baseado em<br />eventos
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567426798090" ID="ID_669786785" MODIFIED="1567426869049">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      o processo fica aguardando at&#233; que determinado
+    </p>
+    <p>
+      evento aconte&#231;a
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567426820259" ID="ID_1395445475" MODIFIED="1567426885402" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ex: passagem de tempo
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567426885403" ID="ID_1390358984" MODIFIED="1567426902794" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      recebimento de uma mensagem
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567426897049" ID="ID_1690207399" MODIFIED="1567426902793" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      atendimento de uma condi&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1567424960319" ID="ID_1033079414" MODIFIED="1567425475651">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      esses eventos geralmente s&#227;o disparados
+    </p>
+    <p>
+      por terceiros
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567424434559" ID="ID_305849651" MODIFIED="1567427654094">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Representa&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567424540990" ID="ID_861076684" MODIFIED="1567424554558">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_eventos.png" />
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1567424752463" ID="ID_1217139319" MODIFIED="1567424756125">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_response02.png" />
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1567425224282" ID="ID_1944145781" MODIFIED="1567425544864">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      quando um evento ocorre os
+    </p>
+    <p>
+      demais s&#227;o desabilitados
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189808729" HGAP="30" ID="ID_1366506840" MODIFIED="1568299841757" VSHIFT="26">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Paralelo baseado<br />&#160;em eventos
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567425035905" ID="ID_1644081781" MODIFIED="1567425475655">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      tamb&#233;m &#233; disparado por eventos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567425090382" ID="ID_1137479917" MODIFIED="1567425475656">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      entretanto, quando um evento ocorre, os outros
+    </p>
+    <p>
+      eventos n&#227;o s&#227;o desabilitados
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567425120443" ID="ID_30926861" MODIFIED="1567425475658">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Espera-se que os outros eventos sejam acionados
+    </p>
+    <p>
+      antes que o processo possa concluir
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567424439823" ID="ID_1833237062" MODIFIED="1567427648960">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Representa&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567424542400" ID="ID_1425404003" MODIFIED="1567424582254">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_eventos_par.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189825451" HGAP="25" ID="ID_469551243" MODIFIED="1567426988752" VSHIFT="22">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Inclusivo
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567427110068" ID="ID_1848132802" MODIFIED="1567427311096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      a sele&#231;&#227;o de um caminho n&#227;o exclui outro
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567425270701" ID="ID_1530549468" MODIFIED="1567425539673">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      todas as express&#245;es de condi&#231;&#227;o
+    </p>
+    <p>
+      s&#227;o avaliadas
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567427129507" ID="ID_1983580794" MODIFIED="1567427311095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      todos os fluxos devem se completar
+    </p>
+    <p>
+      antes da sa&#237;da
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567425302335" ID="ID_1479394950" MODIFIED="1567425539672" TEXT="oposto ao exclusivo">
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567424444595" ID="ID_1681411881" MODIFIED="1567427669521" TEXT="Representa&#xe7;&#xe3;o">
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567424543781" ID="ID_1482807633" MODIFIED="1567424605663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_inclusivo.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189832578" HGAP="23" ID="ID_253925583" MODIFIED="1567426991650" VSHIFT="17">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Complexo
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567427184773" ID="ID_969957017" MODIFIED="1567427315400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      cen&#225;rios de fluxos de processo complicados
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567427193500" ID="ID_1785226819" MODIFIED="1567427315399">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sincroniza fluxos mediante express&#245;es declaradas
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567427217160" ID="ID_373741031" MODIFIED="1567427323383" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ex: Uma condi&#231;&#227;o pode ser definida para que o gateway
+    </p>
+    <p>
+      seja ativado com no m&#237;nimo 03, de 05 fluxos que
+    </p>
+    <p>
+      chegam no gateway
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1567425309724" ID="ID_807859143" MODIFIED="1567425531783">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pode ser usado p/ modelar o comportamento<br />&#160;de sincroniza&#231;&#227;o bem espec&#237;fico
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567424449066" ID="ID_1907987278" MODIFIED="1567427672040">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Representa&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567424544855" ID="ID_1931607168" MODIFIED="1567424646025">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_complexo.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1567189836403" HGAP="15" ID="ID_405990590" MODIFIED="1567426994032" VSHIFT="39">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Paralelo
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567425407228" ID="ID_917508831" MODIFIED="1567425528992">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sincronizar/criar fluxos paralelos
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567425430533" ID="ID_281287931" MODIFIED="1568299858887">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000">n&#227;o verifica condi&#231;&#245;es</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1567427026470" ID="ID_833927162" MODIFIED="1567427050768">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="2">todos os caminhos s&#227;o executados </font><br /><font size="2">concorrentemente</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1567424452607" ID="ID_772295866" MODIFIED="1567427545340">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Representa&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567424547914" ID="ID_1221992178" MODIFIED="1567424650925">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="gat_paralelo.png" />
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 </node>

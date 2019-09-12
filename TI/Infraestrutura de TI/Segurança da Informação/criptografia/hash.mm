@@ -42,8 +42,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565707258138" ID="ID_1045221664" MODIFIED="1565973158141" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>

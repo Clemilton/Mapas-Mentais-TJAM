@@ -498,8 +498,7 @@
       Principais Pontos<br />das Atribui&#231;&#245;es
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1566400352201" ID="ID_1050639368" MODIFIED="1567018143380">
@@ -538,8 +537,7 @@
       <b>&#160;ou </b><br /><b>estabelecimentos prisionais</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1566491774381" ID="ID_458769453" MODIFIED="1567018166130">
@@ -704,8 +702,7 @@
       <b>Receber, processar e decidir as </b><br /><b>reclama&#231;&#245;es contra serventu&#225;rios</b><br /><b>&#160;da justi&#231;a</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -719,13 +716,12 @@
       <b>Propor ao Tribunal declara&#231;&#227;o de </b><br /><b>regime de exce&#231;&#227;o de qualquer</b><br /><b>&#160;Comarca</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#8600b9" COLOR="#990099" CREATED="1566400511870" ID="ID_1777439859" MODIFIED="1567018809403">
+<node BACKGROUND_COLOR="#8600b9" COLOR="#990099" CREATED="1566400511870" ID="ID_1777439859" MODIFIED="1567195547140">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -738,6 +734,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
 <node BACKGROUND_COLOR="#7779f8" COLOR="#0033ff" CREATED="1566400580400" ID="ID_1145533508" MODIFIED="1567018842011">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -900,7 +897,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#990099" COLOR="#990099" CREATED="1566400832288" FOLDED="true" HGAP="22" ID="ID_285011578" MODIFIED="1566516649399" VSHIFT="13">
+<node BACKGROUND_COLOR="#990099" COLOR="#990099" CREATED="1566400832288" HGAP="22" ID="ID_285011578" MODIFIED="1567195284168" VSHIFT="13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -912,7 +909,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400850411" FOLDED="true" ID="ID_599939067" MODIFIED="1566516647294">
+<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400850411" ID="ID_599939067" MODIFIED="1567195813339">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -971,7 +968,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400865055" FOLDED="true" HGAP="23" ID="ID_1090457916" MODIFIED="1566490609612" VSHIFT="19">
+<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400865055" HGAP="23" ID="ID_1090457916" MODIFIED="1567195834525" VSHIFT="19">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1023,7 +1020,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400872989" FOLDED="true" HGAP="23" ID="ID_825756388" MODIFIED="1566490606519" VSHIFT="31">
+<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400872989" HGAP="23" ID="ID_825756388" MODIFIED="1567195827659" VSHIFT="31">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1106,47 +1103,18 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-</node>
-<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400850411" ID="ID_731754429" MODIFIED="1566401660831">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Correi&#231;&#227;o Parcial
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1566401098005" ID="ID_1181110516" MODIFIED="1566489620634">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &gt; Ter&#227;o por objeto a averigua&#231;&#227;o dos fatos que as determinarem,<br />aplicando-se-lhes os mesmos preceitos das gerais, no que for
-    </p>
-    <p>
-      cab&#237;vel.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node COLOR="#990099" CREATED="1566489831015" ID="ID_1920288895" MODIFIED="1566491102760">
+<node COLOR="#990099" CREATED="1566489831015" ID="ID_1920288895" MODIFIED="1567195986851">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      As correi&#231;&#245;es gerais ser&#227;o<br />realizadas na sede da Comarca
+      ser&#227;o realizadas na<br />sede da Comarca
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#338800" CREATED="1566489862028" ID="ID_1277892944" MODIFIED="1566490469242">
 <richcontent TYPE="NODE"><html>
@@ -1334,6 +1302,36 @@
 </node>
 </node>
 </node>
+<node BACKGROUND_COLOR="#ecbefd" CREATED="1566400850411" ID="ID_731754429" MODIFIED="1566401660831">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Correi&#231;&#227;o Parcial
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#0033ff" CREATED="1566401098005" ID="ID_1181110516" MODIFIED="1566489620634">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Ter&#227;o por objeto a averigua&#231;&#227;o dos fatos que as determinarem,<br />aplicando-se-lhes os mesmos preceitos das gerais, no que for
+    </p>
+    <p>
+      cab&#237;vel.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
 <node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1566491163409" ID="ID_1274375168" MODIFIED="1566516637680">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1347,7 +1345,7 @@
 </html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491504025" FOLDED="true" ID="ID_1510138809" MODIFIED="1567018854173">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491504025" ID="ID_1510138809" MODIFIED="1567196177222">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1372,7 +1370,7 @@
 <edge COLOR="#fe4f4f" STYLE="sharp_linear" WIDTH="2"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491530407" FOLDED="true" ID="ID_433279825" MODIFIED="1566516637687">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491530407" ID="ID_433279825" MODIFIED="1567196194195">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1398,7 +1396,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491704370" FOLDED="true" ID="ID_1227476925" MODIFIED="1566516637691">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#ff4e4e" CREATED="1566491704370" ID="ID_1227476925" MODIFIED="1567196196254">
 <richcontent TYPE="NODE"><html>
   <head>
     

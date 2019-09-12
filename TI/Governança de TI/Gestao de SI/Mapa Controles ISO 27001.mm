@@ -16,7 +16,7 @@
 </html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567113347140" FOLDED="true" ID="ID_1754138138" MODIFIED="1567171468320" POSITION="right" STYLE="bubble" TEXT="Conceitos Iniciais">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567113347140" ID="ID_1754138138" MODIFIED="1567630866857" POSITION="right" STYLE="bubble" TEXT="Conceitos Iniciais">
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1567113353431" ID="ID_991414329" MODIFIED="1567113505797">
@@ -51,7 +51,7 @@
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node COLOR="#606060" CREATED="1566949723838" FOLDED="true" ID="ID_410041837" MODIFIED="1567170413267" POSITION="right">
+<node COLOR="#606060" CREATED="1566949723838" ID="ID_410041837" MODIFIED="1567989951645" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -64,19 +64,21 @@
 </html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1566949751412" ID="ID_1224525239" MODIFIED="1566950933249">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1566949751412" ID="ID_1224525239" MODIFIED="1567990087523">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      A.5.1 Pol&#237;tica de Seguran&#231;a da Informa&#231;&#227;o
+      A.5.1 Pol&#237;tica de SI
     </p>
   </body>
-</html></richcontent>
-<edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
-<node CREATED="1566949780511" ID="ID_1035752367" MODIFIED="1566950933254">
+</html>
+</richcontent>
+<edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566949780511" ID="ID_1035752367" MODIFIED="1567990087524" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -93,10 +95,10 @@
     </p>
   </body>
 </html></richcontent>
-<edge STYLE="linear" WIDTH="1"/>
-<font NAME="SansSerif" SIZE="10"/>
+<edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1566950085025" ID="ID_1303415134" MODIFIED="1566950933256">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566950085025" ID="ID_1303415134" MODIFIED="1567990087525" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -107,9 +109,9 @@
     </p>
   </body>
 </html></richcontent>
-<edge STYLE="linear" WIDTH="1"/>
-<font NAME="SansSerif" SIZE="10"/>
-<node CREATED="1566950241866" ID="ID_305184795" MODIFIED="1566950395638">
+<edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1566950241866" ID="ID_305184795" MODIFIED="1567990085134">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -120,9 +122,11 @@
     </p>
   </body>
 </html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1566950107384" ID="ID_456837207" MODIFIED="1566950933257">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566950107384" ID="ID_456837207" MODIFIED="1567990087525" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -133,8 +137,125 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1567989996918" ID="ID_1354402885" MODIFIED="1567990085136">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A pol&#237;tica de SI deve ser
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567990012069" ID="ID_1143432040" MODIFIED="1567990097711">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      analisada criticamente
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567990019026" ID="ID_197670158" MODIFIED="1567990097710">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      a intervalos planejados
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567990029559" ID="ID_733446481" MODIFIED="1567990097710">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      ou quando mudan&#231;as signi-
+    </p>
+    <p style="text-align: center">
+      ficativas ocorrerem
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1567990046198" ID="ID_688589330" MODIFIED="1567990085136">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      p/ assegurar
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567990056813" ID="ID_1649444750" MODIFIED="1567990097709">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pertin&#234;ncia
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567990066032" ID="ID_67421163" MODIFIED="1567990097709">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      adequa&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567990070578" ID="ID_1787002943" MODIFIED="1567990097708">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Efic&#225;cia
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -152,7 +273,7 @@
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
-<node COLOR="#606060" CREATED="1566950929122" ID="ID_353249379" MODIFIED="1567170487435" POSITION="right">
+<node COLOR="#606060" CREATED="1566950929122" ID="ID_353249379" MODIFIED="1567980946651" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -321,7 +442,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
-<node CREATED="1567113696522" ID="ID_637536489" MODIFIED="1567113722690">
+<node CREATED="1567113696522" ID="ID_637536489" MODIFIED="1567629561744">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -342,7 +463,7 @@
   </body>
 </html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
-<font NAME="SansSerif" SIZE="10"/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1567168506713" ID="ID_1596822013" MODIFIED="1567168522394">
 <richcontent TYPE="NODE"><html>
@@ -355,6 +476,28 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1567629526454" ID="ID_664213585" MODIFIED="1567629610737" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Controle
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; A informa&#231;&#227;o deve ser classificada em termos do seu valor,
+    </p>
+    <p>
+      requisitos legais, sensibilidade e criticidade p/ organiza&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
 </node>
 <node CREATED="1567168522778" ID="ID_1641834649" MODIFIED="1567168540515">
 <richcontent TYPE="NODE"><html>
@@ -383,6 +526,74 @@
 </html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node CREATED="1567989712246" ID="ID_155604453" MODIFIED="1567989724594">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.8.1 - Antes da Contrata&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1567989725255" ID="ID_1598394719" MODIFIED="1567989735604">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.8.2 - Durante a Contrata&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1567989816735" ID="ID_1067658436" MODIFIED="1567989829968">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.8.2.1 - Responsabilidades da Dire&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1567989830481" ID="ID_115310921" MODIFIED="1567989852924">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.8.2.2 - Conscientiza&#231;&#227;o, educa&#231;&#227;o e treinamento
+    </p>
+    <p>
+      em S.I
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1567989736240" ID="ID_1352359895" MODIFIED="1567989758817">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.8.3 - Encerramento ou mudan&#231;a<br />da Contrata&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node COLOR="#606060" CREATED="1566950979009" ID="ID_1211142394" MODIFIED="1566951150686" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -398,7 +609,7 @@
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
-<node COLOR="#606060" CREATED="1566951022171" FOLDED="true" ID="ID_1884649253" MODIFIED="1567170426438" POSITION="right">
+<node COLOR="#606060" CREATED="1566951022171" ID="ID_1884649253" MODIFIED="1567981003726" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -411,18 +622,87 @@
 </html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1567168015873" ID="ID_1337774420" MODIFIED="1567170426438">
+<node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1567168015873" ID="ID_1337774420" MODIFIED="1567981137164">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      A.10.1 - Procedimentos e<br />Responsabilidades Operacionais
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
+<node CREATED="1567981138084" ID="ID_756063239" MODIFIED="1567981172825">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      A.10.1 - Procedimentos e responsabilidades Operacionais
+      Objetivo: Garantir a opera&#231;&#227;o segura e correta dos recursos
+    </p>
+    <p>
+      de processamento da informa&#231;&#227;o
     </p>
   </body>
-</html></richcontent>
-<edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567981180270" ID="ID_1149478203" MODIFIED="1567981453844">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.10.1.1 - Documenta&#231;&#227;o dos procedimentos
+    </p>
+    <p>
+      de Opera&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567981376663" ID="ID_193248267" MODIFIED="1567981453846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.10.1.2 - Gest&#227;o de mudan&#231;as
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567981390990" ID="ID_957744310" MODIFIED="1567981462469" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Controle de modifica&#231;&#245;es nos recursos
+    </p>
+    <p>
+      de processamento da informa&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
 </node>
 <node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1567168036385" ID="ID_1627550919" MODIFIED="1567170426438">
 <richcontent TYPE="NODE"><html>
@@ -449,6 +729,64 @@
   </body>
 </html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
+<node CREATED="1567981026884" ID="ID_1087170320" MODIFIED="1567981148836">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Objetivo: Minizar o risco de falhas no sistema
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567981055715" ID="ID_1570858744" MODIFIED="1567981148837">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.10.3.1 - Gest&#227;o de Capacidade
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567981071088" ID="ID_188185413" MODIFIED="1567981469792" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Monitorar/sincronizar utiliza&#231;&#227;o de recursos
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1567981098511" ID="ID_1494846001" MODIFIED="1567981469791" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      proje&#231;&#245;es de capacidade futura
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
 </node>
 <node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1567168085087" ID="ID_1790353273" MODIFIED="1567170426438">
 <richcontent TYPE="NODE"><html>
@@ -741,7 +1079,7 @@
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
-<node COLOR="#606060" CREATED="1566951104468" ID="ID_1331405538" MODIFIED="1566951150709" POSITION="left">
+<node COLOR="#606060" CREATED="1566951104468" ID="ID_1331405538" MODIFIED="1567980800105" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -754,8 +1092,80 @@
 </html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1567630232232" ID="ID_1576320976" MODIFIED="1567630439266">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.13.2 - Gest&#227;o de incidentes de SI e melhorias
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
+<node CREATED="1567630295816" ID="ID_1214905822" MODIFIED="1567630439267">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Objetivo
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Assegurar que um enfoque consistente e efetivo seja<br />aplicado &#224; gest&#227;o de incidentes de S.I.
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#606060" CREATED="1566951123598" ID="ID_34746686" MODIFIED="1566951150715" POSITION="left">
+<node CREATED="1567630332447" ID="ID_1946140675" MODIFIED="1567630467129">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A.13.2.1 - Responsabilidades e Procedimentos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1567630468506" ID="ID_318249453" MODIFIED="1567630512613" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Controle
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Responsabilidade e procedimentos de gest&#227;o devem ser
+    </p>
+    <p>
+      estabelecidos p/ assegurar respostas r&#225;pidas, efetivas e
+    </p>
+    <p>
+      ordenadas a incidentes de SI
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#606060" CREATED="1566951123598" FOLDED="true" ID="ID_34746686" MODIFIED="1567980785649" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -781,8 +1191,7 @@
       relativos &#224; seguran&#231;a da informa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567181589346" ID="ID_1345512873" MODIFIED="1567181728801">
 <richcontent TYPE="NODE"><html>
@@ -800,8 +1209,7 @@
       &gt; N&#227;o permitir a interrup&#231;&#227;o das atividades do neg&#243;cio e<br />proteger os processos cr&#237;ticos contra efeitos de falhas<br />ou desastres significativos, e assegurar a sua retomada<br />em tempo h&#225;bil, se for o caso.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -818,8 +1226,7 @@
       an&#225;lise/avalia&#231;&#227;o de risco
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567181703533" ID="ID_1456232703" MODIFIED="1567181740520" STYLE="bubble">
@@ -835,8 +1242,7 @@
       interrup&#231;&#245;es aos processos de neg&#243;cio, junto &#224; proba-<br />bilidade e impacto de tais interrup&#231;&#245;es e as conseq&#252;&#234;n-<br />cias para a seguran&#231;a de informa&#231;&#227;o.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
