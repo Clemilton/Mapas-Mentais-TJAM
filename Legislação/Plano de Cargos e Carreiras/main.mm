@@ -10,11 +10,10 @@
       Lei&#160;3.226 de 04.03.2008
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
-<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1568150907173" ID="ID_1017526387" MODIFIED="1568151959320" POSITION="right">
+<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1568150907173" FOLDED="true" ID="ID_1017526387" MODIFIED="1568340787565" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -24,8 +23,7 @@
       Disp&#245;e sobre
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1568150913366" ID="ID_1465111140" MODIFIED="1568151959325">
@@ -38,8 +36,7 @@
       Plano de Cargos, Carreira e Sal&#225;rios dos Servidores/Serventu&#225;rios
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
@@ -53,13 +50,12 @@
       Estabelece as diretrizes b&#225;sicas para a administra&#231;&#227;o de pessoal,<br />introduz modifica&#231;&#245;es nas normas anteriores e d&#225; outras provid&#234;ncias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1568150951727" ID="ID_1629009301" MODIFIED="1568151922424" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1568150951727" FOLDED="true" ID="ID_1629009301" MODIFIED="1568340786638" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -72,8 +68,7 @@
       Dos Princ&#237;pios Norteadores
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568151295282" ID="ID_1896901176" MODIFIED="1568151922424">
@@ -178,7 +173,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1568151458832" ID="ID_536155336" MODIFIED="1568151932389" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#303030" CREATED="1568151458832" FOLDED="true" ID="ID_536155336" MODIFIED="1568340785974" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -194,8 +189,7 @@
       do Amazonas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1568151507748" ID="ID_1153368731" MODIFIED="1568151932407">
@@ -208,8 +202,7 @@
       Org&#227;os do Poder Judici&#225;rio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1568151536407" ID="ID_604110347" MODIFIED="1568151932408">
@@ -222,8 +215,7 @@
       I - Tribunal de Justi&#231;a do Amazonas;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -237,8 +229,7 @@
       II - Corregedoria Geral de Justi&#231;a;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -252,8 +243,7 @@
       III - Auditoria Militar Estadual;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -267,8 +257,7 @@
       IV - F&#243;rum de Justi&#231;a da Capital e do Interior;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -282,29 +271,40 @@
       V - Juizados da Inf&#226;ncia e da Juventude C&#237;vel e Infracional;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1568151573105" ID="ID_484023199" MODIFIED="1568151932412">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1568151573105" ID="ID_484023199" MODIFIED="1568340216534">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      VI - Juizados Especiais C&#237;veis e Criminais e; VII - Escola da Magistratura.
+      VI - Juizados Especiais C&#237;veis e Criminais e;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node COLOR="#535353" CREATED="1568340216544" ID="ID_623697719" MODIFIED="1568340216548">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      VII - Escola da Magistratura.
+    </p>
+  </body>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1568150966640" ID="ID_1827317339" MODIFIED="1568151966952" POSITION="right">
+<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1568150966640" FOLDED="true" ID="ID_1827317339" MODIFIED="1568340783965" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -317,8 +317,7 @@
       Da Estrutura do Plano de Cargos,<br />Carreira e Sal&#225;rios
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1568151630524" ID="ID_51433164" MODIFIED="1568151981030">
@@ -334,8 +333,7 @@
       Quadro de Pessoal<br />Poder Judici&#225;rio AM
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568151667390" ID="ID_1271230077" MODIFIED="1568151966958">
@@ -351,8 +349,7 @@
       Provimento Efetivo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -369,8 +366,7 @@
       Provimento em Comiss&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -384,8 +380,7 @@
       Fun&#231;&#245;es Gratificadas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -399,8 +394,7 @@
       Cargos em Extin&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -418,8 +412,7 @@
       Dos Cargos de Provimento<br />Efetivo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568152269715" ID="ID_1564876339" MODIFIED="1568153340888">
@@ -432,8 +425,7 @@
       Art 4
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568151987338" ID="ID_1700023489" MODIFIED="1568153340889">
 <richcontent TYPE="NODE"><html>
@@ -524,7 +516,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1568152683909" ID="ID_600245873" MODIFIED="1568152769119">
+<node CREATED="1568152683909" ID="ID_600245873" MODIFIED="1568340276254">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -534,8 +526,7 @@
       natureza
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568152770013" ID="ID_1283628485" MODIFIED="1568152771866">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -546,8 +537,7 @@
       auxiliar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568152772248" ID="ID_1027558165" MODIFIED="1568152776355">
 <richcontent TYPE="NODE"><html>
@@ -559,8 +549,7 @@
       operacional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568152776710" ID="ID_1442080056" MODIFIED="1568152783585">
 <richcontent TYPE="NODE"><html>
@@ -572,8 +561,7 @@
       apoio administrativo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -591,7 +579,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1568152784816" ID="ID_1690854191" MODIFIED="1568152787236">
+<node CREATED="1568152784816" FOLDED="true" ID="ID_1690854191" MODIFIED="1568340251419">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -601,8 +589,7 @@
       natureza
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568152787629" ID="ID_72448094" MODIFIED="1568152795863">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -613,8 +600,7 @@
       t&#233;cnico-administrativa
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568152796196" ID="ID_624393209" MODIFIED="1568152801779">
 <richcontent TYPE="NODE"><html>
@@ -626,8 +612,7 @@
       apoio judici&#225;rio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -645,7 +630,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1568152803276" ID="ID_1743355902" MODIFIED="1568152805463">
+<node CREATED="1568152803276" FOLDED="true" ID="ID_1743355902" MODIFIED="1568340251420">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -655,8 +640,7 @@
       natureza
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568152808956" ID="ID_126932042" MODIFIED="1568152820242">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -667,8 +651,7 @@
       t&#233;cnica
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568152820636" ID="ID_1558884188" MODIFIED="1568152826372">
 <richcontent TYPE="NODE"><html>
@@ -680,8 +663,7 @@
       jurisdicional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -749,8 +731,7 @@
       Art 5
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568152362054" ID="ID_1602123249" MODIFIED="1568153340893">
 <richcontent TYPE="NODE"><html>
@@ -762,8 +743,7 @@
       Promo&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568152464902" ID="ID_555707924" MODIFIED="1568152554149">
@@ -776,8 +756,7 @@
       Classe (Vertical)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568152472208" ID="ID_1603835428" MODIFIED="1568152560061">
 <richcontent TYPE="NODE"><html>
@@ -789,11 +768,8 @@
       N&#237;veis (Horizontal)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1568152487924" ID="ID_1511593550" MODIFIED="1568152487924" TEXT=""/>
-<node CREATED="1568152485158" ID="ID_1908715372" MODIFIED="1568152485158" TEXT=""/>
 </node>
 </node>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568152294811" ID="ID_924957581" MODIFIED="1568153340894">
@@ -806,8 +782,7 @@
       Art 6
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568153100079" ID="ID_1725958763" MODIFIED="1568153340895">
 <richcontent TYPE="NODE"><html>
@@ -819,8 +794,7 @@
       Cargos Efetivos<br />de Carreira
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568153149687" ID="ID_654501154" MODIFIED="1568153233829">
@@ -836,8 +810,7 @@
       T&#233;cnico Judici&#225;rio Auxiliar, Analista Judici&#225;rio I
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568153235029" ID="ID_107740902" MODIFIED="1568153247694">
 <richcontent TYPE="NODE"><html>
@@ -849,8 +822,7 @@
       II - Auxiliar de Prote&#231;&#227;o, Agente de Prote&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568153249842" ID="ID_106513310" MODIFIED="1568153257750">
 <richcontent TYPE="NODE"><html>
@@ -862,8 +834,7 @@
       III - Digitador, Programador
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1568153110672" ID="ID_931439778" MODIFIED="1568153340896">
@@ -876,8 +847,7 @@
       Cargos Efetivos<br />Isolados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568153258928" ID="ID_931373916" MODIFIED="1568153272910">
@@ -890,8 +860,7 @@
       demais cargos n&#227;o citados acima
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -905,8 +874,7 @@
       Art 7
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568153295065" ID="ID_942221371" MODIFIED="1568153340898">
 <richcontent TYPE="NODE"><html>
@@ -918,8 +886,7 @@
       Piloto de Aeronave
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -933,8 +900,7 @@
       <strike>Pr&#225;tico de Barco </strike>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568153901921" ID="ID_1900049778" MODIFIED="1568153936890">
@@ -950,8 +916,7 @@
       LEI N&#186; 4.107 de 19/12/2014 Art 3&#186;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -969,8 +934,7 @@
       Dos Cargos em comiss&#227;o e<br />Fun&#231;&#245;es Gratificadas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568153415085" ID="ID_1753110005" MODIFIED="1568155513865">
@@ -983,8 +947,7 @@
       Art 8
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568154854277" ID="ID_1679036029" MODIFIED="1568155530024">
 <richcontent TYPE="NODE"><html>
@@ -996,8 +959,7 @@
       Ter&#227;o atribui&#231;&#245;es espec&#237;ficas de
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1568153447190" ID="ID_1125489807" MODIFIED="1568155547209" STYLE="bubble">
@@ -1231,8 +1193,7 @@
       Art 14
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568154918592" ID="ID_507157036" MODIFIED="1568155581895">
 <richcontent TYPE="NODE"><html>
@@ -1247,8 +1208,7 @@
       Probat&#243;rio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1568154939664" ID="ID_195922538" MODIFIED="1568155041203">
@@ -1261,8 +1221,7 @@
       poder&#225; exercer
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568155041631" ID="ID_45149232" MODIFIED="1568155580231" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1273,8 +1232,7 @@
       cargo em comiss&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568155047545" ID="ID_64496623" MODIFIED="1568155580230" STYLE="bubble">
@@ -1290,8 +1248,7 @@
       ou assessoramento
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1305,8 +1262,7 @@
       no &#243;rg&#227;o ou entidade de lota&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568155082848" ID="ID_409922170" MODIFIED="1568155580229" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1317,8 +1273,7 @@
       somente poder&#225; ser cedido a outro &#243;rg&#227;o ou entidade<br />para ocupar Cargo de Natureza Especial ou<br />equivalente.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1332,8 +1287,7 @@
       o servidor continuar&#225; a ser avaliado onde<br />efetivamente tiver exerc&#237;cio,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1351,8 +1305,7 @@
       Dos Cargos em extin&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568155292768" ID="ID_1510275349" MODIFIED="1568155518403">
@@ -1365,8 +1318,7 @@
       Art 15
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568155296743" ID="ID_42986205" MODIFIED="1568155518404">
 <richcontent TYPE="NODE"><html>
@@ -1378,8 +1330,7 @@
       re&#250;nem os cargos de<br />qualquer natureza
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568155331167" ID="ID_262901029" MODIFIED="1568155392817">
@@ -1392,8 +1343,7 @@
       cujas fun&#231;&#245;es n&#227;o t&#234;m correspond&#234;ncia<br />no quadro constante do plano
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568155344910" ID="ID_632488816" MODIFIED="1568155402157">
 <richcontent TYPE="NODE"><html>
@@ -1405,8 +1355,7 @@
       ser&#227;o extintos &#224; medida que vagarem
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568155352112" ID="ID_1177511198" MODIFIED="1568155416010">
 <richcontent TYPE="NODE"><html>
@@ -1418,8 +1367,7 @@
       assegurados todos os direitos e vantagens<br />inerentes ao respectivo cargo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1568155365180" ID="ID_977874314" MODIFIED="1568155518405">
@@ -1432,8 +1380,7 @@
       Os cargos em extin&#231;&#227;o passam<br />a constituir o quadro especial,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568155378033" ID="ID_1396075470" MODIFIED="1568155383892">
@@ -1446,14 +1393,13 @@
       objeto do Anexo VIII
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#606060" CREATED="1568151001123" ID="ID_1429831668" MODIFIED="1568151838294" POSITION="right">
+<node BACKGROUND_COLOR="#00ffff" COLOR="#010101" CREATED="1568151001123" ID="ID_1429831668" MODIFIED="1568342180079" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1466,12 +1412,600 @@
       Do Ingresso
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1568341323134" ID="ID_1751627281" MODIFIED="1568342199164">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Investidura em
+    </p>
+    <p>
+      Cargo Efetivo
+    </p>
+  </body>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568341344519" ID="ID_1904887578" MODIFIED="1568342199165">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Concurso P&#250;blico de provas e t&#237;tulos
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#606060" CREATED="1568151197528" ID="ID_912514067" MODIFIED="1568151838301" POSITION="right">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568341351908" ID="ID_453035031" MODIFIED="1568342199165">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Treinamento Inicial
+    </p>
+    <p style="text-align: center">
+      relativo a
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341401835" ID="ID_472833486" MODIFIED="1568342180084">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      fun&#231;&#245;es dos respectivos
+    </p>
+    <p style="text-align: center">
+      cargos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568341435674" ID="ID_1839511652" MODIFIED="1568342180085">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#233;tica
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568341440553" ID="ID_1983936642" MODIFIED="1568342180085">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      direitos humanos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568341446994" ID="ID_1750294683" MODIFIED="1568342180085" TEXT="Gest&#xe3;o de Pessoas">
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568341471836" ID="ID_541767140" MODIFIED="1568342180086">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      No&#231;&#245;es sobre organiza&#231;&#227;o/funcionamento
+    </p>
+    <p style="text-align: center">
+      do Poder Judici&#225;rio
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568341498448" ID="ID_1600460553" MODIFIED="1568342199166">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Est&#225;gio Probat&#243;rio
+    </p>
+    <p style="text-align: center">
+      36 Meses
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341547184" ID="ID_636931405" MODIFIED="1568342180095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Avalia&#231;&#227;o realizada
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568341586751" ID="ID_891120890" MODIFIED="1568342193577" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pela Chefia Imediata
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568341594029" ID="ID_1709963986" MODIFIED="1568342193575" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      com supervis&#227;o da Comiss&#227;o de Avalia&#231;&#227;o do
+    </p>
+    <p style="text-align: center">
+      Servidor do TJ
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568341623609" ID="ID_1339566279" MODIFIED="1568342180096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Caso n&#227;o seja aprovado
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568341640944" ID="ID_723158858" MODIFIED="1568342193574" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      exonerado
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568341655283" ID="ID_1828201184" MODIFIED="1568342180096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Vencimento integral
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#feab2a" CREATED="1568341667072" ID="ID_55077241" MODIFIED="1568342202845">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Avalia&#231;&#227;o do
+    </p>
+    <p>
+      Est&#225;gio Probat&#243;rio
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341685786" ID="ID_398467603" MODIFIED="1568342202846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Qualidade no trabalho
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341823307" ID="ID_218777096" MODIFIED="1568342180101">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      grau de exatid&#227;o, corre&#231;&#227;o e clareza dos<br />trabalhos executados
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341694098" ID="ID_1366342664" MODIFIED="1568342202846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      produtivade no<br />&#160;trabalho
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341849159" ID="ID_523838694" MODIFIED="1568342180103">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Volume do trabalho executado em determinado
+    </p>
+    <p style="text-align: center">
+      espa&#231;o de tempo
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341699961" ID="ID_877543836" MODIFIED="1568342202846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      iniciativa
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341871418" ID="ID_1955909497" MODIFIED="1568342180106">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      comportamento empreendedor no &#226;mbito de
+    </p>
+    <p style="text-align: center">
+      atua&#231;&#227;o, buscando garantir efici&#234;ncia e efic&#225;cia
+    </p>
+    <p style="text-align: center">
+      na execu&#231;&#227;o dos trabalhos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341718529" ID="ID_1801270224" MODIFIED="1568342202846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Presteza
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341965750" ID="ID_1577933775" MODIFIED="1568342180109">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      disposi&#231;&#227;o p/ agir prontamente no cumprimento
+    </p>
+    <p style="text-align: center">
+      das demandas de trabalho
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341721904" ID="ID_1456681595" MODIFIED="1568342202846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Assiduidade
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568341993336" ID="ID_1700608449" MODIFIED="1568342180111">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      comparecimento regular e permanente no local de
+    </p>
+    <p style="text-align: center">
+      trabalho
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341725936" ID="ID_1895582306" MODIFIED="1568342202846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pontualidade
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342017141" ID="ID_65186383" MODIFIED="1568342180114">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      observ&#226;ncia do hor&#225;rio de trabalho e cumprimento
+    </p>
+    <p style="text-align: center">
+      da carga hor&#225;ria definida para o cargo ocupado
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341730814" ID="ID_236426712" MODIFIED="1568342202847">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Administra&#231;&#227;o do tempo e
+    </p>
+    <p style="text-align: center">
+      tempestividade
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342066710" ID="ID_1365261574" MODIFIED="1568342180117">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      capacidade de cumprir demandas de trabalho
+    </p>
+    <p style="text-align: center">
+      dentro dos prazos previamente estabelecidos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341755049" ID="ID_1570249340" MODIFIED="1568342202847">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      uso adequado dos
+    </p>
+    <p style="text-align: center">
+      equipamentos e
+    </p>
+    <p style="text-align: center">
+      instala&#231;&#245;es de servi&#231;o
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342098952" ID="ID_1409698134" MODIFIED="1568342180119">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      cuidado e zelo na utiliza&#231;&#227;o e conserva&#231;&#227;o de
+    </p>
+    <p style="text-align: center">
+      equipamentos e instala&#231;&#245;es no exerc&#237;cio das
+    </p>
+    <p style="text-align: center">
+      atividades e tarefas
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341771665" ID="ID_296994616" MODIFIED="1568342202847">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      aproveitamento dos
+    </p>
+    <p style="text-align: center">
+      recursos e racionaliza&#231;&#227;o
+    </p>
+    <p style="text-align: center">
+      de processos
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342116552" ID="ID_414046769" MODIFIED="1568342267470">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      melhor utiliza&#231;&#227;o dos recursos dispon&#237;veis
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568342268225" ID="ID_1063812422" MODIFIED="1568342291274" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      visando &#224; melhoria dos fluxos<br />dos processos de trabalho
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568342279150" ID="ID_1698888791" MODIFIED="1568342291275" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      e &#224; consecu&#231;&#227;o de<br />&#160;resultados eficientes
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1568341790692" ID="ID_924409516" MODIFIED="1568342202848">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      capacidade de trabalho
+    </p>
+    <p style="text-align: center">
+      em equipe
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ffb300" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342138732" ID="ID_1684221539" MODIFIED="1568342180124">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      capacidade de desenvolver as atividades e tarefas
+    </p>
+    <p style="text-align: center">
+      em equipe, valorizando o trabalho em conjunto na
+    </p>
+    <p style="text-align: center">
+      busca de resultados comuns
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1568151197528" FOLDED="true" ID="ID_912514067" MODIFIED="1568383285670" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1481,14 +2015,1543 @@
       Cap&#237;tulo V<br />Da movimenta&#231;&#227;o de Pessoal
     </p>
   </body>
+</html></richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1568342366906" ID="ID_628564278" MODIFIED="1568382693722">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Movimenta&#231;&#227;o
+    </p>
+    <p>
+      Funcional
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568342379936" ID="ID_1688370826" MODIFIED="1568382693724">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Progress&#227;o Horizontal
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342407451" ID="ID_1584773565" MODIFIED="1568382810747">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#233; a movimenta&#231;&#227;o do servidor de uma refer&#234;ncia<br />salarial para a seguinte
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568382811945" ID="ID_1390878960" MODIFIED="1568383216243">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      dentro do mesmo padr&#227;o de classe
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568342423739" ID="ID_1401849982" MODIFIED="1568382693729">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      dentro de um mesmo padr&#227;o de classe
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<icon BUILTIN="yes"/>
+</node>
+<node CREATED="1568342437373" ID="ID_1765501644" MODIFIED="1568382693739">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      interst&#237;cio m&#237;nimo de 18&#160;meses
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568342453627" ID="ID_635079299" MODIFIED="1568382693742">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#233;pocas e sob crit&#233;rios fixados em regulamento
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568342847559" ID="ID_477707342" MODIFIED="1568382693744">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      n&#227;o depende de vagas
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568383021537" ID="ID_1584283140" MODIFIED="1568383216243">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      n&#237;veis I &#224; III
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568382819237" ID="ID_249974652" MODIFIED="1568383216244">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ex: A-I ---&gt; A-II
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568342385103" ID="ID_812159263" MODIFIED="1568382693747">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Promo&#231;&#227;o Vertical
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568342563361" ID="ID_562519328" MODIFIED="1568382693755">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&#233; a movimenta&#231;&#227;o do servidor </b>da &#250;ltima refer&#234;ncia salarial
+    </p>
+    <p>
+      de um padr&#227;o de classe <b>para</b>&#160;a refer&#234;ncia inicial do <b>padr&#227;o de </b>
+    </p>
+    <p>
+      <b>classe imediatamente superior</b>
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568383047587" ID="ID_1759445951" MODIFIED="1568383216246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      padr&#245;es de classe: A,B,C,D,E,F
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568383070168" ID="ID_254917022" MODIFIED="1568383075547">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      crescimento funcional do servidor
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1568382840406" ID="ID_594581772" MODIFIED="1568383216246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ex: A-III --&gt; B-I
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568342579550" ID="ID_1677686356" MODIFIED="1568382693758">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      interst&#237;cio m&#237;nimo de 2 anos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568342701376" ID="ID_1100770330" MODIFIED="1568382693761">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      dependendo,<br />cumulativamente,
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568342710069" ID="ID_395045941" MODIFIED="1568382693666">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;do resultado de avalia&#231;&#227;o formal do desempenho
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1568342725043" ID="ID_1496306471" MODIFIED="1568382693666">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      da participa&#231;&#227;o em cursos de aperfei&#231;oamento, a&#231;&#227;o<br />ou programa de capacita&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1568342861247" ID="ID_1587761853" MODIFIED="1568382963771">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      depende da exist&#234;ncia de vaga
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568382908631" ID="ID_1779366991" MODIFIED="1568383216249">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ser&#225; obdecido o crit&#233;rio de antiguidade e<br />de merecimento <b><font color="#0005ff">alternadamente</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568383139171" ID="ID_1429566440" MODIFIED="1568383216251">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Processo de avalia&#231;&#227;o p/
+    </p>
+    <p>
+      movimenta&#231;&#227;o funcional
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568383180212" ID="ID_1433762956" MODIFIED="1568383216253">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      disciplinado por Resolu&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568383195749" ID="ID_122189819" MODIFIED="1568383246653">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      responsabilidade da <font color="#ff0000"><b>Comiss&#227;o Permanente de Avalia&#231;&#227;o<br color="#ff0000" />do Servidor</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1568342770850" ID="ID_947903843" MODIFIED="1568383279281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      N&#227;o &#233; permitido Promo&#231;&#227;o/Progress&#227;o
+    </p>
+    <p style="text-align: center">
+      durante Est&#225;gio Probat&#243;rio
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#606060" COLOR="#fefefe" CREATED="1568340775864" ID="ID_724617295" MODIFIED="1568383429262" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Cap&#237;tulo VI
+    </p>
+    <p style="text-align: center">
+      Da Pol&#237;tica de Valoriza&#231;&#227;o Profissional
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node COLOR="#606060" CREATED="1568383312267" ID="ID_456949642" MODIFIED="1568383429268">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Coordenadoria de R.H
+    </p>
+    <p style="text-align: center">
+      do TJ
+    </p>
+  </body>
 </html>
 </richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1568383344437" ID="ID_1951569012" MODIFIED="1568383429269">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      compete
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568383379562" ID="ID_725139815" MODIFIED="1568383429270">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      planejar
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#606060" CREATED="1568151224513" ID="ID_1446301462" MODIFIED="1568151838302" POSITION="right" TEXT="">
+<node CREATED="1568383384878" ID="ID_683664740" MODIFIED="1568383429271">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      organizar
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568383388103" ID="ID_1646259002" MODIFIED="1568383429272">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      promover
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568383391395" ID="ID_1087991366" MODIFIED="1568383429273">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      executar
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1568383397829" ID="ID_1222924674" MODIFIED="1568383429274">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      cursos de capacita&#231;&#227;o, foruns de debate,
+    </p>
+    <p style="text-align: center">
+      outros eventos que possibilitem a valori-
+    </p>
+    <p style="text-align: center">
+      za&#231;&#227;o do servidor
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#343434" CREATED="1568388032362" ID="ID_902167788" MODIFIED="1568388083181" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Cap&#237;tulo VII
+    </p>
+    <p style="text-align: center">
+      Da Remunera&#231;&#227;o e das Gratifica&#231;&#245;es
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1568340824440" FOLDED="true" ID="ID_1707425216" MODIFIED="1568388204086">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Se&#231;&#227;o I
+    </p>
+    <p style="text-align: center">
+      Dos vencimentos e da Remunera&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1568387336717" ID="ID_251802567" MODIFIED="1568387928400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pol&#237;tica de Atualiza&#231;&#227;o e
+    </p>
+    <p>
+      Aumento de Vencimentos
+    </p>
+  </body>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568387355982" ID="ID_830727474" MODIFIED="1568387928401">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      refer&#234;ncia 1&#186; de janeiro p/ reajuste
+    </p>
+    <p>
+      do vencimento de servidores
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568387394677" ID="ID_1585878394" MODIFIED="1568387928403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      com vista
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568387407528" ID="ID_40910522" MODIFIED="1568387928404">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Or&#231;amento autorizado
+    </p>
+    <p>
+      pelo TJ
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568387421200" ID="ID_1630153228" MODIFIED="1568387928405">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Par&#226;metros da LRF
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1568387574611" ID="ID_1959459155" MODIFIED="1568387928410">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Vencimentos B&#225;sicos
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568387611858" ID="ID_473206338" MODIFIED="1568387928411">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cargo Efetivo -&gt; Anexo I
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568387624541" ID="ID_1962601381" MODIFIED="1568387928413">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cargo de Comiss&#227;o -&gt; Anexo II
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1568385580440" ID="ID_1710790785" MODIFIED="1568387928418">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Gratifica&#231;&#245;es
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568385589564" ID="ID_1332025234" MODIFIED="1568387928420">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Gratifica&#231;&#227;o de Atividade
+    </p>
+    <p style="text-align: center">
+      Judici&#225;ria - GAJ
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568385656958" ID="ID_372402116" MODIFIED="1568387928421">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Para os cargos titulares<br />&#160;de provimento efetivo
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568385872505" ID="ID_1846948418" MODIFIED="1568387947559" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      grupos ocupacionais I a V
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568385707741" ID="ID_1074850837" MODIFIED="1568387928424">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      cargos comissionados
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568385831981" ID="ID_893958610" MODIFIED="1568387947558" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      PJ-DAS, PJ-DAI,
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568385847248" ID="ID_1171595790" MODIFIED="1568387947557" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      PJ-AG, PJ-AJEF,
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568385859623" ID="ID_90462528" MODIFIED="1568387947555" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      GFS-2 e GFO-3;
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568385886311" ID="ID_1096396929" MODIFIED="1568387928425">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      gratifica&#231;&#227;o por trabalhar al&#233;m
+    </p>
+    <p style="text-align: center">
+      das 6 horas regulamentares
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568385932441" ID="ID_568735337" MODIFIED="1568387928427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Autorizado pelo
+    </p>
+    <p>
+      Presidente TJ-AM
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568386119290" ID="ID_1046277484" MODIFIED="1568387928429">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      20% do vencimento b&#225;sico
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568385604661" ID="ID_1510514368" MODIFIED="1568387928430">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Gratifica&#231;&#227;o de Fun&#231;&#227;o
+    </p>
+    <p>
+      s&#237;mbolo GF-1
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568385966946" ID="ID_1801564317" MODIFIED="1568387928432">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      exerc&#237;cio de fun&#231;&#245;es
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568385978069" ID="ID_1027782271" MODIFIED="1568387957909" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Assistente de Diretor
+    </p>
+    <p style="text-align: center">
+      de Secretaria
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568385991980" ID="ID_1433100434" MODIFIED="1568387957908" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Coordenador e Secret&#225;rio
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568387651322" ID="ID_269987894" MODIFIED="1568387928433">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      exclusivo p/ servidores
+    </p>
+    <p>
+      efetivos
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568387672696" ID="ID_1399859997" MODIFIED="1568387957907" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      m&#237;nimo de 12 meses de
+    </p>
+    <p>
+      experi&#234;ncia id&#234;ntica
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568385619299" ID="ID_159761325" MODIFIED="1568387928435">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Gratifica&#231;&#227;o de Fun&#231;&#227;o
+    </p>
+    <p style="text-align: center">
+      s&#237;mbolo GF-2
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568386010701" ID="ID_1082303486" MODIFIED="1568387928437">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      exerc&#237;cio de
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568386014555" ID="ID_191722474" MODIFIED="1568387957905" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Assistente de
+    </p>
+    <p>
+      Agendamento
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568386021037" ID="ID_1061342218" MODIFIED="1568387957905" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Assistente de
+    </p>
+    <p>
+      Ajuizamento
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568386033715" ID="ID_1482148829" MODIFIED="1568387957903" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Assistente de Distribui&#231;&#227;o<br />&#160;Processual
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568387710112" ID="ID_889566926" MODIFIED="1568387928439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff0000">&#201; vedada a percep&#231;&#227;o cumulativa</font></b>&#160;de<br />gratifica&#231;&#227;o que tenha o mesmo fato
+    </p>
+    <p style="text-align: center">
+      gerador.
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568387822867" ID="ID_61632600" MODIFIED="1568387928441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Servidor efetivo
+    </p>
+    <p style="text-align: center">
+      em cargo comissionado
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568387836115" ID="ID_1316881159" MODIFIED="1568387928443">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pode optar
+    </p>
+    <p>
+      remunera&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<node CREATED="1568387843925" ID="ID_1872237642" MODIFIED="1568387965854" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      do cargo em comisss&#227;o; ou
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568387853252" ID="ID_751130699" MODIFIED="1568387965853" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      vencimento ao cargo efetivo mais
+    </p>
+    <p style="text-align: center">
+      gratifica&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1568387889085" ID="ID_1830768449" MODIFIED="1568387928444">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Secret&#225;rio Geral
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1568387895605" ID="ID_1548207192" MODIFIED="1568387965852" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pode receber o efetivo
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568387904720" ID="ID_607470079" MODIFIED="1568387965852" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      mais 65% do valor em comiss&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ff4e4e" COLOR="#fefefe" CREATED="1568388098019" ID="ID_975941182" MODIFIED="1568388769916">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Se&#231;&#227;o II
+    </p>
+    <p>
+      Das vantagens e Benef&#237;cios
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1568388205905" ID="ID_1551847402" MODIFIED="1568388769920">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Gratifica&#231;&#227;o Adicional de Qualifica&#231;&#227;o
+    </p>
+    <p style="text-align: center">
+      GAQ
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388489399" ID="ID_1521804094" MODIFIED="1568388769921">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; Servidores do quadro efetivo;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Percentual e valores n&#227;o cumulativos;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &gt; Requeridas pelo servidor e autorizadas
+    </p>
+    <p>
+      pelo Presidente do TJ
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388228133" ID="ID_404527710" MODIFIED="1568388769922">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Especializa&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568388407499" ID="ID_1320814739" MODIFIED="1568388782672" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      10% adicional
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568388416358" ID="ID_838593394" MODIFIED="1568388782671" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      m&#237;nimo de 360 horas
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388424082" ID="ID_967333663" MODIFIED="1568388769924">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mestrado
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568388427603" ID="ID_71936483" MODIFIED="1568388782671" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      15% adicional
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388432117" ID="ID_1264700919" MODIFIED="1568388769926">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Doutorado
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568388434877" ID="ID_1399696712" MODIFIED="1568388782670" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      20% adicional
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1568388590752" ID="ID_182282254" MODIFIED="1568388769929">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Outras vantagens
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388598129" ID="ID_454140105" MODIFIED="1568388769930">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      I - Aux&#237;lio-Alimenta&#231;&#227;o
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388606888" ID="ID_1979245480" MODIFIED="1568388769931">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      II - Aux&#237;lio Sa&#250;de
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388613147" ID="ID_1188652592" MODIFIED="1568388769931">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      III - Ajuda de Custo
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1568388715281" ID="ID_1331451439" MODIFIED="1568388769932">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Cargo comissionado n&#227;o recebe
+    </p>
+    <p style="text-align: center">
+      Aux&#237;lio de Custo
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1568340846655" ID="ID_1256033435" MODIFIED="1568389284521" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Cap&#237;tulo VIII
+    </p>
+    <p style="text-align: center">
+      Do Enquadramento
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1568388916875" ID="ID_1124775654" MODIFIED="1568389268095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Enquadramento dos
+    </p>
+    <p style="text-align: center">
+      Servidores ao Plano
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568388946214" ID="ID_1911217828" MODIFIED="1568389268096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ato do Presidente do Tribunal
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568389042987" ID="ID_25321873" MODIFIED="1568389268098">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aplicados automaticamente aos
+    </p>
+    <p>
+      cargos em
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568389057915" ID="ID_1976951528" MODIFIED="1568389275714" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      extin&#231;&#227;o; e
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568389075288" ID="ID_372615586" MODIFIED="1568389275714" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      servidores inativos
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568388975983" ID="ID_376084645" MODIFIED="1568389268102">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Comiss&#227;o Permanente de<br />&#160;Avalia&#231;&#227;o do Servidor
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568389143468" ID="ID_947905454" MODIFIED="1568389275713" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      respons&#225;vel por avaliar o
+    </p>
+    <p>
+      enquadramento
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568389164146" ID="ID_565374983" MODIFIED="1568389275712" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      02 representantes dos
+    </p>
+    <p>
+      servidores
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1568340858666" ID="ID_1387837987" MODIFIED="1568340879675" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cap&#237;tulo IX
+    </p>
+    <p>
+      Da administra&#231;&#227;o do Plano de Cargos
+    </p>
+    <p>
+      Carreira e Sal&#225;rios
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1568340880083" ID="ID_350122939" MODIFIED="1568340895247" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cap&#237;tulo X
+    </p>
+    <p>
+      Da estrutura do Poder Judici&#225;rio
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1568340906744" ID="ID_1698961093" MODIFIED="1568340917886" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cap&#237;tulo XI
+    </p>
+    <p>
+      Das disposi&#231;&#245;es Transit&#243;rias
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </map>

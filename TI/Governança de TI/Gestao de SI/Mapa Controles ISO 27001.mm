@@ -74,8 +74,7 @@
       A.5.1 Pol&#237;tica de SI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566949780511" ID="ID_1035752367" MODIFIED="1567990087524" STYLE="bubble">
@@ -149,8 +148,7 @@
       A pol&#237;tica de SI deve ser
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567990012069" ID="ID_1143432040" MODIFIED="1567990097711">
@@ -163,8 +161,7 @@
       analisada criticamente
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567990019026" ID="ID_197670158" MODIFIED="1567990097710">
@@ -177,8 +174,7 @@
       a intervalos planejados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567990029559" ID="ID_733446481" MODIFIED="1567990097710">
@@ -194,8 +190,7 @@
       ficativas ocorrerem
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -209,8 +204,7 @@
       p/ assegurar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567990056813" ID="ID_1649444750" MODIFIED="1567990097709">
@@ -223,8 +217,7 @@
       pertin&#234;ncia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567990066032" ID="ID_67421163" MODIFIED="1567990097709">
@@ -237,8 +230,7 @@
       adequa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567990070578" ID="ID_1787002943" MODIFIED="1567990097708">
@@ -251,8 +243,7 @@
       Efic&#225;cia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -442,7 +433,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
-<node CREATED="1567113696522" ID="ID_637536489" MODIFIED="1567629561744">
+<node CREATED="1567113696522" ID="ID_637536489" MODIFIED="1568325774617">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -455,13 +446,14 @@
       
     </p>
     <p>
-      &gt; Assegurar que a informa&#231;&#227;o receba um n&#237;vel adequado
+      &gt; Assegurar que a informa&#231;&#227;o receba um <b>n&#237;vel adequado</b>
     </p>
     <p>
       de prote&#231;&#227;o
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -536,8 +528,7 @@
       A.8.1 - Antes da Contrata&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1567989725255" ID="ID_1598394719" MODIFIED="1567989735604">
 <richcontent TYPE="NODE"><html>
@@ -549,8 +540,7 @@
       A.8.2 - Durante a Contrata&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1567989816735" ID="ID_1067658436" MODIFIED="1567989829968">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -561,8 +551,7 @@
       A.8.2.1 - Responsabilidades da Dire&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1567989830481" ID="ID_115310921" MODIFIED="1567989852924">
 <richcontent TYPE="NODE"><html>
@@ -577,8 +566,7 @@
       em S.I
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1567989736240" ID="ID_1352359895" MODIFIED="1567989758817">
@@ -591,8 +579,7 @@
       A.8.3 - Encerramento ou mudan&#231;a<br />da Contrata&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#606060" CREATED="1566950979009" ID="ID_1211142394" MODIFIED="1566951150686" POSITION="right">
@@ -632,8 +619,7 @@
       A.10.1 - Procedimentos e<br />Responsabilidades Operacionais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567981138084" ID="ID_756063239" MODIFIED="1567981172825">
 <richcontent TYPE="NODE"><html>
@@ -648,8 +634,7 @@
       de processamento da informa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -666,8 +651,7 @@
       de Opera&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -681,8 +665,7 @@
       A.10.1.2 - Gest&#227;o de mudan&#231;as
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567981390990" ID="ID_957744310" MODIFIED="1567981462469" STYLE="bubble">
@@ -698,8 +681,7 @@
       de processamento da informa&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -739,8 +721,7 @@
       Objetivo: Minizar o risco de falhas no sistema
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -754,8 +735,7 @@
       A.10.3.1 - Gest&#227;o de Capacidade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567981071088" ID="ID_188185413" MODIFIED="1567981469792" STYLE="bubble">
@@ -768,8 +748,7 @@
       Monitorar/sincronizar utiliza&#231;&#227;o de recursos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567981098511" ID="ID_1494846001" MODIFIED="1567981469791" STYLE="bubble">
@@ -782,8 +761,7 @@
       proje&#231;&#245;es de capacidade futura
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>

@@ -13,8 +13,7 @@
       Completar BIA e RA
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1568224839148" ID="ID_1181291594" MODIFIED="1568229668442" POSITION="right">
@@ -27,8 +26,7 @@
       Defini&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568225516926" ID="ID_1045475121" MODIFIED="1568229668443">
@@ -41,8 +39,7 @@
       permitir que uma organiza&#231;&#227;o recupere ou mantenha suas<br />atividades em caso de uma interrup&#231;&#227;o das opera&#231;&#245;es<br />normais de neg&#243;cios.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
@@ -59,8 +56,7 @@
       um PCN
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568228149787" ID="ID_1091414896" MODIFIED="1568229664650">
@@ -73,8 +69,7 @@
       Como o PCN &#233; ativado
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568228157776" ID="ID_737574455" MODIFIED="1568229664694">
@@ -87,8 +82,7 @@
       pessoas respon&#347;aveis por ativar o PCN
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568228249038" ID="ID_661118881" MODIFIED="1568229664696">
 <richcontent TYPE="NODE"><html>
@@ -100,8 +94,7 @@
       procedimentos que essas pessoas<br />&#160;devem adotar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -119,8 +112,7 @@
       antes da decis&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568228303721" ID="ID_620467697" MODIFIED="1568229664699">
@@ -136,8 +128,7 @@
       quando a decis&#227;o for tomada
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568228363975" ID="ID_1733699086" MODIFIED="1568229664700">
@@ -150,8 +141,7 @@
       quem vai para onde, quando
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568228385679" ID="ID_1273353628" MODIFIED="1568229664701">
@@ -164,8 +154,7 @@
       Quais servi&#231;os est&#227;o dispon&#237;veis
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568228456398" ID="ID_1883061561" MODIFIED="1568229664702">
 <richcontent TYPE="NODE"><html>
@@ -177,8 +166,7 @@
       aonde e quando
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -195,8 +183,7 @@
       seus recursos externos e de terceiros;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -211,8 +198,7 @@
       Como e quando esta informa&#231;&#227;o ser&#225; comunicada.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
@@ -229,8 +215,7 @@
       DATACENTERS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1568225546691" ID="ID_751437681" MODIFIED="1568229671703">
@@ -243,8 +228,7 @@
       HOT SITE
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568225554120" ID="ID_806515688" MODIFIED="1568229671704">
 <richcontent TYPE="NODE"><html>
@@ -256,8 +240,7 @@
       funcionamento ativo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -271,8 +254,7 @@
       compartilhamento de recursos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -291,8 +273,7 @@
       COLD SITE
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568225586963" ID="ID_796994971" MODIFIED="1568229671712">
 <richcontent TYPE="NODE"><html>
@@ -304,8 +285,7 @@
       ambiente n&#227;o est&#225; ativo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -322,8 +302,7 @@
       o reestabelecimento do servi&#231;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -337,8 +316,7 @@
       h&#225; um pequeno intervalo de indisponibilidade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -352,8 +330,7 @@
       revis&#245;es peri&#243;dicas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -375,8 +352,7 @@
       Avalia&#231;&#227;o de Riscos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568231240662" ID="ID_1845281817" MODIFIED="1568231243001">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -387,16 +363,15 @@
       Defini&#231;&#245;es
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1568231244029" ID="ID_113982412" MODIFIED="1568231632922">
+</html></richcontent>
+<node CREATED="1568231244029" ID="ID_113982412" MODIFIED="1568326966021">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      An&#225;lise de impacto de neg&#243;cios (<i>Business Impact Analysis</i>)
+      An&#225;lise de Impacto de Neg&#243;cios (<i>Business Impact Analysis - BIA</i>)
     </p>
     <p>
       
@@ -405,7 +380,7 @@
       &gt; Identifica&#231;&#227;o e an&#225;lise de processos de neg&#243;cios/atividades<br /><br />
     </p>
     <p>
-      &gt; Compreender o impacto do tempo de inatividade
+      &gt; <b>Compreender o impacto do tempo de inatividade</b>
     </p>
     <p>
       
@@ -417,7 +392,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1568231361423" ID="ID_744760952" MODIFIED="1568231868542">
+<node CREATED="1568231361423" ID="ID_744760952" MODIFIED="1568326974999">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -436,7 +411,7 @@
       
     </p>
     <p>
-      &gt; Compreender a efetividade dos controles existentes
+      <b>&gt; Compreender a efetividade dos controles existentes</b>
     </p>
     <p>
       
@@ -464,11 +439,10 @@
       Subplanos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568225713066" HGAP="21" ID="ID_1770222995" MODIFIED="1568230761058" VSHIFT="-19">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568225713066" HGAP="21" ID="ID_1770222995" MODIFIED="1568331203529" VSHIFT="-19">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -481,8 +455,7 @@
       (emerg&#234;ncia)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568226010406" ID="ID_136619405" MODIFIED="1568230761058">
 <richcontent TYPE="NODE"><html>
@@ -494,8 +467,7 @@
       Utilizado em &#250;ltimo caso
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -509,8 +481,7 @@
       falhas em todas as preven&#231;&#245;es
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -524,8 +495,7 @@
       Necessidades/a&#231;&#245;es imediatas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -543,10 +513,9 @@
       de Crises - PAC
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
-<node CREATED="1568226346299" ID="ID_864662708" MODIFIED="1568230761057">
+<node CREATED="1568226346299" ID="ID_864662708" MODIFIED="1568331203529">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -559,9 +528,9 @@
       a&#231;&#245;es de contig&#234;ncia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
+<arrowlink DESTINATION="ID_1770222995" ENDARROW="Default" ENDINCLINATION="194;0;" ID="Arrow_ID_1802965973" STARTARROW="None" STARTINCLINATION="194;0;"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568230755774" ID="ID_1727924405" MODIFIED="1568230784700">
@@ -574,8 +543,7 @@
       Define fun&#231;&#245;es e responsabilidades das equipes<br />&#160;envolvidas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -589,8 +557,7 @@
       antes, durante e ap&#243;s a ocorr&#234;ncia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -608,8 +575,7 @@
       de Desastres - PRD
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568226273873" ID="ID_670741364" MODIFIED="1568230761055">
 <richcontent TYPE="NODE"><html>
@@ -621,8 +587,7 @@
       ap&#243;s a&#231;&#245;es de conting&#234;ncia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -639,8 +604,7 @@
       n&#237;veis normais de opera&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -657,8 +621,7 @@
       planejados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -676,8 +639,7 @@
       Operacional - PCO
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
 <node CREATED="1568226317744" ID="ID_1097718801" MODIFIED="1568230761054">
 <richcontent TYPE="NODE"><html>
@@ -689,8 +651,7 @@
       utilizado em um incidente
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -704,8 +665,7 @@
       reestabelecer o funcionamento dos ativos de opera&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568227854549" ID="ID_1267857906" MODIFIED="1568230771225" STYLE="bubble">
@@ -718,8 +678,7 @@
       ex: redu&#231;&#227;o do tempo de queda de internet
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>

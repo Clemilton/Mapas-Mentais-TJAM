@@ -231,8 +231,7 @@
       a) Definir Escopo e limites do SGSI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -246,8 +245,7 @@
       b) Definir uma pol&#237;tica do SGSI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -261,8 +259,7 @@
       c)&#160;Definir uma abordagem de an&#225;lise/avalia&#231;&#227;o<br />de riscos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -321,8 +318,7 @@
       f) Identificar e avaliar as op&#231;&#245;es<br />de tratamento de risco
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567023180526" ID="ID_737756254" MODIFIED="1567181321494" STYLE="bubble">
@@ -368,8 +364,7 @@
       g) Selecionar objetivos de controle e<br />controles para tratamento de riscos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -383,8 +378,7 @@
       h) Obter aprova&#231;&#227;o da dire&#231;&#227;o sobre<br />os riscos residuais propostos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -398,8 +392,7 @@
       i) obter autoriza&#231;&#227;o da dire&#231;&#227;o para<br />implementar e operar a SGSI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -547,17 +540,18 @@
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566956110551" ID="ID_350169852" MODIFIED="1567181329793">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1566956110551" ID="ID_350169852" MODIFIED="1568328150465">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      g)&#160;Procedimentos e outros controles capazes de permitir pronta detec&#231;&#227;o<br />de eventos e resposta a incidentes de SI;
+      g)&#160;implementar procedimentos e outros controles capazes de<br />&#160;permitir pronta detec&#231;&#227;o de eventos e resposta a<br />incidentes de SI;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1566956141903" ID="ID_1365348331" MODIFIED="1567181329794">

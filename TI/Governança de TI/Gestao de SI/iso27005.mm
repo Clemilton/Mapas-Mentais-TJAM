@@ -90,17 +90,18 @@
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1568138886744" ID="ID_1949138100" MODIFIED="1568139334366">
+<node CREATED="1568138886744" ID="ID_1949138100" MODIFIED="1568327338268">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      1. Defini&#231;&#227;o do Contexto
+      1. Defini&#231;&#227;o do Contexto(Se&#231;&#227;o 07)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568138898215" ID="ID_1337131346" MODIFIED="1568139353501" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -134,17 +135,18 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1568138955003" ID="ID_930165763" MODIFIED="1568138966181">
+<node CREATED="1568138955003" ID="ID_930165763" MODIFIED="1568327344875">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      2. An&#225;lise/Avalia&#231;&#227;o de Riscos
+      2. An&#225;lise/Avalia&#231;&#227;o de Riscos (Se&#231;&#227;o 08)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568138969119" ID="ID_808930701" MODIFIED="1568139353498" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -162,17 +164,18 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1568139021211" ID="ID_1979505574" MODIFIED="1568139025356">
+<node CREATED="1568139021211" ID="ID_1979505574" MODIFIED="1568327351235">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      3. Tratamento de Risco
+      3. Tratamento de Risco (Se&#231;&#227;o 09)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568139025781" ID="ID_675260280" MODIFIED="1568139353497" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -190,17 +193,18 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1568139053293" ID="ID_114243669" MODIFIED="1568139061391">
+<node CREATED="1568139053293" ID="ID_114243669" MODIFIED="1568327362180">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      4. Aceita&#231;&#227;o do Risco
+      4. Aceita&#231;&#227;o do Risco (Se&#231;&#227;o 10)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568139061696" ID="ID_1352722214" MODIFIED="1568139353495" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -231,17 +235,18 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1568139108015" ID="ID_1276991667" MODIFIED="1568139149813">
+<node CREATED="1568139108015" ID="ID_1276991667" MODIFIED="1568327370976">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      5. Comunica&#231;&#227;o do Risco
+      5. Comunica&#231;&#227;o do Risco (Se&#231;&#227;o 11)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568139117400" ID="ID_534368490" MODIFIED="1568139353493" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -259,17 +264,21 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1568139144441" ID="ID_313783309" MODIFIED="1568139180979">
+<node CREATED="1568139144441" ID="ID_313783309" MODIFIED="1568327381655">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
+    <p style="text-align: center">
       6. Monitoramento e an&#225;lise cr&#237;tica de riscos
     </p>
+    <p style="text-align: center">
+      (Se&#231;&#227;o 12)
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568139181271" ID="ID_1736750211" MODIFIED="1568139353491" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -540,7 +549,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1567457963386" ID="ID_572926590" MODIFIED="1567459705758" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1567457963386" FOLDED="true" ID="ID_572926590" MODIFIED="1568325868935" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -652,7 +661,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567384502730" ID="ID_1773845016" MODIFIED="1568144280748" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567384502730" FOLDED="true" ID="ID_1773845016" MODIFIED="1568327318073" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -827,7 +836,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567456377388" FOLDED="true" ID="ID_328402985" MODIFIED="1568139769456">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1567456377388" ID="ID_328402985" MODIFIED="1568327225630">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1400,7 +1409,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1567382998174" ID="ID_1188882950" MODIFIED="1568140140591" POSITION="right">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1567382998174" FOLDED="true" ID="ID_1188882950" MODIFIED="1568325871888" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1702,8 +1711,7 @@
       Entrada
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568145457307" ID="ID_513415307" MODIFIED="1568145722333" STYLE="bubble">
@@ -1716,8 +1724,7 @@
       Escopo e limites
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568145464026" ID="ID_1750658385" MODIFIED="1568145722332" STYLE="bubble">
@@ -1730,8 +1737,7 @@
       Lista de componentes com respons&#225;veis,<br />localidade, fun&#231;&#227;o etc...
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1745,8 +1751,7 @@
       A&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568145481713" ID="ID_710747737" MODIFIED="1568145722331" STYLE="bubble">
@@ -1759,8 +1764,7 @@
       Os ativos dentro do escopo s&#227;o identificados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1774,8 +1778,7 @@
       Diretrizes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568145449541" ID="ID_1841165248" MODIFIED="1568145722330" STYLE="bubble">
@@ -1791,8 +1794,7 @@
       suficientes p/ o processo de avalia&#231;&#227;o de riscos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568145538491" ID="ID_1393716152" MODIFIED="1568145722329" STYLE="bubble">
@@ -1805,8 +1807,7 @@
       um respons&#225;vel seja identificado p/ cada ativo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568145623867" ID="ID_195788036" MODIFIED="1568145722327" STYLE="bubble">
@@ -1822,8 +1823,7 @@
       respons&#225;vel pela gest&#227;o dele
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1837,8 +1837,7 @@
       Sa&#237;da
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 <node CREATED="1568145681051" ID="ID_329295028" MODIFIED="1568145722326" STYLE="bubble">
@@ -1851,8 +1850,7 @@
       Lista de ativos com riscos a serem gerenciados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568145693885" ID="ID_1623441998" MODIFIED="1568145722323" STYLE="bubble">
@@ -1868,8 +1866,7 @@
       e suas relev&#226;ncias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1915,8 +1912,7 @@
       8.2.4 - Identifica&#231;&#227;o dos controles existentes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568145258251" ID="ID_949546664" MODIFIED="1568145330829">
@@ -1929,8 +1925,7 @@
       8.2.5 - Identifica&#231;&#227;o das Vulnerabilidades
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568145274795" ID="ID_1498400974" MODIFIED="1568145330832">
@@ -1943,8 +1938,7 @@
       8.2.6 - Identifica&#231;&#227;o das Consequ&#234;ncias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
@@ -2576,8 +2570,7 @@
       medidas preventivas p/ impedir ataques e danos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568144742354" ID="ID_37389065" MODIFIED="1568144813221" STYLE="bubble">
@@ -2590,8 +2583,7 @@
       Nesse caso, o terceiro &#233; respons&#225;vel pelo gerenciamento do risco
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568144783312" ID="ID_1375619270" MODIFIED="1568144813220" STYLE="bubble">
@@ -2604,8 +2596,7 @@
       normalmente n&#227;o &#233; poss&#237;vel transferir a responsabilidade<br />legal pelas consequ&#234;ncia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1568144804052" ID="ID_733277161" MODIFIED="1568144819515" STYLE="bubble">
@@ -2618,8 +2609,7 @@
       o &#244;nus de um incidente de seguran&#231;a ainda recai sobre<br />&#160;a organiza&#231;&#227;o.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 </node>
 </node>

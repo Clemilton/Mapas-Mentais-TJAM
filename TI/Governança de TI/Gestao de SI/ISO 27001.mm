@@ -13,8 +13,7 @@
       Introdu&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <icon BUILTIN="full-0"/>
@@ -34,8 +33,7 @@
       Esta norma foi concebida com intuito de <b>prover </b><br /><b>requisitos</b>&#160;para <b>estabelecer,implementar, </b><br /><b>manter e melhorar</b>&#160;continuamente um <b>SGSI</b>;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
@@ -49,8 +47,7 @@
       A ado&#231;&#227;o de um SGSI &#233; um decis&#227;o estrat&#233;gica
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -81,8 +78,7 @@
       Cobre todos os tipo de organiza&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -96,8 +92,7 @@
       Sistemas de apoio mudam com o passar do tempo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -112,8 +107,7 @@
       0.2 - Abordagem do Processo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567983148094" FOLDED="true" ID="ID_576089078" MODIFIED="1567987122124">
@@ -126,8 +120,7 @@
       Esta norma prev&#234; um Processo<br />(PDCA) para gest&#227;o do SGSI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567983188932" ID="ID_1783967173" MODIFIED="1567986696814" STYLE="bubble">
@@ -140,8 +133,7 @@
       estabelecer
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567983195368" ID="ID_714197843" MODIFIED="1567986696814" STYLE="bubble">
@@ -154,8 +146,7 @@
       implementar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567983199660" ID="ID_900615050" MODIFIED="1567986696814" STYLE="bubble">
@@ -168,8 +159,7 @@
       manter
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567983204343" ID="ID_1849034829" MODIFIED="1567986696814" STYLE="bubble">
@@ -182,8 +172,7 @@
       melhorar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -217,8 +206,7 @@
       (Estabelecer o SGSI)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1566950474013" ID="ID_1600118287" MODIFIED="1567986375682">
@@ -231,8 +219,7 @@
       Estabelecer a pol&#237;tica, objetivos, processos e procedimentos<br />o SGSI, relevantes para gest&#227;o de riscos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -246,8 +233,7 @@
       Melhoria da S.I. p/ produzir resultados de acordo com<br />as pol&#237;ticas e objetivos globais de uma organiza&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -264,8 +250,7 @@
       (Implementar/Operar<br />o SGSI)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1566950501113" ID="ID_1493124754" MODIFIED="1567025488620">
@@ -299,8 +284,7 @@
       criticamente o SGSI)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567025497909" ID="ID_671354980" MODIFIED="1567025569919">
@@ -346,8 +330,7 @@
       o SGSI)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1566950580903" ID="ID_563626905" MODIFIED="1567025681563">
@@ -430,8 +413,7 @@
       sistemas de gest&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1567986709414" FOLDED="true" ID="ID_868123902" MODIFIED="1567987125939">
@@ -444,8 +426,7 @@
       Esta norma est&#225; alinhada com
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1567986739866" ID="ID_1703630424" MODIFIED="1567986777472" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -456,8 +437,7 @@
       ISO 9001:2000
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 <node CREATED="1567986755060" ID="ID_1327999669" MODIFIED="1567986777473" STYLE="bubble">
@@ -470,8 +450,7 @@
       ISO 14001:2004
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -730,8 +709,7 @@
       Objetivo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <icon BUILTIN="full-1"/>
@@ -745,8 +723,7 @@
       1.1 - Geral
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567987042124" ID="ID_1426303859" MODIFIED="1567988998427">
 <richcontent TYPE="NODE"><html>
@@ -758,8 +735,7 @@
       ISO 27001
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567987061250" ID="ID_1955506041" MODIFIED="1567987113438">
@@ -772,8 +748,7 @@
       Cobre todos os tipos de organiza&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1567987159359" ID="ID_735664178" MODIFIED="1567987215970">
 <richcontent TYPE="NODE"><html>
@@ -785,8 +760,7 @@
       Especifica requisitos para gest&#227;o* de um SGSI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1567987216631" ID="ID_1116283675" MODIFIED="1567987231530" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -797,8 +771,7 @@
       * estabelecer, implementar, operar, monitorar, analisar<br />criticamente, manter e melhorar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -814,8 +787,7 @@
       1.2 - Aplica&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <node CREATED="1567988820321" ID="ID_1447700567" MODIFIED="1567988998430">
 <richcontent TYPE="NODE"><html>
@@ -830,8 +802,7 @@
       a todas as organiza&#231;&#245;es
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -845,8 +816,7 @@
       A exclus&#227;o de requisitos da norma n&#227;o &#233; aceit&#225;vel
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 <node CREATED="1567988914419" ID="ID_1304431445" MODIFIED="1567988944542">
@@ -859,8 +829,7 @@
       a n&#227;o ser que haja uma justificativa com evid&#234;ncias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -875,8 +844,7 @@
       Refer&#234;ncia Normativa
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <icon BUILTIN="full-2"/>
@@ -890,8 +858,7 @@
       O documento a seguir referenciado &#233; indispens&#225;vel<br />&#160;para a aplica&#231;&#227;o desta Norma.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1313,7 +1280,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1566956319562" FOLDED="true" ID="ID_1649372672" MODIFIED="1567982437993" POSITION="right">
+<node BACKGROUND_COLOR="#fdc978" COLOR="#535353" CREATED="1566956319562" ID="ID_1649372672" MODIFIED="1568326021957" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1677,8 +1644,7 @@
       Objetivos de Controle
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
