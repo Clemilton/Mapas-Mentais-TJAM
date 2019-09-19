@@ -43,47 +43,93 @@
 <node COLOR="#0033ff" CREATED="1564589419737" ID="ID_76632718" MODIFIED="1564589479511" TEXT="&gt; A versatilidade do corpa da mensagem(tamanho vari&#xe1;vel)"/>
 <node COLOR="#0033ff" CREATED="1564589456345" ID="ID_1519787455" MODIFIED="1564589479512" TEXT="   permite a realiza&#xe7;&#xe3;o de testes MPU na rede"/>
 </node>
-<node CREATED="1564589167179" FOLDED="true" ID="ID_1592374506" MODIFIED="1564590878305" POSITION="right" TEXT="Cabe&#xe7;alhos ICMP">
+<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1564589167179" ID="ID_1592374506" MODIFIED="1568648316895" POSITION="right" TEXT="Cabe&#xe7;alhos ICMP">
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1564589201694" ID="ID_1341800030" MODIFIED="1568648316897" TEXT="Principais tipos de Mensagens ICMP">
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589645431" ID="ID_176629056" MODIFIED="1568648316898" TEXT="Echo Request(08)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1564589201694" ID="ID_1341800030" MODIFIED="1564590225236" TEXT="Principais tipos de Mensagens ICMP">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#0033ff" CREATED="1564589645431" ID="ID_176629056" MODIFIED="1564590230754" TEXT="Echo Request(08)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564589768623" ID="ID_1518120835" MODIFIED="1564590240196" TEXT="Faz uma requisi&#xe7;&#xe3;o p/ verificar se m&#xe1;quina est&#xe1; ativa na rede"/>
-</node>
-<node COLOR="#0033ff" CREATED="1564589657983" ID="ID_1728457825" MODIFIED="1564590230754" TEXT="Echo Reply (00)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564589792487" ID="ID_264201492" MODIFIED="1564590240196" TEXT="Resposta ao Echo Request"/>
-<node COLOR="#338800" CREATED="1564589825609" ID="ID_1710143030" MODIFIED="1564590240196" TEXT="Confirma que a m&#xe1;quina est&#xe1; ativa"/>
-</node>
-<node COLOR="#0033ff" CREATED="1564589660359" ID="ID_1284236866" MODIFIED="1564590230754" TEXT="Destination Unreachable (03)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564589874828" ID="ID_1168827312" MODIFIED="1564590240195" TEXT="&#xc9; utilizado quando a rede ou host de destino n&#xe3;o foi encontrado"/>
-</node>
-<node COLOR="#0033ff" CREATED="1564589666516" ID="ID_421058666" MODIFIED="1564590230753" TEXT="Source Quench (04)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564589947835" ID="ID_1588098155" MODIFIED="1564590240187" TEXT="Utilizado anteriormente quando o destinat&#xe1;rio necessitava que a origem diminu&#xed;sse o fluxo de pacotes."/>
-<node COLOR="#338800" CREATED="1564590087792" ID="ID_616969" MODIFIED="1564590240186" TEXT="Tem sido pouco utilizado"/>
-<node COLOR="#338800" CREATED="1564590101426" ID="ID_841456819" MODIFIED="1564590240186" TEXT="Pois esse trabalho j&#xe1; &#xe9; feito pela camada de Transporte"/>
-</node>
-<node COLOR="#0033ff" CREATED="1564589673198" ID="ID_104683147" MODIFIED="1564590230753" TEXT="Redirect (05)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564590125043" ID="ID_1124701733" MODIFIED="1564590240186" TEXT="Utilizado p/ informar que um pacote foi roteado de forma errada"/>
-</node>
-<node COLOR="#0033ff" CREATED="1564589677933" ID="ID_813832110" MODIFIED="1564590230753" TEXT="Time Exceeded(11)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564590153707" ID="ID_1395269455" MODIFIED="1564590240186" TEXT="Quando TTL -&gt; 0, o pacote &#xe9; descartado"/>
-<node COLOR="#338800" CREATED="1564590165707" ID="ID_15591385" MODIFIED="1564590240186" TEXT="Sintoma de LOOP na rede"/>
-</node>
-<node COLOR="#0033ff" CREATED="1564589691317" ID="ID_685858980" MODIFIED="1564590230752" TEXT="Parameter Problem(12)">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#338800" CREATED="1564590181203" ID="ID_60930219" MODIFIED="1564590240186" TEXT="Mensagem ICMP p/ informar ao emissor que -&gt;"/>
-<node COLOR="#338800" CREATED="1564590196469" ID="ID_1367691823" MODIFIED="1564590240185" TEXT="h&#xe1; um problema nos cabe&#xe7;alhos IP"/>
+<node COLOR="#338800" CREATED="1564589768623" ID="ID_1518120835" MODIFIED="1568648316901" TEXT="Faz uma requisi&#xe7;&#xe3;o p/ verificar se m&#xe1;quina est&#xe1; ativa na rede">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1564590255334" FOLDED="true" ID="ID_678415503" MODIFIED="1564590352779" TEXT="Imagem - Tipos ICMP">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589657983" ID="ID_1728457825" MODIFIED="1568648316902" TEXT="Echo Reply (00)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1564590264341" ID="ID_172137973" MODIFIED="1564590334544">
+<node COLOR="#338800" CREATED="1564589792487" ID="ID_264201492" MODIFIED="1568648316903" TEXT="Resposta ao Echo Request">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node COLOR="#338800" CREATED="1564589825609" ID="ID_1710143030" MODIFIED="1568648316903" TEXT="Confirma que a m&#xe1;quina est&#xe1; ativa">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589660359" ID="ID_1284236866" MODIFIED="1568648316904" TEXT="Destination Unreachable (03)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1564589874828" ID="ID_1168827312" MODIFIED="1568648316905" TEXT="&#xc9; utilizado quando a rede ou host de destino n&#xe3;o foi encontrado">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589666516" ID="ID_421058666" MODIFIED="1568648316906" TEXT="Source Quench (04)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1564589947835" ID="ID_1588098155" MODIFIED="1568648316911" TEXT="Utilizado anteriormente quando o destinat&#xe1;rio necessitava que a origem diminu&#xed;sse o fluxo de pacotes.">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node COLOR="#338800" CREATED="1564590087792" ID="ID_616969" MODIFIED="1568648316912" TEXT="Tem sido pouco utilizado">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node COLOR="#338800" CREATED="1564590101426" ID="ID_841456819" MODIFIED="1568648316913" TEXT="Pois esse trabalho j&#xe1; &#xe9; feito pela camada de Transporte">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589673198" ID="ID_104683147" MODIFIED="1568648316913" TEXT="Redirect (05)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1564590125043" ID="ID_1124701733" MODIFIED="1568648316914" TEXT="Utilizado p/ informar que um pacote foi roteado de forma errada">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589677933" ID="ID_813832110" MODIFIED="1568648316915" TEXT="Time Exceeded(11)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1564590153707" ID="ID_1395269455" MODIFIED="1568648316916" TEXT="Quando TTL -&gt; 0, o pacote &#xe9; descartado">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node COLOR="#338800" CREATED="1564590165707" ID="ID_15591385" MODIFIED="1568648316917" TEXT="Sintoma de LOOP na rede">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564589691317" ID="ID_685858980" MODIFIED="1568648316917" TEXT="Parameter Problem(12)">
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1564590181203" ID="ID_60930219" MODIFIED="1568648316918" TEXT="Mensagem ICMP p/ informar ao emissor que -&gt;">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node COLOR="#338800" CREATED="1564590196469" ID="ID_1367691823" MODIFIED="1568648316918" TEXT="h&#xe1; um problema nos cabe&#xe7;alhos IP">
+<edge STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1564590255334" ID="ID_678415503" MODIFIED="1568648321073" TEXT="Imagem - Tipos ICMP">
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564590264341" ID="ID_172137973" MODIFIED="1568648316920">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -92,10 +138,12 @@
     <img src="tipos_icmp.png" />
   </body>
 </html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 </node>
 </node>
-<node CREATED="1564590353569" ID="ID_1931790821" MODIFIED="1564590386202" TEXT="">
-<font NAME="SansSerif" SIZE="13"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1564590353569" ID="ID_1931790821" MODIFIED="1568648316922" TEXT="">
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
 </node>
 </node>
 <node CREATED="1564590428881" ID="ID_1990581085" MODIFIED="1564590433739" POSITION="left" TEXT="ICMP Header">

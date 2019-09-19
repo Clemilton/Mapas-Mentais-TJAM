@@ -24,7 +24,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565526022425" ID="ID_1019387459" MODIFIED="1565917859294" POSITION="right">
+<node CREATED="1565526022425" ID="ID_1019387459" MODIFIED="1568729140604" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -109,7 +109,7 @@
               <font size="2">acessibilidade; </font>
             </li>
             <li>
-              <font size="2" color="#16be17"><b>facilidade de opera&#231;&#227;o;</b>&#160;</font>
+              <font color="#16be17" size="2"><b>facilidade de opera&#231;&#227;o;</b>&#160;</font>
             </li>
             <li>
               <font size="2">reputa&#231;&#227;o;</font>
@@ -154,7 +154,7 @@
         </td>
         <td valign="top" style="width: 90%; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1; border-right-width: 1; border-bottom-width: 1; border-left-width: 1">
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
-            <font size="2" color="#0006ff"><b>&gt; Informa&#231;&#227;o --&gt; &#201; CONFI&#193;VEL --&gt; </b></font><b><font size="2" color="#ff0a00"><u>Verdadeira e Confi&#225;vel </u></font></b>
+            <font color="#0006ff" size="2"><b>&gt; Informa&#231;&#227;o --&gt; &#201; CONFI&#193;VEL --&gt; </b></font><b><font color="#ff0a00" size="2"><u>Verdadeira, Exatid&#227;o</u></font></b>
           </p>
           <p style="margin-top: 1; margin-right: 1; margin-bottom: 1; margin-left: 1">
             

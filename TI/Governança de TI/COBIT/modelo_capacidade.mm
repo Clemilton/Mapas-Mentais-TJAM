@@ -11,7 +11,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1565363134409" ID="ID_786550549" MODIFIED="1565451409380" POSITION="right" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565363134409" ID="ID_786550549" MODIFIED="1568731343945" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -192,8 +192,7 @@
       &gt; Os n&#237;veis de capacidade e seus atributos s&#227;o mostrados na figura ao<br />lado ---------------------------&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1565364298928" ID="ID_1333964722" MODIFIED="1565364360541">
 <richcontent TYPE="NODE"><html>
   <head>

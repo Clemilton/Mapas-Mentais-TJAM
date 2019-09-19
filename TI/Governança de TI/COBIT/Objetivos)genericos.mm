@@ -13,7 +13,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1565451992333" ID="ID_1049869886" MODIFIED="1565918048781" TEXT="Metas Gen&#xe9;ricas de Neg&#xf3;cio">
+<node CREATED="1565451992333" ID="ID_1049869886" MODIFIED="1568731252585" TEXT="Metas Gen&#xe9;ricas de Neg&#xf3;cio">
 <font BOLD="true" NAME="SansSerif" SIZE="13"/>
 <node CREATED="1565452072389" ID="ID_462771617" MODIFIED="1565452086214">
 <richcontent TYPE="NODE"><html>
@@ -57,7 +57,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1565452574437" FOLDED="true" ID="ID_1263741046" MODIFIED="1565453397753" STYLE="bubble">
+<node COLOR="#006699" CREATED="1565452574437" FOLDED="true" ID="ID_1263741046" MODIFIED="1568731238145" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     

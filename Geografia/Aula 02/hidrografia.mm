@@ -24,8 +24,7 @@
       &gt; A bacia hidrogr&#225;fica abarca Brasil, Peru, Col&#244;mbia, Equador,<br />Venezuela, Guiana, Suriname e Bol&#237;via;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565357824329" ID="ID_98127245" MODIFIED="1565358090227" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -49,8 +48,7 @@
       &gt; Afluentes do rio Amazonas, como o Madeira, o Xingu, o Tapaj&#243;s,<br />o Negro, o Trombetas e o Jari;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565358668171" ID="ID_185287648" MODIFIED="1565358705648" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -62,12 +60,11 @@
       &gt; O rio Amazonas recebe grande n&#250;mero de afluentes, que nascem, em<br />sua maioria, no planalto das Guianas e no planalto Central.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565358605036" ID="ID_426803037" MODIFIED="1565358623257" POSITION="right" TEXT="Principais Rios">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565358238575" FOLDED="true" ID="ID_277210903" MODIFIED="1565358854597" TEXT="Rio Amazonas">
+<node CREATED="1565358238575" ID="ID_277210903" MODIFIED="1568836978603" TEXT="Rio Amazonas">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565358269019" ID="ID_1967366403" MODIFIED="1565358572279">
 <richcontent TYPE="NODE"><html>
@@ -117,7 +114,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1565358855687" FOLDED="true" ID="ID_1219989144" MODIFIED="1565359117885" TEXT="Rio Solim&#xf5;es">
+<node CREATED="1565358855687" ID="ID_1219989144" MODIFIED="1568836961944" TEXT="Rio Solim&#xf5;es">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565358862100" ID="ID_829050544" MODIFIED="1565359113733">
 <richcontent TYPE="NODE"><html>
@@ -153,8 +150,7 @@
       &gt; Devido &#224;s diferen&#231;as entre as densidades, temperaturas e velocidade<br />do rio Negro e do rio Solim&#245;es, eles levam cerca de quase 6 km<br />para se misturarem
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565359128836" ID="ID_1706030826" MODIFIED="1565359134799">
@@ -167,8 +163,7 @@
       Rio Negro
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1565359203291" ID="ID_556262412" MODIFIED="1565359613733">
 <richcontent TYPE="NODE"><html>
@@ -204,8 +199,7 @@
       &gt; O rio Negro tem suas <u>&#225;guas muito escuras</u>&#160;<b><font color="#0002ff">devido &#224; decomposi&#231;&#227;o da<br color="#0002ff" />mat&#233;ria org&#226;nica vegetal </font></b>que cobre o solo das florestas e &#233; carregada<br />pelas inunda&#231;&#245;es;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565359118636" ID="ID_72042308" MODIFIED="1565359140939" TEXT="Rio Madeira">
@@ -259,8 +253,7 @@
       num raio de 900 quil&#244;metros.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565359144978" ID="ID_557681154" MODIFIED="1565359148621" TEXT="Rio Tapaj&#xf3;s">
@@ -287,8 +280,7 @@
       &gt; <b><font color="#ff0800">&#201; uma importante via de escoamento de produtos agr&#237;colas<br color="#ff0800" />mato-grossenses;</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565359148923" ID="ID_1645599743" MODIFIED="1565359155677" TEXT="Rio Purus">
@@ -328,8 +320,7 @@
       em v&#225;rios trechos.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1565359155990" ID="ID_1027595061" MODIFIED="1565359168151" TEXT="Rio Xingu">
@@ -352,8 +343,7 @@
   <body>
     <img src="hidrografia.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1565358772503" FOLDED="true" ID="ID_1420665200" MODIFIED="1565358853741" POSITION="right" TEXT="Imagem - Divis&#xe3;o em bacias menores;">
@@ -366,8 +356,7 @@
   <body>
     <img src="subbacias_am.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

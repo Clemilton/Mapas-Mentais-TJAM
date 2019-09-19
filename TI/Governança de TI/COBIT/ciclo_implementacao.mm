@@ -12,8 +12,7 @@
       &gt; O Ciclo de Vida da Implementa&#231;&#227;o do COBIT 5 apresenta uma forma<br />das organiza&#231;&#245;es usarem o COBIT para tratar da complexidade e os<br />desafios geralmente encontrados durante as implementa&#231;&#245;es
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565528311041" ID="ID_254653115" MODIFIED="1565528368243" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -36,100 +35,174 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1565528397817" ID="ID_1521324975" MODIFIED="1565528778643" POSITION="right" TEXT="&gt; Fases do Ciclo de Implenta&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1565528434469" ID="ID_955317817" MODIFIED="1565528508136">
+<node CREATED="1568732811857" ID="ID_309403124" MODIFIED="1568732820270">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>1&#186; -&#160;Reconhecimento e Aceita&#231;&#227;o da necessidade:</b>&#160;&#160;de uma<br />implementa&#231;&#227;o ou iniciativa de implementa&#231;&#227;o;
+      Fase 1: Iniciar o Programa
     </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1568732821001" ID="ID_111899318" MODIFIED="1568732842137">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      
+      Nesta fase &#233; identificado os pontos de dor atuais
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565528500997" ID="ID_452960414" MODIFIED="1565528549219">
+<node CREATED="1568732842480" ID="ID_1438234294" MODIFIED="1568732874363">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>2&#186; - Defini&#231;&#227;o do escopo</b>&#160;da implementa&#231;&#227;o ou da iniciativa de<br />implementa&#231;&#227;o usando o mapeamento dos objetivos corporativos do COBIT;
+      Inicia-se o desejo da necessidade de uma<br />implementa&#231;&#227;o ou melhoria
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565528551503" ID="ID_1823496514" MODIFIED="1565528574100">
+</node>
+<node CREATED="1568732892960" ID="ID_516149291" MODIFIED="1568732896960">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>3&#186; Fase - Meta de melhoria &#233; definida;</b>
+      Fase 2: Definir problemas e oportunidade
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1568732897330" ID="ID_1358950148" MODIFIED="1568732912912">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;Nesta fase &#233; avaliado o estado atual e identificados os<br />problemas ou defici&#234;ncias.
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565528575118" ID="ID_592701794" MODIFIED="1565528626984">
+<node CREATED="1568732913950" ID="ID_445469640" MODIFIED="1568732915606">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>4&#170; Fase &#8211; Planejamento</b>&#160;de solu&#231;&#245;es pr&#225;ticas atrav&#233;s da <b>defini&#231;&#227;o de<br />projetos</b>&#160;apoiados por estudos de casos justific&#225;vei;<br /><br />&gt; Plano de mudan&#231;a &#233; desenvolvido;
+      Defini&#231;&#227;o do escopo da iniciativa de implementa&#231;&#227;o ou melhoria.
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565528628582" ID="ID_1032444967" MODIFIED="1565528666864">
+</node>
+<node CREATED="1568732927590" ID="ID_636935814" MODIFIED="1568732934293">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>5&#170; Fase - Medi&#231;&#245;es</b>&#160;definidas e <b>monitoramento</b>&#160;estabelecido com o<br />uso das metas e indicadores do COBIT para garantir que o alinhamento<br />da organiza&#231;&#227;o seja atingido e mantido e o desempenho possa ser medido;
+      Fase 3: Definir o roteiro de implementa&#231;&#227;o.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1568732974680" ID="ID_926027111" MODIFIED="1568732989629">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Nesta fase &#233; dada prioridade &#224;s iniciativas que s&#227;o mais f&#225;ceis de<br />realizar e as que podem produzir maiores benef&#237;cios.
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565528776629" ID="ID_285360094" MODIFIED="1565528824069">
+</node>
+<node CREATED="1568732991552" ID="ID_935338760" MODIFIED="1568733001317">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>6&#186; Fase - Opera&#231;&#227;o sustent&#225;vel dos habilitadores</b>&#160;novos ou<br />aperfei&#231;oados e no monitoramento do atingimento dos benef&#237;cios<br />esperados;
+      Fase 4: Planejar o programa..
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1568733001778" ID="ID_311647908" MODIFIED="1568733007314">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Nesta fase &#233; planejado solu&#231;&#245;es pr&#225;ticas atrav&#233;s da defini&#231;&#227;o<br />de projetos e desenvolvido um plano de mudan&#231;a para execu&#231;&#227;o
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1565528825364" ID="ID_361749691" MODIFIED="1565528864367">
+</node>
+<node CREATED="1568733013471" ID="ID_1780935454" MODIFIED="1568733018554">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>7&#186; Fase &#8211; An&#225;lise</b>&#160;do sucesso da iniciativa e <b>identifica&#231;&#227;o de novos requisitos</b>&#160;para a governan&#231;a oi gest&#227;o de TI.
+      Fase 5: Executar o plano. Nesta fase &#233; implementada as solu&#231;&#245;es propostas. Atrav&#233;s de metas e m&#233;tricas do COBIT, o desempenho &#233; medido.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568733018556" ID="ID_1870685397" MODIFIED="1568733029947">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fase 6: Obter benef&#237;cios. Nesta fase &#233; monitorado a realiza&#231;&#227;o dos benef&#237;cios esperados.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568733029949" ID="ID_1482904134" MODIFIED="1568733029951">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fase 7: Revisar a efic&#225;cia. Nesta fase &#233; revisada a efic&#225;cia da iniciativa, dentre outras exig&#234;ncias para a governan&#231;a de TI.
     </p>
   </body>
 </html>
@@ -144,8 +217,7 @@
   <body>
     <img src="ciclo_implentacao.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

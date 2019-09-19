@@ -12,17 +12,18 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566664324959" FOLDED="true" ID="ID_1515527030" MODIFIED="1567348045071" POSITION="right">
+<node BACKGROUND_COLOR="#8181fd" COLOR="#fefefe" CREATED="1566664324959" FOLDED="true" ID="ID_1515527030" MODIFIED="1568735986367" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      CAP&#205;TULO I -<br />DA INFORMATIZA&#199;&#195;O DO PROCESSO JUDICIAL
+      CAP&#205;TULO I<br />DA INFORMATIZA&#199;&#195;O DO<br />PROCESSO JUDICIAL
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564965245842" ID="ID_200718220" MODIFIED="1566664706784" STYLE="bubble">
@@ -81,7 +82,7 @@
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564964518534" ID="ID_1858241345" MODIFIED="1566664562666" STYLE="bubble">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564964518534" ID="ID_1858241345" MODIFIED="1568735781427" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -94,14 +95,15 @@
       
     </p>
     <p>
-      &gt; Qualquer<font color="#ff0000">&#160;<b>forma de armazenamento ou tr&#225;fego</b></font>&#160;de documentos e arquivos digitais;
+      &gt; Qualquer<font color="#ff0000">&#160;<b>forma de armazenamento ou tr&#225;fego</b></font>&#160;<br />de documentos e arquivos digitais;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564964535590" HGAP="19" ID="ID_1821615267" MODIFIED="1566664562669" STYLE="bubble" VSHIFT="16">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564964535590" HGAP="19" ID="ID_1821615267" MODIFIED="1568735805776" STYLE="bubble" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -114,7 +116,7 @@
       
     </p>
     <p>
-      &gt; Toda forma de<font color="#ff0000">&#160;<b>comunica&#231;&#227;o a dist&#226;ncia</b></font>&#160;com a utiliza&#231;&#227;o de redes de comunica&#231;&#227;o, <u>preferencialmente</u>*&#160; a rede mundial de computadores;
+      &gt; Toda forma de<font color="#ff0000">&#160;<b>comunica&#231;&#227;o a dist&#226;ncia</b></font>&#160;com a utiliza&#231;&#227;o<br />de redes de comunica&#231;&#227;o, <u>preferencialmente</u>*&#160;&#160;a rede<br />mundial de computadores;
     </p>
     <p>
       
@@ -123,7 +125,8 @@
       <font color="#a92db2" size="2">*A comunica&#231;&#227;o pode ocorrer em uma rede interna do tribunal, caso n&#227;o esteja dispon&#237;vel a internet</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -142,7 +145,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564964548788" ID="ID_1674293737" MODIFIED="1566664562678" STYLE="bubble" VSHIFT="21">
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1564964548788" ID="ID_1674293737" MODIFIED="1568735840057" STYLE="bubble" VSHIFT="21">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -159,17 +162,18 @@
     </p>
     <ul>
       <li>
-        Assinatura digital baseado em certificado digital emitido por Autoridade Certificadora credenciada;
+        Assinatura digital baseado em certificado<br />digital emitido por Autoridade Certificadora<br />credenciada;
       </li>
       <li>
-        Mediante cadastro de usu&#225;rio no Poder Judici&#225;rio(presencialmente), conforme disciplinado pelos &#243;rg&#227;os respectivos;
+        Mediante cadastro de usu&#225;rio no Poder<br />Judici&#225;rio(presencialmente), conforme discipli-<br />nado pelos &#243;rg&#227;os respectivos;
       </li>
     </ul>
     <p>
       <font color="#a92db2" size="2">*Obs: Garante a autoria e Integridade(identifica&#231;&#227;o de documento alterado) do documento assinado</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -321,7 +325,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1564964745772" FOLDED="true" ID="ID_1500942632" MODIFIED="1567348229876" POSITION="right">
+<node BACKGROUND_COLOR="#0ea001" COLOR="#fefefe" CREATED="1564964745772" ID="ID_1500942632" MODIFIED="1568735988095" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -817,7 +821,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffff00" COLOR="#343434" CREATED="1566665764517" FOLDED="true" ID="ID_1032944064" MODIFIED="1567348363616" POSITION="right">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#343434" CREATED="1566665764517" ID="ID_1032944064" MODIFIED="1568736242649" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -876,7 +880,7 @@
 </html></richcontent>
 <edge COLOR="#ffff00" STYLE="linear" WIDTH="2"/>
 </node>
-<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1565804492138" FOLDED="true" ID="ID_947276834" MODIFIED="1566665857935">
+<node BACKGROUND_COLOR="#fefeb9" COLOR="#535353" CREATED="1565804492138" ID="ID_947276834" MODIFIED="1568736666022">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1083,7 +1087,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="2"/>
-<node COLOR="#990099" CREATED="1565923290478" ID="ID_1220520666" MODIFIED="1566665918026" STYLE="bubble">
+<node COLOR="#990099" CREATED="1565923290478" ID="ID_1220520666" MODIFIED="1568736753711" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1128,10 +1132,11 @@
       
     </p>
     <p>
-      &gt; ressalvada a alega&#231;&#227;o motivada e fundamentada de <b><u><font color="#ff0000">adultera&#231;&#227;o</font></u></b>&#160; antes ou durante o processo de digitaliza&#231;&#227;o.
+      &gt; <b>ressalvada</b>&#160;a alega&#231;&#227;o motivada e fundamentada de <b><u><font color="#ff0000">adultera&#231;&#227;o</font></u></b><br />&#160;antes ou durante o processo de digitaliza&#231;&#227;o.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1195,7 +1200,7 @@
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node COLOR="#990099" CREATED="1565923957560" FOLDED="true" ID="ID_1268145145" MODIFIED="1566666013759" STYLE="bubble">
+<node COLOR="#990099" CREATED="1565923957560" ID="ID_1268145145" MODIFIED="1568736772508" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1798,7 +1803,6 @@
 </node>
 </node>
 </node>
-<node CREATED="1566667311705" ID="ID_1434269275" MODIFIED="1566667311705" TEXT=""/>
 </node>
 <node CREATED="1566671829048" ID="ID_949565589" MODIFIED="1566672102077">
 <richcontent TYPE="NODE"><html>
@@ -1825,7 +1829,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564964785775" ID="ID_969475665" MODIFIED="1564970208607" POSITION="right">
+<node CREATED="1564964785775" ID="ID_969475665" MODIFIED="1568734587489" POSITION="left" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1838,7 +1842,323 @@
       <span style="font-size: 10pt; font-family: Arial; text-transform: uppercase"><font size="10pt" face="Arial">DISPOSI&#199;&#213;ES GERAIS E FINAIS</font></span>
     </p>
   </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1568734509129" ID="ID_17787341" MODIFIED="1568734587462" STYLE="bubble" TEXT="">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#9b01c1" COLOR="#fefefe" CREATED="1568734589665" ID="ID_1685408904" MODIFIED="1568734608785" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      CAP&#205;TULO IV
+    </p>
+    <p style="text-align: center">
+      DISPOSI&#199;&#213;ES GERAIS E FINAIS
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#969696" WIDTH="2"/>
+<font BOLD="true" NAME="Roboto" SIZE="16"/>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1568734196269" ID="ID_799824428" MODIFIED="1568734620336">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Caracter&#237;sticas dos Sistemas
+    </p>
+    <p style="text-align: center">
+      desen. pelo Poder Jud.
+    </p>
+  </body>
 </html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568734267452" ID="ID_1170284363" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      preferencialmente programas
+    </p>
+    <p>
+      com c&#243;digo aberto
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568734297463" ID="ID_66010092" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      acess&#237;veis ininterruptamente
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568734314321" ID="ID_342381837" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      priorizando a padroniza&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+</node>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568734402842" ID="ID_1248109414" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      buscar identificar os casos
+    </p>
+    <p style="text-align: center">
+      de ocorr&#234;ncia:
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568734413444" ID="ID_717009558" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      de preven&#231;&#227;o
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568734439417" ID="ID_1739287722" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      litispend&#234;ncia
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568734449023" ID="ID_1426360229" MODIFIED="1568734615372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      e coisa julgada
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#9b01c1" CREATED="1568734627389" ID="ID_965074137" MODIFIED="1568734863439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A parte dever&#225; informar
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1568734639232" ID="ID_691371994" MODIFIED="1568734863440">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ao distribuir peti&#231;&#227;o inicial de qualquer
+    </p>
+    <p>
+      a&#231;&#227;o judicial
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#b000ff" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568734741011" ID="ID_175538386" MODIFIED="1568734863442">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      n&#250;mero de cadastro de pessoas f&#237;sicas
+    </p>
+    <p>
+      ou jur&#237;dicas
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568734788215" ID="ID_1932865229" MODIFIED="1568734863443">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      perante a Receita Federal
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568734814255" ID="ID_1690904759" MODIFIED="1568734879439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Salvo impossibilidade de acesso &#224; justi&#231;a
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#ff0a00" STYLE="linear" WIDTH="1"/>
+<font BOLD="true" NAME="SansSerif" SIZE="10"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1568734901942" ID="ID_1928231162" MODIFIED="1568735010650">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Pe&#231;as de acusa&#231;&#227;o criminais
+    </p>
+    <p style="text-align: center">
+      dever&#227;o ser instru&#237;das
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="2"/>
+<node CREATED="1568734920919" ID="ID_1691322168" MODIFIED="1568735010651">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      por membros do MP; ou
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568734929848" ID="ID_1398339427" MODIFIED="1568735010652">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pelas autoridades Policiais
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1568734968731" ID="ID_332790615" MODIFIED="1568735022663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      com os n&#250;meros de registro dos acusados no
+    </p>
+    <p style="text-align: center">
+      <b>Instituto Nacional de Identifica&#231;&#227;o </b><br /><b>do Minist&#233;rio da Justi&#231;a</b>
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#4646ff" CREATED="1568735053119" ID="ID_304735482" MODIFIED="1568735105023">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Livros Cartorat&#243;rios e
+    </p>
+    <p>
+      demais reposit&#243;rios
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#cacafd" COLOR="#535353" CREATED="1568735073847" ID="ID_1555594173" MODIFIED="1568735105025">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      poder&#227;o ser gerados e armazenados em
+    </p>
+    <p style="text-align: center">
+      meio totalmente eletr&#244;nico
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="2"/>
+</node>
+</node>
 </node>
 </node>
 </map>

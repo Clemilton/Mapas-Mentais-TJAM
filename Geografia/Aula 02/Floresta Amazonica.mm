@@ -5,7 +5,7 @@
 <node CREATED="1564342266031" ID="ID_1188741026" MODIFIED="1564766166872" POSITION="right" TEXT="Tamb&#xe9;m conhecida como Floresta Equatorial">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1564342303885" FOLDED="true" ID="ID_300921861" MODIFIED="1565102832545" POSITION="right" TEXT="Forma&#xe7;&#xe3;o Florestal">
+<node CREATED="1564342303885" ID="ID_300921861" MODIFIED="1568831693519" POSITION="right" TEXT="Forma&#xe7;&#xe3;o Florestal">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564342318316" ID="ID_914444384" MODIFIED="1564766200245" TEXT="Floresta Ombr&#xf3;fila">
 <node COLOR="#006699" CREATED="1564342353945" ID="ID_947504156" MODIFIED="1565102804002" TEXT="Densa">
@@ -13,7 +13,7 @@
 <node COLOR="#338800" CREATED="1564342607865" ID="ID_495373563" MODIFIED="1564766287489" TEXT="Poucos espa&#xe7;adas entre si"/>
 <node COLOR="#338800" CREATED="1564342619681" ID="ID_873641248" MODIFIED="1564766287489" TEXT="S&#xe3;o Mais altas"/>
 </node>
-<node COLOR="#006699" CREATED="1564342357142" FOLDED="true" ID="ID_838880123" MODIFIED="1565102817642" TEXT="Aberta">
+<node COLOR="#006699" CREATED="1564342357142" FOLDED="true" ID="ID_838880123" MODIFIED="1568831698658" TEXT="Aberta">
 <node COLOR="#338800" CREATED="1564342636766" FOLDED="true" ID="ID_1720676938" MODIFIED="1565102810166" TEXT="Ocorre nas &#xe1;reas de transi&#xe7;&#xe3;o entre ">
 <node COLOR="#cc6600" CREATED="1564342692706" ID="ID_1518587026" MODIFIED="1564766290682" TEXT="as floresta ombr&#xf3;filas densas"/>
 <node COLOR="#cc6600" CREATED="1564342694344" ID="ID_814333957" MODIFIED="1564766292427" TEXT="&#xe1;reas extra-amaz&#xf4;nicas."/>
@@ -22,7 +22,7 @@
 <node COLOR="#338800" CREATED="1564342740944" ID="ID_1193652594" MODIFIED="1564766287488" TEXT="Mais espa&#xe7;adas entre si"/>
 <node COLOR="#338800" CREATED="1564342782847" ID="ID_1212326395" MODIFIED="1564766287488" TEXT="Clima mais seco que Floresta Ombr&#xf3;fila Densa"/>
 </node>
-<node COLOR="#006699" CREATED="1564342488589" FOLDED="true" ID="ID_879192868" MODIFIED="1565102819240" TEXT="Mista">
+<node COLOR="#006699" CREATED="1564342488589" FOLDED="true" ID="ID_879192868" MODIFIED="1568831700230" TEXT="Mista">
 <node COLOR="#338800" CREATED="1564342757811" ID="ID_1813027323" MODIFIED="1564766287488" TEXT="Possui caracter&#xed;sticas dos dois"/>
 </node>
 </node>
@@ -68,8 +68,7 @@
       &gt; Ex: Castanheira do Par&#225; e Cedro
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1564342847717" HGAP="23" ID="ID_1966241011" MODIFIED="1565103179442" STYLE="bubble" VSHIFT="23">
 <richcontent TYPE="NODE"><html>
@@ -96,8 +95,7 @@
       &gt; Ex Pau-Mulato e Seringueira;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1564342856643" HGAP="21" ID="ID_1689616088" MODIFIED="1565103179445" STYLE="bubble" VSHIFT="31">
 <richcontent TYPE="NODE"><html>
@@ -127,8 +125,7 @@
       &gt; Ex: Palmeiras, Plantas Aqu&#225;ticas(Vit&#243;ria R&#233;gia);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1564343313565" ID="ID_627720995" MODIFIED="1564766166870" POSITION="right" TEXT="Solo Pobre -&gt; Contendo apenas uma camada de nutrientes">

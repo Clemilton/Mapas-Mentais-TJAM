@@ -51,7 +51,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1564768989223" FOLDED="true" ID="ID_1560504905" MODIFIED="1568232818854" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o dos munic&#xed;pios em Microregi&#xf5;es">
+<node CREATED="1564768989223" FOLDED="true" ID="ID_1560504905" MODIFIED="1568829249379" POSITION="right" TEXT="Distribui&#xe7;&#xe3;o dos munic&#xed;pios em Microregi&#xf5;es">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#0033ff" CREATED="1564769140434" ID="ID_1280975935" MODIFIED="1564769608884" TEXT="A divis&#xe3;o do Brasil em mesorregi&#xf5;es e microrregi&#xf5;es&#xa; foi adotada pelo IBGE entre 1989 e 2017."/>
 <node COLOR="#0033ff" CREATED="1564769838386" ID="ID_822078799" MODIFIED="1564770168524" TEXT="Essas duas divis&#xf5;es facilitam o levantamento de dados -&gt; Ex: CENSO"/>
@@ -375,8 +375,7 @@
       5 Estados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568232868160" ID="ID_1167533865" MODIFIED="1568232877124">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -387,8 +386,7 @@
       Roraima
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568232877874" ID="ID_86015889" MODIFIED="1568232879790">
 <richcontent TYPE="NODE"><html>
@@ -400,8 +398,7 @@
       Par&#225;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568232880364" ID="ID_415084311" MODIFIED="1568232884957">
 <richcontent TYPE="NODE"><html>
@@ -413,8 +410,7 @@
       Mato Grosso
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568232885805" ID="ID_1450382044" MODIFIED="1568232889225">
 <richcontent TYPE="NODE"><html>
@@ -426,8 +422,7 @@
       Rond&#244;nia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568232889971" ID="ID_262967716" MODIFIED="1568232891614">
 <richcontent TYPE="NODE"><html>
@@ -439,14 +434,13 @@
       Acre
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1568232915923" ID="ID_517308739" MODIFIED="1568232915923" TEXT=""/>
 <node CREATED="1568232853543" ID="ID_1431326593" MODIFIED="1568232853543" TEXT=""/>
 </node>
-<node CREATED="1564342065888" FOLDED="true" ID="ID_709900536" MODIFIED="1565357136772" POSITION="left" TEXT="Vegeta&#xe7;&#xe3;o">
+<node CREATED="1564342065888" ID="ID_709900536" MODIFIED="1568829257684" POSITION="left" TEXT="Vegeta&#xe7;&#xe3;o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1564342217980" ID="ID_1179500413" LINK="Floresta%20Amazonica.mm" MODIFIED="1564342245859" TEXT="Floresta Amaz&#xf4;nica (predominante)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
